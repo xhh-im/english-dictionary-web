@@ -1,43 +1,50 @@
 {
   "word": "aero",
-  "pronunciation": "e·roh",
-  "concise_definition": "n. 空气的, 航空的; 前缀: 空气, 航空",
+  "pronunciation": "ey·roh",
+  "concise_definition": "n. 空气的, 航空的; 前缀, 表示与空气、航空或飞行有关",
   "forms": {
     "derived_forms": [
-      "aerodynamic",
+      "aerodynamics",
       "aerospace",
-      "aerobics",
+      "aerobic",
       "aeroplane"
     ]
   },
   "definitions": [
     {
       "pos": "prefix",
-      "explanation_en": "A prefix derived from Greek 'aēr' meaning 'air', used in compound words to denote relation to air, atmosphere, or aviation.",
-      "explanation_cn": "源自希腊语 'aēr'（空气）的前缀，用于构成复合词，表示与空气、大气或航空相关的含义。",
-      "example_en": "Aerodynamics is the study of how air moves around objects.",
-      "example_cn": "空气动力学是研究空气如何围绕物体运动的学科。"
+      "explanation_en": "A prefix derived from Greek 'aēr' meaning 'air', used to form compound words relating to air, aviation, or flight.",
+      "explanation_cn": "源自希腊语 'aēr'（意为‘空气’）的前缀，用于构成与空气、航空或飞行相关的复合词。",
+      "example_en": "Aerodynamics is the study of how air moves around objects in motion.",
+      "example_cn": "空气动力学是研究空气如何围绕运动物体流动的学科。"
     },
     {
-      "pos": "noun",
-      "explanation_en": "A shortened form of 'aeroplane' or 'aerospace', commonly used in informal contexts or brand names to imply aviation or flight-related technology.",
-      "explanation_cn": "‘aeroplane’（飞机）或‘aerospace’（航空航天）的缩略形式，常用于非正式语境或品牌名称中，暗示与航空或飞行技术相关。",
-      "example_en": "The new aero bike has a sleek design for reduced wind resistance.",
-      "example_cn": "这款新型气动自行车采用流线型设计，以减少风阻。"
+      "pos": "prefix",
+      "explanation_en": "Used in technical and scientific terminology to denote association with the atmosphere or airborne systems, especially in engineering and transportation contexts.",
+      "explanation_cn": "用于科技术语中，表示与大气层或空中系统相关，尤其在工程和交通领域。",
+      "example_en": "The aerospace industry combines aviation and space exploration technologies.",
+      "example_cn": "航空航天工业融合了航空与航天探索技术。"
+    },
+    {
+      "pos": "noun (informal)",
+      "explanation_en": "An informal short form of 'aeroplane' (British English) or 'airplane' (American English), used in casual speech or historical contexts.",
+      "explanation_cn": "‘aeroplane’（英式英语）或‘airplane’（美式英语）的非正式缩略形式，常用于口语或历史语境中。",
+      "example_en": "He was fascinated by early aero designs from the 1920s.",
+      "example_cn": "他对20世纪20年代早期的飞行器设计着迷。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "aviation",
-      "analysis": "‘Aviation’（航空）是一个完整名词，指飞行活动、航空工业或飞行器的总体领域，涵盖飞行员、机场、空管等系统。而 ‘aero’ 作为前缀或缩略词，仅作为构词成分或口语化简称，不具备独立指代整个领域的功能。"
+      "analysis": "“Aviation”（航空）是一个名词，指飞行活动、航空工业或飞行技术的整体领域，强调的是行业或行为本身。而 “aero” 是一个前缀或非正式名词，仅作为构词成分或口语缩略，不具备独立指代整个领域的功能。"
     },
     {
-      "word_to_compare": "atmo",
-      "analysis": "‘Atmo’ 是 ‘atmosphere’（大气）的非正式缩写，侧重于地球周围的气体层本身，常用于环境科学或气象语境。而 ‘aero’ 强调空气的运动、流动或与飞行相关的特性，更偏向工程与动力学层面。"
+      "word_to_compare": "atmospheric",
+      "analysis": "“Atmospheric”（大气的）描述的是与地球大气层相关的物理或化学特性，如大气压力、湿度等，侧重于自然环境。而 “aero” 通常用于人造系统（如飞行器、空气动力学），强调技术性与功能性，而非自然现象。"
     },
     {
-      "word_to_compare": "aerial",
-      "analysis": "‘Aerial’（空中的）作为形容词，强调‘位于空中’或‘从空中观察’，如 aerial view（航拍视角）或 aerial cable（架空电缆）。它描述的是位置或视角，而 ‘aero’ 更强调与空气动力学或航空技术相关的属性。"
+      "word_to_compare": "fly",
+      "analysis": "“Fly”（飞行）是一个通用动词，描述物体在空中移动的行为，适用于鸟类、飞机、昆虫等。而 “aero” 不是动词，也不描述动作，它仅作为词根或前缀，用于构建与空气动力或航空相关的术语。"
     }
   ]
 }

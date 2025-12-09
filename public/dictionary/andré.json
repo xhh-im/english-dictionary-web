@@ -1,7 +1,7 @@
 {
   "word": "andré",
   "pronunciation": "ahn·dray",
-  "concise_definition": "n. 人名：安德烈（法语男性名）",
+  "concise_definition": "n. 人名，安德烈（男性名）",
   "forms": {
     "variant_spellings": [
       "Andre",
@@ -11,31 +11,31 @@
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A masculine given name of French origin, derived from the Greek name Andreas, meaning 'manly' or 'brave'. Commonly used in French-speaking countries and among communities with French cultural influence.",
-      "explanation_cn": "源自希腊语 Andreas 的法语男性名，意为‘有男子气概的’或‘勇敢的’。广泛用于法语国家及受法语文化影响的社群。",
-      "example_en": "André Agassi was one of the most charismatic tennis players of the 1990s.",
-      "example_cn": "安德烈·阿加西是20世纪90年代最具魅力的网球运动员之一。"
+      "explanation_en": "A masculine given name of French origin, derived from the Greek name Andreas, meaning 'manly' or 'brave'. Commonly used in French-, Portuguese-, and Spanish-speaking countries.",
+      "explanation_cn": "源自希腊语 Andreas 的法语男性名，意为‘有男子气概的’或‘勇敢的’，在法语、葡萄牙语和西班牙语国家中广泛使用。",
+      "example_en": "André Agassi was one of the greatest tennis players of the 1990s.",
+      "example_cn": "安德烈·阿加西是 1990 年代最伟大的网球运动员之一。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A surname used in various cultures, often indicating French, Portuguese, or Brazilian heritage. In some contexts, it may refer to notable individuals bearing the name.",
-      "explanation_cn": "作为姓氏，常见于多种文化中，通常表明具有法国、葡萄牙或巴西血统。在某些语境下，可指代姓氏为安德烈的知名人物。",
-      "example_en": "The artist André Breton was a leading figure in the Surrealist movement.",
-      "example_cn": "艺术家安德烈·布勒东是超现实主义运动的领军人物。"
+      "explanation_en": "A surname used in various cultures, often indicating French or Portuguese heritage. Notable bearers include artists, scientists, and public figures.",
+      "explanation_cn": "作为姓氏在多种文化中使用，常表明具有法国或葡萄牙血统。著名人物包括艺术家、科学家和公众人物。",
+      "example_en": "The painter André Derain was a key figure in the Fauvist movement.",
+      "example_cn": "画家安德烈·德兰是野兽派运动的关键人物。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "Andrew",
-      "analysis": "“Andrew” 是 “André” 的英语形式，两者同源，均源自希腊语 Andreas。但 “Andrew” 在英语国家更常见，发音为 /ˈændruː/，而 “André” 保留法语发音 /ɑ̃.dʁe/，带有更明显的文化标识，常用于艺术、时尚或法语语境中，更具异域感。"
+      "analysis": "“Andrew” 是 “André” 的英语形式，两者同源，均来自希腊语 Andreas。但 “Andrew” 在英语国家更常见，发音为 /ˈændruː/，而 “André” 保留法语发音 /ɑ̃.dʁe/，常用于强调文化背景或艺术气质。"
     },
     {
       "word_to_compare": "Andreas",
-      "analysis": "“Andreas” 是希腊语原形，多用于德语、希腊语和北欧国家，拼写和发音更接近原始语言。相比之下，“André” 经过法语化后，更强调优雅与文化精致感，常用于人名而非正式文献中的词源分析。"
+      "analysis": "“Andreas” 是希腊语原形，多用于学术、宗教或古典语境中，如神学家或历史人物。而 “André” 是其在罗曼语族中的演变形式，更常用于现代人名，带有更鲜明的地域文化色彩。"
     },
     {
       "word_to_compare": "Anthony",
-      "analysis": "“Anthony” 源自拉丁语 Antonius，与 “André” 在语义和词源上无关联，尽管两者均为常见男性名。区别在于，“André” 强调勇敢与男子气概，而 “Anthony” 传统上与‘价值’或‘无价之宝’相关，且在英语世界使用频率更高，文化联想更偏向传统与宗教背景。"
+      "analysis": "“Anthony” 虽同为男性常用名，但其词源来自拉丁语 Antonius，与 “André” 无直接关联。两者在语义和文化背景上完全不同：前者意为‘无价的’或‘值得称赞的’，后者强调‘勇敢’与‘男子气概’。"
     }
   ]
 }

@@ -3,40 +3,36 @@
   "pronunciation": "el-em-ay-oh",
   "concise_definition": "interj. 哈哈, 笑死我了, 太好笑了",
   "forms": {
-    "variants": [
-      "lmfao",
-      "rofl",
-      "lol"
-    ]
+    "expanded_form": "laughing my ass off"
   },
   "definitions": [
     {
       "pos": "interjection",
       "explanation_en": "An informal internet slang expression used to convey intense laughter or amusement, often in response to something funny, absurd, or unexpectedly hilarious.",
-      "explanation_cn": "一种非正式的网络俚语，用于表达强烈的笑声或愉悦感，通常是对某件有趣、荒谬或意外好笑的事情的反应。",
-      "example_en": "I just saw a cat try to jump on a shelf and fall sideways—lmao!",
-      "example_cn": "我刚看到一只猫试图跳上架子却 sideways 倒下——笑死我了！"
+      "explanation_cn": "一种非正式的网络俚语，用于表达强烈的笑声或愉悦感，通常用于回应某件有趣、荒谬或出人意料地好笑的事情。",
+      "example_en": "LMAO that cat just jumped through a hoop like a circus performer!",
+      "example_cn": "笑死我了，那只猫刚刚像马戏团演员一样跳过了呼啦圈！"
     },
     {
       "pos": "interjection",
-      "explanation_en": "Used rhetorically to signal shared humor or to soften the tone of a sarcastic or ironic statement, even when not literally laughing.",
-      "explanation_cn": "用于修辞上表示共鸣的幽默感，或缓和讽刺、反语语气，即使说话者并未真正大笑。",
-      "example_en": "You wore socks with sandals again? lmao, I respect the confidence.",
-      "example_cn": "你又穿袜子配凉鞋？笑死，我佩服你的自信。"
+      "explanation_en": "Used sarcastically or ironically to downplay a situation that is not actually funny, often to express disbelief or mock exaggeration.",
+      "explanation_cn": "有时用于讽刺或反语，表面上说‘笑死我了’，实则表达对某事的不以为然、难以置信或故意夸张。",
+      "example_en": "LMAO you actually thought that was a good idea? 🤡",
+      "example_cn": "笑死我了，你真觉得这是个好主意？🤡"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "lol",
-      "analysis": "“lol”（laugh out loud）是更早、更通用的网络笑声表达，语气较轻，可用于轻微好笑或礼貌性回应。而 “lmao”（laughing my ass off）语气更强烈、更口语化，强调大笑到失控的程度，情感浓度更高，常用于更荒诞或爆笑的情境。"
+      "analysis": "“lol” (laughing out loud) 是更早、更通用的网络笑声表达，语气较轻，常用于轻微好笑或礼貌性回应。而 “lmao” 程度更强，带有更强烈的情绪和身体反应（笑到失控），多用于极度搞笑的场景，语气更随意、更口语化。"
     },
     {
       "word_to_compare": "rofl",
-      "analysis": "“rofl”（rolling on the floor laughing）与 “lmao” 意义相近，都表示极度大笑，但 “rofl” 更具画面感，强调身体反应（在地上打滚），而 “lmao” 更侧重情绪释放，使用频率更高，更贴近当代网络语境。"
+      "analysis": "“rofl” (rolling on the floor laughing) 与 “lmao” 意思接近，都表示大笑到失控，但 “rofl” 更强调动作（在地上打滚），视觉感更强，语气略显夸张或戏剧化。而 “lmao” 更侧重于情绪释放，使用频率更高，更贴近当代网络语境。"
     },
     {
       "word_to_compare": "haha",
-      "analysis": "“haha” 是书面化、自然的笑声拟声词，语气中性、温和，适合正式或半正式语境。而 “lmao” 是高度非正式的网络俚语，带有强烈的情绪色彩和亚文化属性，不适合学术或商务场景。"
+      "analysis": "“haha” 是最基础、最中性的笑声拟声词，适用于书面和口语，语气温和、无强烈情绪色彩。而 “lmao” 是高度口语化、网络化的表达，带有强烈的情感色彩和文化语境，不适合正式场合。"
     }
   ]
 }

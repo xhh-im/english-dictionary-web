@@ -1,42 +1,38 @@
 {
   "word": "khalid",
-  "pronunciation": "kə-ˈlid",
+  "pronunciation": "kə·ˈliːd",
   "concise_definition": "n. 卡里德（阿拉伯语人名，意为“永恒的”）",
   "forms": {
-    "variant_spellings": [
-      "Khalid",
-      "Khaled",
-      "Khaleed"
-    ]
+    "plural": "khalids"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A masculine given name of Arabic origin, meaning 'eternal' or 'immortal', commonly used across the Muslim world and among Arabic-speaking communities.",
-      "explanation_cn": "源自阿拉伯语的男性名字，意为“永恒的”或“不朽的”，广泛用于穆斯林世界及阿拉伯语社群。",
-      "example_en": "Khalid ibn al-Walid was a renowned general in early Islamic history.",
-      "example_cn": "哈立德·伊本·瓦利德是早期伊斯兰历史上的著名将领。"
+      "explanation_en": "A male given name of Arabic origin, meaning 'eternal' or 'immortal', commonly used in Muslim communities across the Middle East and North Africa.",
+      "explanation_cn": "源自阿拉伯语的男性名字，意为“永恒的”或“不朽的”，在中东和北非的穆斯林社群中广泛使用。",
+      "example_en": "Khalid ibn al-Walid was one of the most successful military commanders in Islamic history.",
+      "example_cn": "哈立德·伊本·瓦利德是伊斯兰历史上最成功的军事统帅之一。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A modern personal name adopted by individuals in various cultures, often associated with public figures such as the American singer Khalid (born Khalid Robinson).",
-      "explanation_cn": "现代被不同文化中的人士采用的个人姓名，常与公众人物相关联，例如美国歌手卡里德（本名 Khalid Robinson）。",
-      "example_en": "Khalid won a Grammy for his soulful R&B album 'Free Spirit'.",
-      "example_cn": "卡里德凭借其深情的R&B专辑《Free Spirit》赢得了格莱美奖。"
+      "explanation_en": "A modern personal name adopted by individuals in Western countries, often due to cultural appreciation or heritage, such as the American singer Khalid.",
+      "explanation_cn": "在西方国家中，一些人因文化认同或家族传承而采用此名作为个人姓名，例如美国歌手卡里德。",
+      "example_en": "Khalid, the R&B singer, won a Grammy for his debut album 'American Teen'.",
+      "example_cn": "R&B歌手卡里德凭借其首张专辑《美国少年》赢得了格莱美奖。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "khalifa",
-      "analysis": "“Khalifa”（哈里发）是阿拉伯语中指伊斯兰教政教领袖的头衔，意为“继任者”或“代理人”，与“Khalid”在词源上同根（均源自阿拉伯语词根 k-h-l-d），但语义完全不同：前者是职位，后者是人名。"
+      "analysis": "“Khalifa”（哈里发）是阿拉伯语中指伊斯兰教政教领袖的头衔，意为“继任者”或“代理人”，与“Khalid”作为人名有本质区别。前者是职位，后者是个人名称，虽同源但语义和用法完全不同。"
     },
     {
-      "word_to_compare": "khalidah",
-      "analysis": "“Khalidah”是“Khalid”的阴性形式，意为“永恒的女性”，在阿拉伯语中作为女性名字使用。两者共享词根和语义核心（永恒），但性别和用法不同，属于同源词的性别变体。"
+      "word_to_compare": "khalil",
+      "analysis": "“Khalil”（哈利勒）是另一个阿拉伯语人名，意为“挚友”或“密友”，常与先知易卜拉欣（亚伯拉罕）相关联。与“Khalid”（永恒的）相比，两者虽同为常见阿拉伯名字，但含义和文化象征不同，不可互换。"
     },
     {
-      "word_to_compare": "abid",
-      "analysis": "“Abid”（阿比德）是另一个阿拉伯语男性名字，意为“崇拜者”或“仆人”，常用于宗教语境中。与“Khalid”相比，它强调的是人与神的关系，而“Khalid”强调的是永恒性，二者在文化内涵和语义焦点上存在明显差异。"
+      "word_to_compare": "ali",
+      "analysis": "“Ali”（阿里）是另一个广泛使用的阿拉伯语男性名字，意为“崇高”或“卓越”，在伊斯兰文化中具有极高的宗教地位（如第四任哈里发阿里）。与“Khalid”相比，“Ali”更常与宗教权威和历史人物直接关联，而“Khalid”则更多与军事成就或现代流行文化相关。"
     }
   ]
 }

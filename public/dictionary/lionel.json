@@ -1,42 +1,38 @@
 {
   "word": "lionel",
   "pronunciation": "lahy·uh·nel",
-  "concise_definition": "n. 莱昂内尔（人名）",
+  "concise_definition": "n. 人名，莱昂内尔（姓氏或名字）",
   "forms": {
-    "variant_spellings": [
-      "Lionel",
-      "Lionell",
-      "Lyonel"
-    ]
+    "plural": "lionels"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A masculine given name of French and English origin, derived from the Germanic name 'Ludwig' or the Old French 'Lionel', meaning 'little lion'. It has been historically used in European nobility and literature.",
-      "explanation_cn": "一个源自法语和英语的男性名字，源于日耳曼语名字 'Ludwig' 或古法语 'Lionel'，意为‘小狮子’。历史上常用于欧洲贵族和文学作品中。",
+      "explanation_en": "A proper noun used as a given name or surname, historically derived from the Old French name 'Lionel', itself a diminutive of 'lion', symbolizing courage and nobility.",
+      "explanation_cn": "用作人名（名或姓）的专有名词，源自古法语名称 'Lionel'，为 'lion'（狮子）的指小形式，象征勇气与高贵。",
       "example_en": "Lionel Messi is widely regarded as one of the greatest football players of all time.",
       "example_cn": "莱昂内尔·梅西被广泛认为是有史以来最伟大的足球运动员之一。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A surname associated with notable figures in arts, sports, and politics, particularly in English-speaking countries.",
-      "explanation_cn": "作为姓氏，常见于英语国家中在艺术、体育和政治领域有影响力的人物。",
-      "example_en": "Lionel Richie, the American singer-songwriter, rose to fame in the 1980s with hits like 'All Night Long'.",
-      "example_cn": "美国歌手兼词曲作者莱昂内尔·里奇在20世纪80年代凭借《All Night Long》等热门歌曲成名。"
+      "explanation_en": "A rare or archaic use as a given name in English-speaking cultures, often chosen for its classical and regal connotations.",
+      "explanation_cn": "在英语文化中作为人名的罕见或古旧用法，常因其古典与高贵的内涵而被选用。",
+      "example_en": "The baby was named Lionel after his great-grandfather, a respected judge in the 19th century.",
+      "example_cn": "这个婴儿被命名为莱昂内尔，以纪念他那位19世纪受人尊敬的曾祖父。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "lion",
-      "analysis": "“Lion”（狮子）是动物名称，指代大型猫科动物，象征力量与勇气；而 “Lionel” 是人名，虽词源上与“狮子”相关（意为‘小狮子’），但其用法完全属于专有名词范畴，不具动物含义。"
+      "analysis": "“Lion”（狮子）是动物名称，指代自然界中的大型猫科动物，象征力量与威严；而 “Lionel” 是由 “lion” 派生出的人名，仅保留其象征意义，不指代实体动物，属于文化引申用法。"
     },
     {
       "word_to_compare": "leone",
-      "analysis": "“Leone” 是意大利语中意为‘狮子’的词，也用作人名（如演员 Leonardo DiCaprio 的中间名），与 “Lionel” 同源但语言路径不同：前者为意大利语直接形式，后者为法语化演变形式。两者在文化语境中均象征勇猛，但 “Lionel” 更常用于英语国家。"
+      "analysis": "“Leone” 是意大利语中与 “Lionel” 同源的名称，意为“狮子”，在意大利文化中作为人名使用，拼写和发音不同，但语义和文化象征高度相似。两者均为“狮子”意象的人名变体，但 “Lionel” 更常见于英语语境。"
     },
     {
-      "word_to_compare": "lionel",
-      "analysis": "作为专有名词，'Lionel' 本身无近义词，但其文化指代可与同源人名如 'Leon'、'Leo' 或 'Lyon' 比较，这些名字均以‘狮子’为意象，表达力量与高贵，但拼写和发音不同，使用地域和时代偏好各异。"
+      "word_to_compare": "leon",
+      "analysis": "“Leon” 是源自希腊语的男性名字，意为“狮子”，在多个语言中作为独立人名使用，结构更简短。与 “Lionel” 相比，它没有指小后缀，语义更直接，文化上更偏向古典与简洁风格，而 “Lionel” 带有中世纪法语的优雅感。"
     }
   ]
 }

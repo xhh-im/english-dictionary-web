@@ -3,36 +3,36 @@
   "pronunciation": "gawl·way",
   "concise_definition": "n. 戈尔韦（爱尔兰西部城市）",
   "forms": {
-    "proper_noun": true
+    "plural": "Galways"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A city in western Ireland, located on the River Corrib, known for its medieval architecture, vibrant cultural scene, and as a gateway to the Wild Atlantic Way.",
-      "explanation_cn": "位于爱尔兰西部、科里布河畔的一座城市，以其中世纪建筑、充满活力的文化氛围以及作为‘大西洋之路’门户而闻名。",
+      "explanation_en": "A city in western Ireland, located on the River Corrib, known for its vibrant cultural scene, historic architecture, and annual Galway International Arts Festival.",
+      "explanation_cn": "位于爱尔兰西部科里布河畔的一座城市，以其活跃的文化氛围、历史建筑和每年举办的戈尔韦国际艺术节而闻名。",
       "example_en": "We spent a week exploring the colorful streets and lively pubs of Galway.",
       "example_cn": "我们花了一周时间探索戈尔韦色彩斑斓的街道和热闹的酒吧。"
     },
     {
       "pos": "noun",
-      "explanation_en": "Sometimes used to refer to the County Galway, the administrative region surrounding the city, known for its Irish-speaking Gaeltacht areas and scenic landscapes.",
-      "explanation_cn": "有时也指围绕该城市的戈尔韦郡，该地区以爱尔兰语区（Gaeltacht）和壮丽的自然风光著称。",
-      "example_en": "The traditional music festivals in Galway attract visitors from all over the world.",
-      "example_cn": "戈尔韦的传统音乐节吸引了来自世界各地的游客。"
+      "explanation_en": "A surname or family name of Irish origin, often associated with the historic region or city of Galway.",
+      "explanation_cn": "一个源自爱尔兰的姓氏，常与戈尔韦地区或城市相关联。",
+      "example_en": "She is a talented artist named Eileen Galway, descended from a long line of Galway fishermen.",
+      "example_cn": "她是一位名叫艾琳·戈尔韦的才华横溢的艺术家，祖上是世代居住在戈尔韦的渔民。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "cork",
-      "analysis": "“Cork”（科克）是爱尔兰第二大城市，位于南部，以港口、商业和大学闻名；而 “Galway” 位于西部，更以文化、艺术和旅游著称，两者都是爱尔兰重要城市，但地理、经济和文化定位不同。"
+      "analysis": "“Cork”（科克）是爱尔兰南部最大的城市，以港口贸易和大学闻名，文化上更偏向商业与学术；而 “Galway” 位于西部，以凯尔特传统、街头艺术和节日氛围著称，更具民俗与文艺气息。两者都是爱尔兰重要城市，但气质迥异。"
     },
     {
       "word_to_compare": "dublin",
-      "analysis": "“Dublin”（都柏林）是爱尔兰首都和最大城市，政治、经济与文化中心；而 “Galway” 虽然文化影响力大，但规模较小，更具地方特色和传统气息，常被视为爱尔兰传统文化的代表。"
+      "analysis": "“Dublin”（都柏林）是爱尔兰首都，政治、经济与文化中心，规模更大、国际化程度更高；而 “Galway” 是一座较小但极具地方特色的城市，保留了更多盖尔语传统和乡村风情，常被视为爱尔兰文化灵魂的代表。"
     },
     {
-      "word_to_compare": "kilkenny",
-      "analysis": "“Kilkenny”（基尔肯尼）是爱尔兰东南部的历史古城，以城堡和中世纪遗产闻名；而 “Galway” 更强调现代文化活力与海滨风情，两者虽同为旅游城市，但历史背景与氛围截然不同。"
+      "word_to_compare": "limerick",
+      "analysis": "“Limerick”（利默里克）是爱尔兰中西部城市，以同名的五行为打油诗闻名；而 “Galway” 虽然也有诗歌传统，但更以音乐、戏剧和视觉艺术为核心，其文化影响力更广泛、更现代。"
     }
   ]
 }

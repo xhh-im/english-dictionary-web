@@ -3,7 +3,7 @@
   "pronunciation": "moh·ree·nyoh",
   "concise_definition": "n. 穆里尼奥（专有名词，指葡萄牙著名足球教练若泽·穆里尼奥）",
   "forms": {
-    "proper_noun": true
+    "proper_noun": "Mourinho"
   },
   "definitions": [
     {
@@ -11,28 +11,28 @@
       "explanation_en": "A proper noun referring to José Mourinho, a renowned Portuguese football manager known for his tactical acumen, charismatic personality, and success with top clubs such as FC Porto, Chelsea, Inter Milan, Real Madrid, and Manchester United.",
       "explanation_cn": "专有名词，指葡萄牙著名足球教练若泽·穆里尼奥，以其卓越的战术智慧、鲜明的个性以及执教波尔图、切尔西、国际米兰、皇家马德里和曼联等顶级俱乐部所取得的辉煌成就而闻名。",
       "example_en": "Mourinho is often called 'The Special One' for his confidence and winning record.",
-      "example_cn": "穆里尼奥因其自信和辉煌的战绩常被称为‘特别的一个’。"
+      "example_cn": "穆里尼奥因其自信和辉煌的战绩常被称为“特别的一个”。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A cultural reference in football discourse, symbolizing a pragmatic, defensively organized, and psychologically intense style of management.",
-      "explanation_cn": "在足球语境中的一种文化符号，象征一种务实、注重防守组织且心理战策略强烈的执教风格。",
+      "explanation_en": "A cultural reference in football discourse, symbolizing a pragmatic, defensively organized, and psychologically intense style of management that prioritizes results over aesthetics.",
+      "explanation_cn": "在足球语境中的一种文化符号，象征一种务实、注重防守组织、心理对抗强烈且以结果为导向的执教风格，而非追求足球的观赏性。",
       "example_en": "His team played a Mourinho-style match: compact, disciplined, and lethal on the counter.",
-      "example_cn": "他的球队踢了一场典型的‘穆里尼奥式’比赛：防守紧凑、纪律严明，反击犀利。"
+      "example_cn": "他的球队踢了一场典型的穆里尼奥式比赛：防守紧凑、纪律严明，反击犀利。"
     }
   ],
   "comparison": [
     {
+      "word_to_compare": "klopp",
+      "analysis": "“Klopp”（克洛普）代表一种高压逼抢、进攻狂野、情感充沛的足球哲学，强调团队激情与整体运动；而 “Mourinho” 则代表冷静算计、防守优先、心理战主导的实用主义风格。两者代表了现代足球教练哲学的两极。"
+    },
+    {
       "word_to_compare": "guardiola",
-      "analysis": "‘Guardiola’（瓜迪奥拉）代表另一种足球哲学：控球主导、高位逼抢、进攻流畅的‘tiki-taka’风格，强调技术与空间控制。而‘Mourinho’则代表反向的战术哲学：强调防守组织、快速反击和心理压制。两人代表现代足球教练风格的两极。"
+      "analysis": "“Guardiola”（瓜迪奥拉）以控球、位置主义和极致传接配合为核心，追求足球的艺术性与结构性；而 “Mourinho” 则以破坏对手节奏、利用空间反击和心理施压为手段，强调效率与胜利。前者是美学派，后者是功利派。"
     },
     {
       "word_to_compare": "ferguson",
-      "analysis": "‘Ferguson’（弗格森）象征长期建队、青训培养与领袖气质的古典式豪门主帅，其成功建立在稳定性和人性管理之上。而‘Mourinho’更强调短期目标、战术颠覆与媒体操控，风格更具攻击性和争议性。"
-    },
-    {
-      "word_to_compare": "coach",
-      "analysis": "‘Coach’（教练）是通用术语，泛指任何体育项目的指导者。而‘Mourinho’作为专有名词，已超越普通词义，成为一种特定执教风格、个性与成功的代名词，具有文化符号意义，远超‘coach’的泛指范畴。"
+      "analysis": "“Ferguson”（弗格森）是曼联传奇主帅，以长期建队、培养年轻球员和坚韧精神著称；而 “Mourinho” 更擅长短期冲击冠军，擅长在顶级俱乐部中快速建立统治力，其风格更具侵略性和媒体导向性。弗格森是“家族式领袖”，穆里尼奥是“孤胆英雄”。"
     }
   ]
 }

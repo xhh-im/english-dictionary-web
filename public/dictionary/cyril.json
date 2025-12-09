@@ -4,42 +4,39 @@
   "concise_definition": "n. 西里尔（男性名）",
   "forms": {
     "variant_spelling": [
-      "Cyrill",
-      "Syril"
+      "Syril",
+      "Kyril"
     ],
-    "feminine_form": [
-      "Cyrilla",
-      "Cyrilka"
-    ]
+    "feminine_form": "Cyrilla"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A masculine given name of Greek origin, derived from the name 'Kyrios' meaning 'lord' or 'master'. It is commonly used in Slavic countries and among Eastern Orthodox Christian communities.",
-      "explanation_cn": "源自希腊语 'Kyrios'（意为‘主’或‘主人’）的男性名字，常见于斯拉夫国家及东正教基督徒群体。",
-      "example_en": "Cyril was the co-inventor of the Glagolitic alphabet, used to write Old Church Slavonic.",
-      "example_cn": "西里尔是格拉哥里字母的共同发明者，该字母用于书写古教会斯拉夫语。"
+      "explanation_en": "A masculine given name of Slavic origin, derived from the Greek name 'Kyrios' meaning 'lord' or 'master'. It is commonly used in Eastern European countries and among Orthodox Christian communities.",
+      "explanation_cn": "源自希腊语 'Kyrios'（意为‘主’或‘主人’）的斯拉夫语男性名字，常见于东欧国家及东正教基督徒社群。",
+      "example_en": "Cyril is a professor of linguistics at Moscow State University.",
+      "example_cn": "西里尔是莫斯科国立大学的语言学教授。"
     },
     {
       "pos": "noun",
-      "explanation_en": "Sometimes used as a surname or to refer to historical or cultural figures associated with the Cyrillic script or Eastern Orthodox tradition.",
-      "explanation_cn": "有时用作姓氏，或指与西里尔字母或东正教传统相关的历史人物或文化人物。",
-      "example_en": "The library was named after Cyril, a 9th-century missionary who brought literacy to the Slavs.",
-      "example_cn": "这座图书馆以西里尔命名，他是公元9世纪将文字带入斯拉夫地区的传教士。"
+      "explanation_en": "Sometimes used as a surname, particularly in Russian, Ukrainian, or Belarusian contexts, often associated with historical or religious figures.",
+      "explanation_cn": "有时用作姓氏，尤其在俄罗斯、乌克兰或白俄罗斯语境中，常与历史或宗教人物相关。",
+      "example_en": "The historian Dr. Cyril Petrov published a groundbreaking study on medieval manuscripts.",
+      "example_cn": "历史学家西里尔·彼得罗夫博士发表了一项关于中世纪手稿的开创性研究。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "cyrillic",
-      "analysis": "“Cyrillic”（西里尔的）是形容词，指代由圣西里尔及其兄弟圣美多德所创的书写系统，如俄语、保加利亚语使用的字母表。而 “Cyril” 是人名，特指历史人物或现代个体，二者词性与语义范畴完全不同。"
+      "analysis": "“Cyrillic”（西里尔字母的）是形容词，指由圣西里尔和圣美多德创制的斯拉夫文字系统，如俄语、保加利亚语所使用的字母。而 “Cyril” 是人名，两者词源相关但词性与含义完全不同。不能混淆使用。"
     },
     {
-      "word_to_compare": "sir",
-      "analysis": "“Sir”（先生）是英语中对男性的尊称，常用于正式场合，与身份或礼仪相关；而 “Cyril” 是专有名词，仅作为人名使用，无尊称功能。二者在语义和用法上无重叠。"
+      "word_to_compare": "sergei",
+      "analysis": "“Sergei”（谢尔盖）是另一个常见的斯拉夫男性名字，源自拉丁语 'Sergius'，意为‘侍从’或‘护卫’。与 ‘Cyril’ 同属东欧常用名，但语源、文化背景和发音均不同，无直接语义关联。"
     },
     {
       "word_to_compare": "kyle",
-      "analysis": "“Kyle” 是一个英语起源的男性名字，源自地名或苏格兰语，意为“狭窄的水道”；而 “Cyril” 源自希腊语，含义为‘主’，文化背景和语源完全不同，虽同为男性名，但无语义或历史关联。"
+      "analysis": "“Kyle”（凯尔）是英语国家常见的男性名字，源自苏格兰盖尔语，意为‘狭窄的海峡’。与 ‘Cyril’ 在文化起源、语言背景和音韵结构上均无关联，仅在作为人名的用途上相似。"
     }
   ]
 }

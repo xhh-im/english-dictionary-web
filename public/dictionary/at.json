@@ -3,22 +3,22 @@
   "pronunciation": "æt",
   "concise_definition": "prep. 在, 于, 朝, 向",
   "forms": {
-    "no_variants": true
+    "no_plural_or_conjugation": true
   },
   "definitions": [
     {
       "pos": "preposition",
-      "explanation_en": "Indicates a specific point in space, time, or condition; used to denote location, direction, or association with a particular place, moment, or state.",
-      "explanation_cn": "表示空间、时间或状态中的具体点；用于指明位置、方向或与特定地点、时刻或状态的关联。",
+      "explanation_en": "Indicates a specific point in space, time, or condition; used to show location, direction, or association with a particular place, moment, or state.",
+      "explanation_cn": "表示空间、时间或状态中的具体点；用于表明位置、方向或与特定地点、时刻或状态的关联。",
       "example_en": "She is waiting at the bus stop.",
       "example_cn": "她正在公共汽车站等车。"
     },
     {
       "pos": "preposition",
-      "explanation_en": "Denotes the target or recipient of an action, especially in expressions involving mental or emotional engagement, skill, or activity.",
-      "explanation_cn": "表示动作的目标或对象，尤其用于涉及心理、情感投入、技能或活动的表达中。",
-      "example_en": "He is good at playing the piano.",
-      "example_cn": "他擅长弹钢琴。"
+      "explanation_en": "Used to express the target or recipient of an action, especially in relation to attention, emotion, or aggression.",
+      "explanation_cn": "用于表达动作的目标或接受者，尤其涉及注意力、情感或攻击性时。",
+      "example_en": "He shouted at the driver for cutting him off.",
+      "example_cn": "他因为司机插队而冲着司机大喊。"
     },
     {
       "pos": "preposition",
@@ -29,15 +29,15 @@
     },
     {
       "pos": "preposition",
-      "explanation_en": "Expresses a state of being or condition, often in fixed phrases indicating agitation, attention, or engagement.",
-      "explanation_cn": "用于固定短语中，表示某种状态，常指激动、专注或投入的状态。",
-      "example_en": "The children were at play in the garden.",
-      "example_cn": "孩子们正在花园里玩耍。"
+      "explanation_en": "Used to describe a state of activity, skill, or engagement (e.g., good at, bad at).",
+      "explanation_cn": "用于描述某种活动、技能或参与状态（如：擅长于、不擅长于）。",
+      "example_en": "She is excellent at solving complex math problems.",
+      "example_cn": "她非常擅长解决复杂的数学问题。"
     },
     {
       "pos": "preposition",
-      "explanation_en": "Used in idiomatic expressions to indicate a rate, price, or level (e.g., at a discount, at full speed).",
-      "explanation_cn": "用于习语中表示速率、价格或水平（如：打折、全速）。",
+      "explanation_en": "Indicates the rate, price, or level of something (e.g., at a discount, at high speed).",
+      "explanation_cn": "表示某种事物的比率、价格或水平（如：打折、高速）。",
       "example_en": "The car was traveling at 120 kilometers per hour.",
       "example_cn": "这辆车正以每小时120公里的速度行驶。"
     }
@@ -45,15 +45,15 @@
   "comparison": [
     {
       "word_to_compare": "in",
-      "analysis": "“In” 表示在某个较大或封闭的空间、范围或时间段内（如 in the room, in July），强调内部性；而 “at” 指向一个具体的点或位置（如 at the door, at 3 p.m.），更强调精确的坐标或接触点。"
+      "analysis": "“In”（在……里）强调在某个封闭或包含性的空间、范围或时间段内，如 in the room, in July。而 “at” 更强调一个具体的点，如 at the door, at noon，不强调内部环境，而是聚焦于位置或时刻的精确性。"
     },
     {
       "word_to_compare": "on",
-      "analysis": "“On” 通常表示在某个表面或特定日期/日子上（如 on the table, on Monday），强调接触或具体日期；而 “at” 不强调接触，而是指向一个抽象或具体的点，如时间点、地点或活动目标。"
+      "analysis": "“On”（在……上）通常用于表示表面接触或特定日期/日子，如 on the table, on Monday。而 “at” 不用于表面，也不用于星期几，仅用于具体时间点或地点，如 at 3 p.m. 或 at the station。"
     },
     {
       "word_to_compare": "to",
-      "analysis": "“To” 表示方向、目标或终点（如 go to school, listen to music），强调移动或指向；而 “at” 通常表示静止的位置或状态（如 be at school, good at math），不包含移动含义。"
+      "analysis": "“To”（向、到）表示方向或目标终点，如 go to school，强调移动的终点；而 “at” 表示静止的位置或状态，如 stay at home，强调存在而非移动。两者在动作方向性上有本质区别。"
     }
   ]
 }

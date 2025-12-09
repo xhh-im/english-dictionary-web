@@ -2,38 +2,34 @@
   "word": "automotive",
   "pronunciation": "aw·tuh·moh·tiv",
   "concise_definition": "adj. 汽车的, 与汽车相关的",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
   "definitions": [
     {
       "pos": "adjective",
-      "explanation_en": "Relating to, designed for, or used in the manufacture, repair, or operation of motor vehicles, especially cars and trucks.",
-      "explanation_cn": "与汽车的制造、维修或操作相关的，专为机动车（尤其是轿车和卡车）设计或使用的。",
-      "example_en": "The automotive industry is one of the largest employers in the country.",
-      "example_cn": "汽车行业是该国最大的雇主之一。"
+      "explanation_en": "Relating to or involving automobiles, including their design, manufacture, maintenance, and operation.",
+      "explanation_cn": "与汽车相关的，涵盖汽车的设计、制造、维护和操作等方面。",
+      "example_en": "The automotive industry is one of the largest sectors in the global economy.",
+      "example_cn": "汽车行业是全球经济中最大的行业之一。"
     },
     {
       "pos": "adjective",
-      "explanation_en": "Pertaining to the technology, engineering, or components involved in self-propelled road vehicles.",
-      "explanation_cn": "涉及自推进道路车辆的技术、工程或零部件的。",
-      "example_en": "Modern automotive systems include advanced driver-assistance features like automatic braking.",
-      "example_cn": "现代汽车系统包括自动刹车等先进驾驶辅助功能。"
+      "explanation_en": "Designed for use in or specifically adapted to motor vehicles, such as parts, systems, or technologies.",
+      "explanation_cn": "专为机动车设计或特别适配于汽车的部件、系统或技术。",
+      "example_en": "She works in automotive engineering, specializing in electric vehicle batteries.",
+      "example_cn": "她从事汽车工程工作，专攻电动汽车电池。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "automobile",
-      "analysis": "“Automobile” (汽车) 是一个名词，指具体的四轮机动车辆；而 “automotive” 是形容词，描述与汽车相关的属性、行业或技术。例如，我们说 “an automobile”（一辆汽车），但说 “automotive engineering”（汽车工程）。"
+      "analysis": "“Automobile” (汽车) 是一个名词，指具体的四轮机动车辆；而 “automotive” 是形容词，用于描述与汽车相关的所有事物，如产业、技术或零件。前者是实体，后者是属性。"
     },
     {
       "word_to_compare": "vehicular",
-      "analysis": "“Vehicular” (车辆的) 是一个更广泛的术语，涵盖所有类型的车辆，包括摩托车、卡车、公共汽车甚至火车；而 “automotive” 通常特指以汽油或电力驱动的乘用车和轻型商用车，范围更窄、更聚焦于汽车领域。"
+      "analysis": "“Vehicular” (车辆的) 是一个更广泛的术语，涵盖所有类型的车辆，包括卡车、摩托车、公共汽车甚至火车；而 “automotive” 通常特指四轮乘用车或商用车，范围更窄、更聚焦于汽车。"
     },
     {
       "word_to_compare": "motor",
-      "analysis": "“Motor” (机动车的) 有时可作形容词，如 “motor vehicle”，但其核心含义是“发动机”或“动力装置”；而 “automotive” 是一个专业术语，专用于描述整个汽车产业链，包括设计、制造、销售和服务，语义更全面、更正式。"
+      "analysis": "“Motor” (机动车的) 常作为复合词的一部分（如 motor vehicle），强调由发动机驱动的特性，但单独使用时不如 “automotive” 正式或全面。后者更常用于专业语境，如 “automotive industry” 或 “automotive electronics”。"
     }
   ]
 }

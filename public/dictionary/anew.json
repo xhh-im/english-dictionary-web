@@ -2,38 +2,34 @@
   "word": "anew",
   "pronunciation": "uh·noo",
   "concise_definition": "adv. 重新, 再次, 从头开始",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
   "definitions": [
     {
       "pos": "adverb",
-      "explanation_en": "To begin or do something again, especially as if starting from the beginning with fresh effort or a new perspective.",
-      "explanation_cn": "指重新开始做某事，通常带有重新投入、焕然一新的努力或全新视角的意味。",
+      "explanation_en": "To begin or do something again, especially as if starting from the beginning with fresh energy or a new perspective.",
+      "explanation_cn": "指重新开始做某事，通常带有全新的精力、态度或视角，仿佛从头再来。",
       "example_en": "After the failure, she decided to start her business anew.",
       "example_cn": "失败之后，她决定重新开始自己的事业。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "In a renewed or revitalized manner; to restore or recreate something as if it were new for the first time.",
-      "explanation_cn": "以焕然一新或复兴的方式；使某事物如同初次诞生般被重建或恢复。",
-      "example_en": "The old house was renovated anew with modern amenities and traditional charm.",
-      "example_cn": "这座老房子被重新翻修，既配备了现代设施，又保留了传统魅力。"
+      "explanation_en": "In a renewed or revitalized manner; to restore or recreate something as if it were new.",
+      "explanation_cn": "以焕然一新或复兴的方式；使某事物恢复如新或重新创造。",
+      "example_en": "The old house was renovated anew with modern amenities.",
+      "example_cn": "这座老房子经过翻新，配备了现代化的设施，焕然一新。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "again",
-      "analysis": "“Again” (再次) 是一个通用词，仅表示重复发生，不隐含任何情感或状态的改变。而 “anew” 强调重新开始时带有更新、改进或彻底重来的意味，语义更丰富，常用于强调质的转变。"
+      "analysis": "“Again” (再次) 是一个通用词，仅表示重复发生，不强调方式或状态的改变。例如 “I called him again” 仅表示重复打电话，没有“重新开始”的意味。而 “anew” 隐含着一种彻底的重启、更新或重新塑造，带有更强的质变色彩。"
     },
     {
       "word_to_compare": "over",
-      "analysis": "“Over” (重新) 在某些语境中可表示重复（如 do it over），但通常指对已有成果的修正或重做，不强调“从零开始”或“焕然一新”的状态。而 “anew” 更强调彻底的重启，常与“旧的结束”和“新的开始”紧密关联。"
+      "analysis": "“Over” (重新) 常用于 “do over” 结构，表示重做某事，但多用于具体任务的重复，如 “Let’s do this painting over.” 它更口语化，且不强调“全新开始”的意境。“Anew” 更具文学性和抽象性，常用于表达精神、情感或状态的彻底更新。"
     },
     {
       "word_to_compare": "renew",
-      "analysis": "“Renew” (更新) 是动词，指使某物恢复活力或延长其有效性，如 renew a subscription。而 “anew” 是副词，描述动作发生的方式，强调“以新的方式”进行，不直接作用于对象，而是修饰整个行为的性质。"
+      "analysis": "“Renew” (更新) 是一个动词，强调使旧物恢复活力或延长其使用期限，如 “renew a subscription”。而 “anew” 是副词，描述动作发生的方式，不直接作谓语。两者语义相近，但词性不同，且 “anew” 更侧重于“从零开始”的意象，而 “renew” 更侧重于“修复旧物”。"
     }
   ]
 }

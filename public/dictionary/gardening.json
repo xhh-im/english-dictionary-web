@@ -1,38 +1,35 @@
 {
   "word": "gardening",
-  "pronunciation": "ˈɡɑːr.də.nɪŋ",
-  "concise_definition": "n. 园艺, 种植花草",
-  "forms": {
-    "none": ""
-  },
+  "pronunciation": "gahr·dən·iŋ",
+  "concise_definition": "n. 园艺, 种植花草, 打理花园",
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "The activity of cultivating and tending a garden, including planting, pruning, watering, and maintaining flowers, vegetables, shrubs, or lawns for aesthetic or practical purposes.",
-      "explanation_cn": "指栽培和照料花园的活动，包括种植、修剪、浇水和维护花卉、蔬菜、灌木或草坪，以达到美观或实用的目的。",
-      "example_en": "She spends her weekends gardening and grows her own organic vegetables.",
-      "example_cn": "她周末都花在园艺上，自己种植有机蔬菜。"
+      "explanation_en": "The activity of cultivating and tending to plants, flowers, vegetables, or ornamental features in a garden, often as a hobby or for aesthetic and practical purposes.",
+      "explanation_cn": "指在花园中栽培和照料植物、花卉、蔬菜或装饰性景观的活动，通常作为一种爱好，或出于审美与实用目的。",
+      "example_en": "She spends her weekends gardening, planting roses and growing tomatoes.",
+      "example_cn": "她周末都花在园艺上，种玫瑰和种番茄。"
     },
     {
       "pos": "noun",
-      "explanation_en": "The practice or art of designing and managing outdoor spaces to enhance beauty, promote biodiversity, or create a peaceful environment.",
-      "explanation_cn": "指设计和管理户外空间以提升美感、促进生物多样性或营造宁静环境的实践或艺术。",
-      "example_en": "Gardening has become a popular hobby in urban areas, blending nature with modern living.",
-      "example_cn": "园艺已成为城市地区流行的爱好，将自然与现代生活融为一体。"
+      "explanation_en": "The art and science of designing, arranging, and maintaining outdoor spaces to enhance beauty, promote biodiversity, or produce food.",
+      "explanation_cn": "指设计、布置和维护户外空间的艺术与科学，旨在提升美感、促进生物多样性或生产食物。",
+      "example_en": "Gardening combines creativity with knowledge of soil, climate, and plant biology.",
+      "example_cn": "园艺融合了创造力与对土壤、气候和植物生物学的知识。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "farming",
-      "analysis": "“Farming”（农业）指大规模的农作物或牲畜生产，以经济收益为主要目的，通常涉及机械化和商业运营。而 “gardening” 更偏向个人化、小规模的休闲或美化行为，强调与自然的亲密互动，而非商业产出。"
+      "analysis": "“Farming” (农业/耕作) 指大规模的农作物或牲畜生产，以商业销售为主要目的，通常涉及机械化和土地管理。而 “gardening” 多为小规模、个人化、非商业性的活动，更注重乐趣、美化或自给自足。"
     },
     {
       "word_to_compare": "landscaping",
-      "analysis": "“Landscaping”（景观设计）侧重于对户外空间的整体规划与改造，包括道路、水景、硬质铺装和植物布局，常由专业人员完成。而 “gardening” 更专注于植物的日常照料与维护，是景观建成后的持续性活动。"
+      "analysis": "“Landscaping” (景观设计) 侧重于对户外空间的整体规划与改造，包括铺设路径、建造水景、移植树木等工程性工作，强调视觉设计和结构布局。而 “gardening” 更专注于植物的种植、养护与日常管理，是景观维护的一部分。"
     },
     {
       "word_to_compare": "horticulture",
-      "analysis": "“Horticulture”（园艺学）是研究植物栽培的科学学科，涵盖理论、技术与品种改良，属于学术或专业领域。而 “gardening” 是其实践应用，是普通人的日常行为，不强调系统性知识，更注重体验与乐趣。"
+      "analysis": "“Horticulture” (园艺学) 是一门科学学科，研究植物的栽培、繁殖、育种和生理特性，常用于学术或商业领域。而 “gardening” 是其实践应用，是普通人的日常活动，不强调理论体系，更偏向生活化和经验性。"
     }
   ]
 }

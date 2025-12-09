@@ -1,41 +1,38 @@
 {
   "word": "xavier",
   "pronunciation": "zav·ee·er",
-  "concise_definition": "n. (人名) 萨维埃",
+  "concise_definition": "n. (人名) 萨维埃，常见于人名，如圣方济各·沙勿略",
   "forms": {
-    "variant_spelling": [
-      "Xaviers",
-      "Xavier's"
-    ]
+    "plural": "xaviers"
   },
   "definitions": [
     {
       "pos": "noun",
       "explanation_en": "A proper noun, typically used as a given name or surname, most famously associated with Saint Francis Xavier, a 16th-century Spanish Jesuit missionary and co-founder of the Society of Jesus.",
-      "explanation_cn": "一个专有名词，通常用作人名或姓氏，最著名的是指16世纪西班牙耶稣会传教士圣方济各·沙勿略，他是耶稣会的联合创始人之一。",
+      "explanation_cn": "一个专有名词，通常用作人名或姓氏，最著名的是指16世纪西班牙耶稣会传教士、耶稣会联合创始人圣方济各·沙勿略。",
       "example_en": "Saint Francis Xavier traveled extensively across Asia to spread Christianity.",
       "example_cn": "圣方济各·沙勿略曾广泛游历亚洲传播基督教。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A place name or institutional name derived from Saint Francis Xavier, such as Xavier University or Xavier Street, often associated with Catholic education or heritage.",
-      "explanation_cn": "以圣方济各·沙勿略命名的地点或机构名称，如圣方济各大学或沙勿略街，常与天主教教育或传统相关。",
-      "example_en": "She enrolled at Xavier University, known for its strong liberal arts program.",
-      "example_cn": "她入读了以文科教育见长的圣方济各大学。"
+      "explanation_en": "A modern given name or surname in Western cultures, often chosen for its historical, religious, or cultural associations with the saint or the place name in Navarre, Spain.",
+      "explanation_cn": "在西方文化中作为现代人名或姓氏使用，常因与圣人或西班牙纳瓦拉地区地名的历史、宗教或文化关联而被选用。",
+      "example_en": "Xavier University, named after Saint Francis Xavier, is known for its strong liberal arts program.",
+      "example_cn": "以圣方济各·沙勿略命名的萨维尔大学以其优秀的文理教育项目而闻名。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "francis",
-      "analysis": "“Francis” 是一个更常见的教名，源自拉丁语 Franciscus，意为“法国人”或“自由人”，广泛用于多个圣人和历史人物，如圣方济各·阿西西。而 “Xavier” 是一个地名姓氏，特指西班牙的 Xavier 地区，仅在与圣方济各·沙勿略相关时才具有宗教和文化上的显著意义。"
+      "analysis": "“Francis” 是一个更常见的西方人名，源自拉丁语 “Franciscus”，意为“法兰克人”或“自由人”，常用于圣方济各·亚西西等人物。而 “Xavier” 是一个地名衍生的姓氏，特指西班牙纳瓦拉的哈维尔，因圣方济各·沙勿略而广为人知，文化指向更具体。"
     },
     {
-      "word_to_compare": "ignatius",
-      "analysis": "“Ignatius” 是另一位耶稣会创始人圣依纳爵·罗耀拉的名字，常与 Xavier 并列提及，因两人共同创立耶稣会。但 “Ignatius” 更强调内在灵修与神学体系，而 “Xavier” 更突出传教行动与地理扩张。"
+      "word_to_compare": "javier",
+      "analysis": "“Javier” 是 “Xavier” 的西班牙语拼写形式，发音和含义完全相同，只是语言变体不同。在英语语境中多用 “Xavier”，而在西班牙语国家则普遍使用 “Javier”。两者本质上是同一名称的不同拼写。"
     },
     {
-      "word_to_compare": "joseph",
-      "analysis": "“Joseph” 是一个普遍的希伯来语名字，意为“上帝将增添”，在基督教传统中代表圣母玛利亚的丈夫，象征谦卑与守护。与 “Xavier” 相比，它不具备特定的地理或传教象征，文化含义更广泛且非特定于天主教教育体系。"
+      "word_to_compare": "saint",
+      "analysis": "“Saint” 是一个通用头衔，用于指代被教会封圣的宗教人物，而 “Xavier” 是一个具体的人名。虽然 “Saint Xavier” 是一个完整称谓，但单独使用 “Xavier” 时并不必然包含宗教含义，也可能仅作为普通姓名使用。"
     }
   ]
 }

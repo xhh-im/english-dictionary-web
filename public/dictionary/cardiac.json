@@ -2,38 +2,34 @@
   "word": "cardiac",
   "pronunciation": "kahr·dee·ak",
   "concise_definition": "adj. 心脏的, 心脏病的",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
   "definitions": [
     {
       "pos": "adjective",
-      "explanation_en": "Relating to the heart, especially in terms of anatomy, physiology, or medical conditions affecting the heart.",
-      "explanation_cn": "指与心脏相关的，尤其在解剖学、生理学或影响心脏的医学状况方面。",
+      "explanation_en": "Relating to the heart, especially in terms of structure, function, or disease; used primarily in medical contexts to describe conditions, muscles, or procedures involving the heart.",
+      "explanation_cn": "指与心脏相关的，尤其在医学语境中用于描述涉及心脏的结构、功能或疾病；常用于形容心脏的病症、肌肉或手术。",
       "example_en": "Cardiac arrest occurs when the heart suddenly stops beating.",
       "example_cn": "心脏骤停是指心脏突然停止跳动。"
     },
     {
       "pos": "adjective",
-      "explanation_en": "Used to describe diseases, functions, or treatments specifically associated with the heart, such as cardiac muscle or cardiac rehabilitation.",
-      "explanation_cn": "用于描述与心脏直接相关的疾病、功能或治疗，如心肌、心脏康复等。",
-      "example_en": "She underwent cardiac rehabilitation after her heart surgery.",
-      "example_cn": "她在心脏手术后接受了心脏康复治疗。"
+      "explanation_en": "Pertaining to the region of the heart as opposed to other parts of the chest, often used to describe pain or pressure felt in the chest area.",
+      "explanation_cn": "指心脏区域，区别于胸部其他部位，常用于描述胸部出现的疼痛或压迫感。",
+      "example_en": "She complained of sharp cardiac pain radiating to her left arm.",
+      "example_cn": "她主诉有剧烈的心脏疼痛，并向左臂放射。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "heart",
-      "analysis": "“Heart” 是一个通用名词，指人体的心脏器官本身，也可用于比喻意义（如“heart of the matter”）。而 “cardiac” 是专业术语，仅作形容词使用，专指与心脏生理或病理相关的特征，多用于医学语境，语义更精确、正式。"
+      "analysis": "“Heart” (心脏) 是一个名词，指人体中具体的器官，也可作动词表示“热爱”；而 “cardiac” 是形容词，专用于医学术语中描述与心脏相关的属性或状态，语体更正式、专业。例如，我们说 “heart attack”（口语常用），但医学文献中更常用 “cardiac arrest” 或 “cardiac infarction”。"
     },
     {
       "word_to_compare": "cardiovascular",
-      "analysis": "“Cardiovascular”（心血管的）涵盖心脏（cardiac）和血管（vascular）两个系统，范围更广。而 “cardiac” 仅指心脏本身，不包括血管。例如，cardiovascular disease 包括冠心病、高血压等，而 cardiac arrest 仅指心脏停搏。"
+      "analysis": "“Cardiovascular” (心血管的) 指心脏和血管系统的整体，涵盖动脉、静脉和毛细血管；而 “cardiac” 仅特指心脏本身，不包括血管部分。例如，cardiovascular disease 包括冠心病、高血压和中风，而 cardiac disease 仅指心肌病、心律失常等心脏内部疾病。"
     },
     {
       "word_to_compare": "myocardial",
-      "analysis": "“Myocardial”（心肌的）特指心肌（heart muscle）组织，是 “cardiac” 的一个子集。所有 myocardial 问题都是 cardiac 问题，但并非所有 cardiac 问题都局限于心肌（如心律失常可能涉及传导系统）。因此，“myocardial” 更具体，常用于描述心肌梗死等局部病变。"
+      "analysis": "“Myocardial” (心肌的) 是更精确的解剖学术语，特指心肌（heart muscle）；而 “cardiac” 是更宽泛的术语，可涵盖心肌、心内膜、心包膜及心脏整体功能。例如，myocardial infarction 是心肌梗死，属于 cardiac disease 的一种，但并非所有 cardiac 问题都是 myocardial 的。"
     }
   ]
 }

@@ -1,45 +1,46 @@
 {
   "word": "wherever",
-  "pronunciation": "hwair·ev·er",
-  "concise_definition": "adv. 无论哪里, 任何地方",
+  "pronunciation": "hwɛr·ɛv·ər",
+  "concise_definition": "adv. 无论在哪里, 任何地方",
   "forms": {
-    "none": ""
+    "no_plural_form": true,
+    "no_comparative_form": true
   },
   "definitions": [
     {
       "pos": "adverb",
-      "explanation_en": "In or to any place, regardless of location; used to express that a condition or action applies no matter where something happens.",
-      "explanation_cn": "无论在哪个地方，不拘于具体位置；用于表达无论发生在哪里，某种条件或行为都成立。",
+      "explanation_en": "In or to any place, regardless of the specific location; used to express that something is true or applicable no matter where something happens or is situated.",
+      "explanation_cn": "无论在哪个地方，不拘具体位置；用于表达无论事情发生或存在于何处，某种情况都成立或适用。",
       "example_en": "You can sit wherever you like in the theater.",
       "example_cn": "你在剧院里想坐哪儿就坐哪儿。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "Used to emphasize that something will happen or be true under any circumstances or conditions, often implying unconditional commitment or flexibility.",
-      "explanation_cn": "用于强调无论在何种情况下，某事都会发生或成立，常暗示无条件的承诺或灵活性。",
-      "example_en": "I'll support you wherever you decide to go.",
-      "example_cn": "无论你决定去哪里，我都会支持你。"
+      "explanation_en": "Used to introduce a conditional clause indicating that the main clause will hold true regardless of the place mentioned in the subordinate clause.",
+      "explanation_cn": "用于引导条件从句，表示主句的内容不受从句中提及地点的影响，始终成立。",
+      "example_en": "Wherever you go, I will follow you.",
+      "example_cn": "无论你去哪里，我都会跟着你。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "In any situation or context, often used in hypothetical or conditional statements to convey openness or lack of restriction.",
-      "explanation_cn": "在任何情境或背景下使用，常用于假设或条件句中，表达开放性或无限制的态度。",
-      "example_en": "Wherever you find yourself, remember to stay true to yourself.",
-      "example_cn": "无论你身处何地，都要记得忠于自己。"
+      "explanation_en": "Used to emphasize that something is true in all possible situations or contexts, often with a sense of indifference or openness to any option.",
+      "explanation_cn": "用于强调某事在所有可能的情形或语境中都成立，常带有对任何选择都无所谓的态度。",
+      "example_en": "Wherever the truth lies, we must find it.",
+      "example_cn": "无论真相在哪里，我们都必须找到它。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "anywhere",
-      "analysis": "“Anywhere” (任何地方) 仅表示地点的不确定性或广泛性，语气中性，不带有情感或条件色彩。而 “wherever” 不仅表示地点，还隐含一种条件性或让步语气，常用于强调无论在哪个地方，某种结果或态度都成立，语义更丰富、语气更强。"
+      "analysis": "“Anywhere” (任何地方) 是一个泛指地点的副词，语气中性，常用于肯定句或疑问句中表示不确定性。而 “wherever” 更强调条件性或让步性，常用于让步状语从句中，带有更强的逻辑关联和情感色彩，如坚持、承诺或无条件性。"
+    },
+    {
+      "word_to_compare": "everywhere",
+      "analysis": "“Everywhere” (到处) 表示所有地方都包括在内，是全称肯定，强调覆盖范围的全面性。而 “wherever” 并不表示所有地方，而是指“任意一个地方”，强调选择的自由或条件的无关性，不必然涵盖全部。"
     },
     {
       "word_to_compare": "anyplace",
-      "analysis": "“Anyplace” 是 “anywhere” 的非正式同义词，仅用于指物理位置，语义单一，无情感或逻辑关联。而 “wherever” 可用于抽象语境（如情感、决定、立场），并常引导让步状语从句，语法功能更复杂，语义更深刻。"
-    },
-    {
-      "word_to_compare": "whenever",
-      "analysis": "“Whenever” (无论何时) 与 “wherever” 结构相似，但时间维度替代了空间维度。两者都表达无条件性，但 “whenever” 关注时间上的任意性，而 “wherever” 关注空间或情境上的任意性。二者可类比使用，但不可互换。"
+      "analysis": "“Anyplace” 是 “anywhere” 的非正式口语变体，语义和用法基本相同，但语气更随意。而 “wherever” 是标准语体，常用于书面语和正式语境，且能引导从句，功能更丰富，语法结构更复杂。"
     }
   ]
 }

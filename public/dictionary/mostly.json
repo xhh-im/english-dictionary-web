@@ -2,38 +2,34 @@
   "word": "mostly",
   "pronunciation": "ˈmoʊs.tli",
   "concise_definition": "adv. 大部分地, 主要地, 通常",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
   "definitions": [
     {
       "pos": "adverb",
-      "explanation_en": "In the main or for the most part; indicating that something is true or applies to the majority of cases, but not all.",
-      "explanation_cn": "主要地，大部分情况下；表示某事在大多数情况下成立，但并非全部。",
+      "explanation_en": "In the main or primarily; to a great extent but not entirely, indicating that something is true for the largest part of a group, time, or situation.",
+      "explanation_cn": "主要地、大部分地；指某事在大部分情况下成立，但并非全部，强调主体部分占主导地位。",
       "example_en": "The audience was mostly students and young professionals.",
       "example_cn": "观众主要是学生和年轻专业人士。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "Used to emphasize that something is true to a large extent, often implying a slight exception or minor contrast.",
-      "explanation_cn": "用于强调某事在很大程度上成立，通常暗示存在轻微的例外或对比。",
-      "example_en": "I mostly enjoy working from home, though I miss occasional office interactions.",
-      "example_cn": "我主要喜欢在家工作，尽管我怀念偶尔的办公室互动。"
+      "explanation_en": "Usually or generally; describing a typical or common occurrence, often implying occasional exceptions.",
+      "explanation_cn": "通常、一般地；描述一种常见或典型的情况，暗示可能存在个别例外。",
+      "example_en": "I mostly eat dinner at home, though I sometimes go out with friends.",
+      "example_cn": "我通常在家吃晚饭，虽然有时会和朋友出去吃。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "mainly",
-      "analysis": "“Mainly” 与 “mostly” 意义非常接近，都表示“主要地”，常可互换。但 “mainly” 更常用于正式语境，语气稍显中性；而 “mostly” 更口语化，且更常用于表达“大部分但非全部”的模糊范围。"
+      "analysis": "“Mainly”（主要地）与 “mostly” 非常接近，常可互换，但 “mainly” 更强调事物的核心组成部分，语气稍显正式；而 “mostly” 更口语化，常用于描述频率或比例上的主导性。"
     },
     {
       "word_to_compare": "primarily",
-      "analysis": "“Primarily” 强调首要的、最核心的方面，常用于强调优先级或重要性排序，语气更正式、更精确。而 “mostly” 更侧重数量或频率上的多数，不强调重要性。例如：The project is primarily funded by the government（项目主要由政府资助）强调资金来源的优先性；而 It’s mostly funded by donations（主要靠捐赠资助）强调资金来源的构成比例。"
+      "analysis": "“Primarily”（首要地）强调优先级或重要性上的第一顺位，常用于正式语境，如政策、目标或功能的首要目的。而 “mostly” 更侧重于数量或频率上的多数，不强调重要性排序。"
     },
     {
       "word_to_compare": "generally",
-      "analysis": "“Generally” 指在通常情况下、普遍而言，强调普遍性或常规趋势，常用于概括性陈述；而 “mostly” 更强调数量或比例上的“大部分”，更具体、更偏向统计性。例如：Generally, people like coffee（人们通常喜欢咖啡）是泛泛而谈；Mostly, people drink coffee in the morning（大多数人早上喝咖啡）则指出具体的时间分布。"
+      "analysis": "“Generally”（一般而言）侧重于普遍性或常规情况，常用于概括性陈述，隐含“大多数情况下如此”，但更强调规律性而非比例。而 “mostly” 更具体地指向数量或范围上的“大部分”，常与可量化的对象搭配。"
     }
   ]
 }

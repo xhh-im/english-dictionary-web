@@ -1,48 +1,45 @@
 {
   "word": "jesse",
-  "pronunciation": "jehs",
+  "pronunciation": "jeh·see",
   "concise_definition": "n. 人名，杰西（常见英文名）",
   "forms": {
-    "variant_spelling": [
-      "Jessie",
-      "Jesse"
-    ]
+    "plural": "Jesses"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A given name of English origin, commonly used for both males and females, historically derived from the Hebrew name 'Yishai' (Jesse), meaning 'wealthy' or 'God exists'.",
-      "explanation_cn": "一个源自英语的常见人名，男女皆可使用，历史上源自希伯来语名字 'Yishai'（杰西），意为‘富足’或‘神存在’。",
-      "example_en": "Jesse Owens was an iconic American track and field athlete who won four gold medals at the 1936 Berlin Olympics.",
-      "example_cn": "杰西·欧文斯是一位传奇的美国田径运动员，在1936年柏林奥运会上赢得了四枚金牌。"
+      "explanation_en": "A given name of Hebrew origin, commonly used for males, derived from the biblical name Jesse, father of King David in the Old Testament.",
+      "explanation_cn": "源自希伯来语的男性名，源自《旧约》中大卫王的父亲耶西（Jesse），常用于人名。",
+      "example_en": "Jesse is a talented musician who plays the guitar and writes his own songs.",
+      "example_cn": "杰西是一位才华横溢的音乐人，会弹吉他并创作自己的歌曲。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A surname or family name, often associated with notable individuals in history, entertainment, or politics.",
-      "explanation_cn": "作为姓氏使用，常与历史上、娱乐界或政界中的知名人物相关联。",
-      "example_en": "The actor Jesse Eisenberg gained fame for his role in The Social Network.",
-      "example_cn": "演员杰西·艾森伯格因在《社交网络》中的角色而闻名。"
+      "explanation_en": "A surname or family name, occasionally used in English-speaking countries, often associated with historical or cultural figures bearing the name.",
+      "explanation_cn": "作为姓氏使用，偶尔见于英语国家，常与历史上或文化中名为杰西的人物相关联。",
+      "example_en": "The artist Jesse Owens broke world records in track and field during the 1936 Olympics.",
+      "example_cn": "运动员杰西·欧文斯在1936年奥运会上打破了田径项目的多项世界纪录。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A nickname or informal reference to someone named Jesse, sometimes used in pop culture to denote a character with a rebellious or adventurous spirit.",
-      "explanation_cn": "作为昵称或非正式称呼，指代名为杰西的人，有时在流行文化中用于形容具有叛逆或冒险精神的角色。",
-      "example_en": "In the TV series Breaking Bad, Jesse Pinkman becomes a central figure in the drug trade.",
-      "example_cn": "在电视剧《绝命毒师》中，杰西·平克曼成为毒品交易中的核心人物。"
+      "explanation_en": "A colloquial or informal reference to a person, sometimes used as a generic placeholder name, similar to 'John Doe'.",
+      "explanation_cn": "口语或非正式场合中用作泛指某人的代称，类似于‘约翰·多伊’这样的通用名字。",
+      "example_en": "Some guy named Jesse showed up at the door with a package.",
+      "example_cn": "有个叫杰西的家伙来门口送了个包裹。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "Jessie",
-      "analysis": "“Jessie” 是 “Jesse” 的常见变体拼写，尤其在女性名字中更常见。两者发音相同，但 “Jessie” 更常被用作女性名字，而 “Jesse” 在现代英语中更常用于男性，尽管两者性别界限已逐渐模糊。"
+      "word_to_compare": "jessie",
+      "analysis": "“Jessie” 是 “Jesse” 的常见变体拼写，尤其在女性名字中更常用，但两者在历史上和语义上同源。现代英语中，“Jesse” 更偏向男性名，而 “Jessie” 更常用于女性，但实际使用中界限模糊，常因个人偏好而异。"
     },
     {
-      "word_to_compare": "Gideon",
-      "analysis": "“Gideon” 是另一个源自希伯来语的圣经人名，意为‘砍伐者’或‘强大的战士’，与 ‘Jesse’ 同属旧约人物名，但语义和文化背景不同。Jesse 是大卫王的父亲，象征血统与传承；Gideon 则是军事领袖，象征勇气与神的召唤。"
+      "word_to_compare": "james",
+      "analysis": "“James” 是另一个源自《圣经》的常见男性名，意为“取代者”，与 “Jesse”（意为“存在”或“财富”）在词源和文化背景上不同。两者均为传统英文名，但 “James” 使用频率更高，且更常作为姓氏使用，而 “Jesse” 更具现代流行文化色彩。"
     },
     {
-      "word_to_compare": "Jason",
-      "analysis": "“Jason” 是源自希腊语的名字，意为‘治愈者’，与 ‘Jesse’ 在词源、文化背景和历史使用上完全不同。Jason 常与希腊神话中的阿尔戈英雄联系，而 Jesse 则主要与圣经传统和现代英语命名习惯相关。"
+      "word_to_compare": "joseph",
+      "analysis": "“Joseph” 是源自希伯来语的另一个《圣经》人名，意为“上帝将增添”，常用于宗教语境和传统家庭。与 “Jesse” 相比，“Joseph” 更具宗教权威感，而 “Jesse” 因其与大卫王的关联，常带有英雄祖先的象征意义，现代使用中更显亲切和非正式。"
     }
   ]
 }

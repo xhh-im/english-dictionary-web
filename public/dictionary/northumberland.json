@@ -2,9 +2,6 @@
   "word": "northumberland",
   "pronunciation": "nɔːrθˈʌmbərlənd",
   "concise_definition": "n. 北安普敦郡（英国英格兰东北部的一个郡）",
-  "forms": {
-    "none": ""
-  },
   "definitions": [
     {
       "pos": "noun",
@@ -15,24 +12,24 @@
     },
     {
       "pos": "noun",
-      "explanation_en": "A former administrative county and historic region that has influenced English history, particularly during the Anglo-Saxon and medieval periods, and is associated with powerful noble families such as the Percys.",
-      "explanation_cn": "一个前行政郡和历史地区，在盎格鲁-撒克逊时期和中世纪对英格兰历史产生重要影响，与珀西等强大贵族家族密切相关。",
-      "example_en": "The Duke of Northumberland still resides in Alnwick Castle, a symbol of the region’s aristocratic past.",
-      "example_cn": "北安普敦公爵仍居住在阿尼克城堡，这是该地区贵族历史的象征。"
+      "explanation_en": "A former administrative county in England, now largely replaced by the unitary authorities of Northumberland and Tyne and Wear, but still used in cultural and geographical contexts.",
+      "explanation_cn": "英格兰一个已废止的行政郡，现主要被北安普敦郡和泰恩-威尔单一管理区取代，但在文化和地理语境中仍被广泛使用。",
+      "example_en": "Many families in Northumberland trace their roots back to the 17th century.",
+      "example_cn": "许多北安普敦郡的家庭可以追溯到17世纪的祖先。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "county",
-      "analysis": "“County”（郡）是英国行政区划的通用术语，泛指任何行政郡，如Yorkshire、Devon等。而 “Northumberland” 是一个具体的地名，特指英格兰东北部的这个历史郡，具有独特的地理、文化和政治身份，不能与其他郡互换使用。"
+      "analysis": "“County”（郡）是英国行政区划的通用术语，泛指各级行政或历史区域，而 “Northumberland” 是一个具体的郡名，具有独特的历史、地理和文化身份。使用 “county” 时是泛指，而 “Northumberland” 是特指。"
     },
     {
-      "word_to_compare": "region",
-      "analysis": "“Region”（地区）是一个更宽泛、非正式的地理概念，可涵盖多个郡或行政单位，如“North East England”。而 “Northumberland” 是一个明确的行政和历史实体，边界清晰，有法定地位，比“region”更具精确性和权威性。"
+      "word_to_compare": "northern",
+      "analysis": "“Northern”（北方的）是一个形容词，描述地理位置或方向，如 northern England（英格兰北部），而 “Northumberland” 是专有名词，指代一个具体的行政区域，不能用作形容词。"
     },
     {
-      "word_to_compare": "shire",
-      "analysis": "“Shire” 是“county”的古英语形式，常用于地名后缀，如“Warwickshire”或“Northumberland”（原为Northumbrian shire）。虽然“Northumberland”在词源上与“shire”相关，但现代英语中“shire”多用于构成地名，而“Northumberland”本身已是一个完整专有名词，不再作为普通名词使用。"
+      "word_to_compare": "umberland",
+      "analysis": "“Umberland” 并非真实存在的地名，常被误认为是 “Northumberland” 的一部分。实际上，‘Northumberland’ 由 ‘North’（北方）和 ‘Umberland’（古英语中指 ‘land of the people’）组成，后者已不再单独使用。因此，‘Northumberland’ 是一个不可分割的专有名称。"
     }
   ]
 }

@@ -3,40 +3,36 @@
   "pronunciation": "rees",
   "concise_definition": "n. 人名（威尔士语）：里斯",
   "forms": {
-    "variant_spellings": [
-      "Rees",
-      "Reese",
-      "Rice"
-    ]
+    "plural": "Rhyses"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A masculine given name of Welsh origin, derived from the Welsh name 'Rhys', meaning 'enthusiasm' or 'ardor'. It has been historically used in Wales and among Welsh-descended communities.",
-      "explanation_cn": "源自威尔士语的男性名，由威尔士语 'Rhys' 演变而来，意为‘热情’或‘热忱’。该名字在威尔士及威尔士后裔社群中历史悠久。",
-      "example_en": "Rhys Ifans is a well-known Welsh actor recognized for his roles in both film and theater.",
-      "example_cn": "里斯·伊凡斯是一位著名的威尔士演员，因在电影和戏剧中的角色而广为人知。"
+      "explanation_en": "A Welsh masculine given name, derived from the medieval Welsh name 'Rhys', meaning 'enthusiasm' or 'ardor'. It has been historically common in Wales and is often associated with Welsh nobility and cultural heritage.",
+      "explanation_cn": "威尔士语男性名，源自中世纪威尔士语名 'Rhys'，意为‘热情’或‘热忱’。该名字在威尔士历史悠久，常与威尔士贵族和文化传统相关联。",
+      "example_en": "Rhys Ifans is a well-known Welsh actor who has appeared in numerous international films.",
+      "example_cn": "里斯·伊凡斯是一位著名的威尔士演员，出演过众多国际影片。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A surname of Welsh origin, often found in historical records and modern genealogies, indicating ancestral ties to Wales.",
-      "explanation_cn": "一种源自威尔士的姓氏，常见于历史文献和现代家谱中，表明与威尔士的血缘联系。",
+      "explanation_en": "A surname of Welsh origin, borne by families tracing their ancestry to the historic Welsh region, often indicating lineage from a notable ancestor named Rhys.",
+      "explanation_cn": "源自威尔士的姓氏，用于那些祖先可追溯至威尔士历史地区的家族，通常表明其血统源自一位名叫里斯的显赫祖先。",
       "example_en": "The Rhys family has lived in Carmarthenshire for over five centuries.",
       "example_cn": "里斯家族已在卡马森郡生活了五个世纪以上。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "Rees",
-      "analysis": "“Rees” 是 “Rhys” 的常见英语化拼写形式，发音相同，但拼写更符合英语拼写习惯。两者在语义和起源上完全相同，仅在书写形式上存在差异，常见于移民后裔的姓氏记录中。"
-    },
-    {
       "word_to_compare": "Reese",
-      "analysis": "“Reese” 是 “Rhys” 在美国等地的进一步英语化变体，常被用作名字或姓氏，发音仍接近 /riːs/。它在现代英语语境中更常见，但失去了原始威尔士语的拼写特征，文化根源较弱。"
+      "analysis": "“Reese” 是 “Rhys” 的英语化拼写形式，发音相似，但拼写更符合英语习惯，常用于美国等地。两者同源，但 “Rhys” 保留了更纯粹的威尔士语拼写和文化身份，而 “Reese” 更偏向英语国家的通用化使用。"
     },
     {
       "word_to_compare": "Rice",
-      "analysis": "“Rice” 是 “Rhys” 在中古英语时期因语音演变而产生的另一种拼写变体，尤其在英格兰南部地区。虽然发音相似，但 “Rice” 现在更常被理解为源自英语单词 ‘rice’（大米），与威尔士语 ‘Rhys’ 无直接语义关联，属于同音异义的姓氏分化。"
+      "analysis": "“Rice” 是英语中常见的姓氏，源自职业（种稻者），与 “Rhys” 在词源、语义和文化背景上完全无关。尽管发音可能相似，但两者无任何语言或历史关联，不应混淆。"
+    },
+    {
+      "word_to_compare": "Rishi",
+      "analysis": "“Rishi” 是梵语来源的印度男性名，意为“圣人”或“智者”，与威尔士名 “Rhys” 在语言起源、文化背景和语义上均无关联。两者仅在发音上偶有相似，属于跨文化同音异义词。"
     }
   ]
 }

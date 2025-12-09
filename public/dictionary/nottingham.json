@@ -8,31 +8,31 @@
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A city in Nottinghamshire, England, known for its historical association with the legendary outlaw Robin Hood, its textile industry, and its vibrant cultural scene including universities and sports teams.",
-      "explanation_cn": "英国英格兰诺丁汉郡的一座城市，以与传奇侠盗罗宾汉的关联、纺织工业以及包括大学和体育团队在内的活跃文化氛围而闻名。",
-      "example_en": "Nottingham Castle is a popular tourist attraction that dates back to the 11th century.",
-      "example_cn": "诺丁汉城堡是一座可追溯至11世纪的热门旅游景点。"
+      "explanation_en": "A city in Nottinghamshire, England, known for its historical association with the legend of Robin Hood, its textile industry, and its vibrant cultural scene.",
+      "explanation_cn": "位于英国英格兰诺丁汉郡的一座城市，以与罗宾汉传说的密切关联、纺织工业以及充满活力的文化氛围而闻名。",
+      "example_en": "Nottingham Castle is a popular tourist attraction that overlooks the city and offers insights into its medieval past.",
+      "example_cn": "诺丁汉城堡是一座热门旅游景点，俯瞰全城，让人们深入了解其中世纪的历史。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A surname or place name derived from the city, sometimes used to refer to people or things originating from Nottingham.",
-      "explanation_cn": "源自该城市的姓氏或地名，有时用于指代来自诺丁汉的人或事物。",
-      "example_en": "She's a Nottingham native who now teaches literature at Oxford.",
-      "example_cn": "她是一位来自诺丁汉的本地人，如今在牛津教授文学。"
+      "explanation_en": "A term sometimes used to refer to the people, culture, or dialect associated with the city of Nottingham.",
+      "explanation_cn": "有时用以指代与诺丁汉市相关的人群、文化或方言。",
+      "example_en": "She speaks with a strong Nottingham accent, which locals find charming and distinctive.",
+      "example_cn": "她说话带有浓重的诺丁汉口音，当地人觉得这种口音既迷人又独特。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "london",
-      "analysis": "“London”（伦敦）是英国的首都和最大城市，是政治、经济、金融和文化的全球中心，规模和国际影响力远超诺丁汉。而“Nottingham”虽具历史底蕴和文化特色，但属于区域性中心城市，更侧重地方传统与民间传说（如罗宾汉），而非全球枢纽功能。"
+      "analysis": "“London”（伦敦）是英国的首都和最大城市，以政治、金融、国际文化和历史地标著称；而 “Nottingham” 是一座中等规模的城市，更以民间传说（如罗宾汉）、工业遗产和社区氛围闻名，整体气质更贴近地方性与民间传统。"
     },
     {
       "word_to_compare": "manchester",
-      "analysis": "“Manchester”（曼彻斯特）与“Nottingham”同为英格兰北部重要城市，两者均以工业革命遗产著称，但曼彻斯特更以足球文化（曼联、曼城）、音乐产业和科技产业闻名，而诺丁汉则以罗宾汉传说、大学教育和中世纪建筑为标志，城市气质更偏重历史叙事与学术氛围。"
+      "analysis": "“Manchester”（曼彻斯特）以工业革命发源地、足球文化和音乐场景闻名，更具现代都市感和经济活力；而 “Nottingham” 则保留了更多中世纪风貌和童话色彩，其文化认同更紧密地绑定于罗宾汉的传奇叙事。"
     },
     {
       "word_to_compare": "york",
-      "analysis": "“York”（约克）是英格兰另一座历史悠久的城市，以维京和中世纪遗迹闻名，如约克大教堂和古城墙。与诺丁汉相比，约克更强调保存完好的中世纪风貌和宗教遗产，而诺丁汉则融合了民间传说、工业历史与现代大学城的活力，更具叙事性和多元性。"
+      "analysis": "“York”（约克）是英国另一座历史悠久的古城，以维京和中世纪遗迹、大教堂和城墙著称；而 “Nottingham” 虽然也有城堡和古迹，但其现代身份更突出于流行文化符号（如罗宾汉）和大学城氛围，历史感与传说感并重。"
     }
   ]
 }

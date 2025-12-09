@@ -1,34 +1,38 @@
 {
   "word": "mah",
   "pronunciation": "mæ",
-  "concise_definition": "int. （口语）嘿，喂（用于引起注意）",
+  "concise_definition": "int. （方言/口语）嘿，喂，哎",
   "forms": {
-    "no_plural": true,
-    "no_past_tense": true,
-    "no_past_participle": true,
-    "no_present_participle": true
+    "plural": "mahs"
   },
   "definitions": [
     {
       "pos": "interjection",
-      "explanation_en": "An informal, often regional or colloquial exclamation used to get someone's attention, typically in casual or conversational contexts, especially in certain dialects of American English.",
-      "explanation_cn": "一种非正式、常带有地域或口语色彩的感叹词，用于在轻松的对话情境中引起某人的注意，尤其见于美国英语的某些方言。",
-      "example_en": "Mah, you're not seriously going to wear that to the interview?",
-      "example_cn": "嘿，你真打算穿那身去面试吗？"
+      "explanation_en": "An informal, regional, or dialectal exclamation used to get someone's attention, often in a casual, playful, or slightly impatient tone, particularly in American Southern or African American Vernacular English.",
+      "explanation_cn": "一种非正式、地域性或方言性的感叹词，用于唤起某人的注意，语气通常轻松、戏谑或略带不耐烦，常见于美国南部英语或非裔美国人白话英语中。",
+      "example_en": "Mah, you ain't gonna believe what happened!",
+      "example_cn": "嘿，你绝对想不到发生了什么！"
+    },
+    {
+      "pos": "interjection",
+      "explanation_en": "A variant or phonetic spelling of 'hey' or 'ho' used in oral storytelling, folk music, or regional speech to create rhythm or emphasize a call.",
+      "explanation_cn": "作为 'hey' 或 'ho' 的语音变体或拼写形式，用于口头叙事、民间音乐或地方口语中，以营造节奏感或加强呼喊效果。",
+      "example_en": "Mah, come on now — we ain't got all day!",
+      "example_cn": "喂，快点吧——我们可没一整天时间！"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "hey",
-      "analysis": "“Hey” 是最通用的引起注意的感叹词，适用于几乎所有英语语境，语气中性或略带随意。而 “mah” 更具地域性（如美国中西部或南部），语气更口语化、更随意，有时带有轻微的不耐烦或调侃意味。"
+      "analysis": "“Hey” 是标准英语中通用的呼语，语气中性或略带急切，适用于各种语境。而 “mah” 更具地域和文化色彩，常带有南方口音或非裔美国人口语的韵律感，情感更浓烈、更口语化。"
     },
     {
-      "word_to_compare": "hi",
-      "analysis": "“Hi” 是标准的问候语，用于打招呼，通常不带有命令或催促的语气。而 “mah” 不是问候，而是直接呼喊，目的是打断或引起对方注意，语义功能不同。"
+      "word_to_compare": "ho",
+      "analysis": "“Ho” 是一种更古老或粗犷的呼语，有时带有贬义或粗鲁色彩，常见于北方方言或历史文本中。“Mah” 则更偏向于亲切、活泼的呼唤，较少负面含义，多用于当代流行文化或音乐中。"
     },
     {
       "word_to_compare": "yo",
-      "analysis": "“Yo” 是街头俚语，常用于年轻人之间，语气更强烈、更具挑衅性或亲密感。而 “mah” 更温和、更地方化，不具攻击性，多用于熟人之间的日常对话。"
+      "analysis": "“Yo” 是城市俚语中常见的呼语，尤其在街头文化中使用广泛，语气更直接、更年轻化。“Mah” 则保留了更多乡村或南方口音的特征，语调更拖长，更具音乐性和叙事感。"
     }
   ]
 }

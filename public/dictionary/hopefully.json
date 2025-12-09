@@ -1,39 +1,35 @@
 {
   "word": "hopefully",
-  "pronunciation": "hoop·fuh·lee",
-  "concise_definition": "adv. 有希望地, 但愿, 但愿如此",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
+  "pronunciation": "hōp·fəl·ē",
+  "concise_definition": "adv. 但愿, 有希望地, 令人希望地",
   "definitions": [
     {
       "pos": "adverb",
-      "explanation_en": "Expressing a desire or hope that something will happen or be true, often used to introduce a sentence or clause expressing optimism about a future outcome.",
-      "explanation_cn": "表达对某事发生或为真的愿望，常用于句首或从句前，传达对未来的乐观期待。",
-      "example_en": "Hopefully, the meeting will be rescheduled for next week.",
-      "example_cn": "但愿会议能改到下周举行。"
+      "explanation_en": "Expressing a desire or hope that something will happen or be true, often used as a sentence adverb to convey optimism about an outcome.",
+      "explanation_cn": "表达对某事发生或为真的愿望，常作为句首副词，传达对结果的乐观态度。",
+      "example_en": "Hopefully, the meeting will be rescheduled soon.",
+      "example_cn": "但愿这次会议能尽快重新安排。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "Used informally to convey a speaker's wish or expectation, even when the grammatical subject is not the one doing the hoping (a common usage in modern English despite traditional objections).",
-      "explanation_cn": "在现代英语中非正式地用于表达说话者的愿望或预期，即使语法主语并非‘希望’的发出者（尽管传统语法对此有异议，但此用法已广泛接受）。",
-      "example_en": "Hopefully, the package arrives before Friday.",
-      "example_cn": "但愿包裹在周五前送达。"
+      "explanation_en": "In a manner that inspires hope or suggests a favorable outcome; describing something in a way that reflects optimism.",
+      "explanation_cn": "以一种令人感到有希望或暗示良好结果的方式；描述某事时体现出乐观的态度。",
+      "example_en": "She looked hopefully toward the horizon, waiting for the rescue boat.",
+      "example_cn": "她满怀希望地望着地平线，等待救援船的到来。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "wishfully",
-      "analysis": "“Wishfully”（充满愿望地）强调一种带有主观渴望或幻想色彩的期待，常带有不切实际或情感强烈的意味，如“她望向远方，充满渴望地想着假期”。而 “hopefully” 更中性、更常用，侧重表达对现实结果的乐观期待，不必然包含幻想成分。"
+      "analysis": "“Wishfully”（充满愿望地）强调一种主观的、有时不切实际的渴望，带有更多幻想色彩，而 “hopefully” 更倾向于表达一种合理期待或积极信念，语气更现实、更常用。"
     },
     {
       "word_to_compare": "optimistically",
-      "analysis": "“Optimistically”（乐观地）描述一种基于理性判断或积极倾向的态度，强调对结果的正面预期是建立在证据或信念基础上的。而 “hopefully” 更侧重表达主观愿望，不一定有充分依据，语气更口语化、更随意。"
+      "analysis": "“Optimistically”（乐观地）侧重于基于理性判断的积极预期，常用于描述态度或心理状态；而 “hopefully” 更口语化，常用于表达对未来的愿望，不一定基于充分依据，语气更轻松随意。"
     },
     {
       "word_to_compare": "fingers crossed",
-      "analysis": "“Fingers crossed”（交叉手指）是一种口语化、形象化的表达，常用于非正式场合，带有祈福或迷信色彩，如“Fingers crossed it rains tomorrow!”。而 “hopefully” 是一个标准副词，语法结构更正式，适用于书面和口语，情感色彩更克制。"
+      "analysis": "“Fingers crossed”（交叉手指，表示祈愿）是一种非正式的口语表达，常伴随肢体动作，带有迷信或祈福色彩；而 “hopefully” 是标准书面和口语中使用的副词，更正式、更通用，适用于各种语境。"
     }
   ]
 }

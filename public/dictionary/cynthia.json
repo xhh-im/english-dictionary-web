@@ -1,41 +1,38 @@
 {
   "word": "cynthia",
   "pronunciation": "sin·thi·uh",
-  "concise_definition": "n. 西恩莎（女性名），月神狄安娜的别名",
+  "concise_definition": "n. 西恩莎（女性名），月神黛安娜的别名",
   "forms": {
-    "variant_spellings": [
-      "Cynthie",
-      "Cynthy"
-    ]
+    "plural": "cynthias"
   },
   "definitions": [
     {
       "pos": "noun",
       "explanation_en": "A feminine given name of Greek origin, derived from Mount Cynthus on the island of Delos, traditionally associated with the goddess Artemis (Diana), who was born there.",
-      "explanation_cn": "源自希腊语的女性名字，源于德洛斯岛上的辛索斯山，该地传统上被认为是月神阿耳忒弥斯（狄安娜）的诞生地。",
-      "example_en": "Cynthia is a talented violinist who performs with the symphony orchestra.",
-      "example_cn": "西恩莎是一位才华横溢的小提琴家，常与交响乐团同台演出。"
+      "explanation_cn": "源自希腊语的女性名字，源于德洛斯岛上的辛索斯山，传统上与月神阿耳忒弥斯（黛安娜）相关，传说她诞生于此。",
+      "example_en": "Cynthia is a talented artist who paints landscapes inspired by ancient mythology.",
+      "example_cn": "西恩莎是一位才华横溢的艺术家，她的风景画灵感源自古希腊神话。"
     },
     {
       "pos": "noun",
-      "explanation_en": "An archaic poetic epithet for the goddess Diana (Artemis), referring to her birthplace on Mount Cynthus, often used in classical literature to evoke lunar imagery and purity.",
-      "explanation_cn": "古典文学中对月神狄安娜（阿耳忒弥斯）的古雅诗化别称，源自其诞生地辛索斯山，常用于唤起月光意象与纯洁之感。",
-      "example_en": "The poet invoked Cynthia's silver light to illuminate the quiet forest.",
-      "example_cn": "诗人召唤辛莎的银光，照亮了静谧的森林。"
+      "explanation_en": "An archaic or poetic epithet for the Greek goddess Artemis (Roman: Diana), referring to her birthplace on Mount Cynthus.",
+      "explanation_cn": "古时或诗意中对希腊女神阿耳忒弥斯（罗马名：黛安娜）的别称，指其诞生地辛索斯山。",
+      "example_en": "The poet invoked Cynthia to guide the wanderer through the silent night.",
+      "example_cn": "诗人呼唤西恩莎，指引漫游者穿越寂静的黑夜。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "diana",
-      "analysis": "“Diana” 是罗马神话中月神和狩猎女神的正式名称，而 “Cynthia” 是其诗化别称，强调地理渊源（辛索斯山）和文学美感。在现代语境中，“Diana” 更常用于指代人物或品牌，而 “Cynthia” 几乎仅作为人名使用。"
+      "analysis": "“Diana” 是罗马神话中月神和狩猎女神的正式名称，而 “Cynthia” 是其希腊对应神阿耳忒弥斯的诗意别称，源自其出生地。两者指代同一神祇，但 “Cynthia” 更具文学性和古典韵味，常用于诗歌或文艺作品中，而 “Diana” 更常用于宗教、历史或现代语境。"
     },
     {
       "word_to_compare": "artemis",
-      "analysis": "“Artemis” 是希腊神话中对应狄安娜的女神本名，侧重其作为狩猎与自然守护者的职能；“Cynthia” 则专指其作为月神的侧面，且多用于文学修辞，而非神话叙述本身。"
+      "analysis": "“Artemis” 是希腊神话中女神的本名，强调其作为狩猎、自然与月亮守护者的神格；而 “Cynthia” 是一个地理性别称，侧重其出生地的象征意义。在文学中，使用 “Cynthia” 可增强诗意与古典氛围，而 “Artemis” 更具神话体系的准确性。"
     },
     {
       "word_to_compare": "luna",
-      "analysis": "“Luna” 是拉丁语中对月亮本身的直接称呼，常用于天文学或象征性语境；而 “Cynthia” 是拟人化的女神名称，承载文化与神话内涵，比 “Luna” 更具人格化和文学性。"
+      "analysis": "“Luna” 是拉丁语中对月亮本身的直接称呼，常作为月亮女神的代称，但不特指阿耳忒弥斯/黛安娜。而 “Cynthia” 是一个专属于该女神的别名，具有明确的神话与地理渊源。因此，“Luna” 更泛化，而 “Cynthia” 更具人格化与文化特异性。"
     }
   ]
 }

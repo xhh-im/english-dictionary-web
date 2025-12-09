@@ -3,39 +3,36 @@
   "pronunciation": "eev",
   "concise_definition": "n. （人名）伊夫（法语名，常用于男性）",
   "forms": {
-    "variant_spelling": [
-      "Yves",
-      "Ives"
-    ]
+    "plural": "yves"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A French masculine given name, derived from the Germanic name 'Ivo', meaning 'yew' (the tree), often associated with strength and resilience. It is notably borne by the French fashion designer Yves Saint Laurent.",
-      "explanation_cn": "法语男性名，源自日耳曼语名 'Ivo'，意为‘紫杉树’，常象征力量与韧性。该名字最著名的是法国时尚设计师伊夫·圣罗兰（Yves Saint Laurent）。",
-      "example_en": "Yves Saint Laurent revolutionized women's fashion with his tuxedo suit for women in the 1960s.",
-      "example_cn": "伊夫·圣罗兰在20世纪60年代以女性燕尾服颠覆了女性时尚。"
+      "explanation_en": "A French masculine given name, commonly used in France and French-speaking countries, often associated with notable figures such as Yves Saint Laurent, the famous fashion designer.",
+      "explanation_cn": "法语男性名，常见于法国及法语国家，常与著名人物如时尚设计师伊夫·圣罗兰（Yves Saint Laurent）相关联。",
+      "example_en": "Yves Saint Laurent revolutionized women's fashion with his tuxedo suit for women.",
+      "example_cn": "伊夫·圣罗兰以女性燕尾服的设计革新了女性时尚。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A surname or family name in French-speaking regions, sometimes used as a proper noun in brand names or artistic pseudonyms.",
-      "explanation_cn": "在法语地区用作姓氏，有时也用于品牌名称或艺术化名。",
-      "example_en": "The art gallery featured a collection titled 'Yves: Echoes of the Modern'",
-      "example_cn": "画廊展出了一组名为《伊夫：现代的回响》的作品集。"
+      "explanation_en": "A proper noun used as a surname or part of a compound name in various cultural contexts, sometimes appearing in branding or artistic identities.",
+      "explanation_cn": "在不同文化语境中用作姓氏或复合名称的一部分，有时出现在品牌或艺术身份中。",
+      "example_en": "The artist Yves Klein is renowned for his monochrome blue paintings.",
+      "example_cn": "艺术家伊夫·克莱因以其单色蓝色画作而闻名。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "Ives",
-      "analysis": "“Ives” 是 “Yves” 的英语化拼写变体，常见于英语国家，如美国作曲家查尔斯·艾夫斯（Charles Ives）。两者同源，但 “Yves” 更保留法语发音和文化语境，而 “Ives” 更偏向英语拼读习惯。"
+      "word_to_compare": "iv",
+      "analysis": "“Iv” 是英文中“IV”的缩写，常用于表示罗马数字4或医学中的静脉注射（intravenous），与 “Yves” 在拼写和语义上完全不同。后者是专有名词，前者是缩写或符号，二者无语义关联。"
     },
     {
-      "word_to_compare": "Yves Saint Laurent",
-      "analysis": "“Yves Saint Laurent” 是一个完整人名，特指著名设计师，不能单独用作普通名词。而 “Yves” 作为独立词时，仅指名字本身，不自动关联品牌或人物，需语境支持。"
+      "word_to_compare": "eve",
+      "analysis": "“Eve”（夏娃）是圣经中的女性名字，象征起源与开端，而 “Yves” 是法语男性名，无宗教象征意义。两者虽发音相近，但文化背景、性别指向和语义领域完全不同。"
     },
     {
-      "word_to_compare": "Eve",
-      "analysis": "“Eve” 是女性名，源自希伯来语，意为“生命”，与 “Yves”（源自紫杉树）在语义和性别上完全不同。尽管发音相似，但两者无词源或文化关联。"
+      "word_to_compare": "yves",
+      "analysis": "“Yves” 作为专有名词，本身没有近义词，因其为特定人名，不可替换。其相关性仅体现在同名人物（如 Yves Saint Laurent 与 Yves Klein）的指代上，而非语义同义。"
     }
   ]
 }

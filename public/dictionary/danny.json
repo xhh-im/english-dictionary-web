@@ -1,42 +1,38 @@
 {
   "word": "danny",
   "pronunciation": "dan·nee",
-  "concise_definition": "n. (专有名词) 丹尼（男性名）",
+  "concise_definition": "n. （人名）丹尼",
   "forms": {
-    "variant_spelling": [
-      "Danie",
-      "Dannye",
-      "Daniele"
-    ]
+    "plural": "dannies"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A masculine given name of English origin, derived from the Hebrew name Daniel, meaning 'God is my judge'. Commonly used in Western countries as a familiar or diminutive form of Daniel.",
-      "explanation_cn": "一个源自希伯来语名字 Daniel 的英文男性名，意为‘上帝是我的审判者’。在西方国家常作为 Daniel 的昵称或简称使用。",
-      "example_en": "Danny is the captain of our soccer team.",
-      "example_cn": "丹尼是我们足球队的队长。"
+      "explanation_en": "A given name, commonly used as a diminutive or informal form of the name Daniel, often associated with familiarity or affection.",
+      "explanation_cn": "作为人名 Daniel 的昵称或非正式形式，常用于表达亲切或喜爱的语气。",
+      "example_en": "Danny is the guy who always brings cookies to the office party.",
+      "example_cn": "丹尼就是那个总给公司派对带饼干的人。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A colloquial or informal term sometimes used to refer to a person, especially in British slang, as in 'Danny Boy' — a term of endearment or reference to a young man.",
-      "explanation_cn": "在英式俚语中，有时作为对某人的非正式称呼，尤其在 'Danny Boy' 中，用作对年轻男子的亲昵称呼。",
-      "example_en": "Danny Boy, come over here and help me with this box!",
-      "example_cn": "丹尼小子，过来帮我把这个箱子搬一下！"
+      "explanation_en": "A slang term in some regional dialects, particularly in British English, referring to a foolish or inept person (archaic or humorous usage).",
+      "explanation_cn": "在某些地区方言中（尤其英式英语）作为俚语，指一个愚蠢或无能的人（现已过时或带有幽默色彩）。",
+      "example_en": "Don't be such a danny — figure out how to fix the printer yourself!",
+      "example_cn": "别这么笨了，自己想办法修好打印机吧！"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "Daniel",
-      "analysis": "“Daniel” 是 “Danny” 的正式全名形式，源自希伯来语，具有宗教和历史背景，常用于正式场合或文件中。而 “Danny” 是其口语化、亲昵的缩略形式，多用于日常交流、朋友或家人之间，语气更轻松随意。"
+      "word_to_compare": "dan",
+      "analysis": "“Dan” 是 “Daniel” 的更简短缩写形式，常用于正式或中性语境，如姓名签名或职场称呼；而 “Danny” 更具亲昵感，多用于家庭、朋友或儿童语境，情感色彩更浓厚。"
     },
     {
-      "word_to_compare": "Dane",
-      "analysis": "“Dane” 指丹麦人或来自丹麦的人，是一个民族或国籍名词，与 “Danny” 在语义上完全无关。虽然拼写相似，但 “Dane” 不是人名，而是一个群体称谓，不可互换使用。"
+      "word_to_compare": "daniel",
+      "analysis": "“Daniel” 是正式全名，常用于法律文件、官方记录或正式介绍；“Danny” 是其口语化变体，两者语义相同，但语用场合截然不同：前者庄重，后者随意。"
     },
     {
-      "word_to_compare": "Denny",
-      "analysis": "“Denny” 是另一个常见的 Daniel 的昵称变体，与 “Danny” 功能相似，但发音略有不同（/ˈdɛni/ vs /ˈdæni/），在地域使用上略有偏好，如 “Denny” 在苏格兰和北美更常见，而 “Danny” 更普遍于英美主流文化。"
+      "word_to_compare": "dunce",
+      "analysis": "“Dunce”（笨蛋）是一个明确的贬义词，指智力低下或学习能力差的人，语气严厉；而 “danny” 作为俚语使用时虽有类似含义，但通常语境轻松，甚至带调侃意味，不具攻击性。"
     }
   ]
 }

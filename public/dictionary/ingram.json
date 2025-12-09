@@ -9,10 +9,9 @@
     {
       "pos": "noun",
       "explanation_en": "A proper noun, typically used as a surname, originating from English and possibly derived from a place name or occupational term.",
-      "explanation_cn": "一个专有名词，通常用作姓氏，源自英语，可能来源于地名或职业称谓。",
-      "example_en": "John Ingram is the CEO of the technology firm.",
-      "example_cn": "约翰·英格拉姆是这家科技公司的首席执行官。"
+      "explanation_cn": "一个专有名词，通常用作姓氏，起源于英语，可能源自地名或职业称谓。",
+      "example_en": "John Ingram is the CEO of a leading technology firm.",
+      "example_cn": "约翰·英格拉姆是一家领先科技公司的首席执行官。"
     }
-  ],
-  "comparison": []
+  ]
 }

@@ -3,41 +3,36 @@
   "pronunciation": "yoo·soof",
   "concise_definition": "n. 尤素福（人名）",
   "forms": {
-    "variant_spellings": [
-      "Yousef",
-      "Youseff",
-      "Yusuf",
-      "Youssef"
-    ]
+    "plural": "yusufs"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A male given name of Arabic origin, derived from the Hebrew name Yosef, meaning 'he will add' or 'God shall add'. It is widely used in Muslim, Christian, and Jewish communities across the Middle East, North Africa, and South Asia.",
-      "explanation_cn": "源自阿拉伯语的男性名字，源于希伯来语名字 Yosef，意为‘他将增添’或‘上帝将增添’。广泛用于中东、北非和南亚的穆斯林、基督徒和犹太社群。",
-      "example_en": "Yusuf is a talented musician who blends traditional Sufi chants with modern jazz.",
-      "example_cn": "尤素福是一位才华横溢的音乐家，他将苏菲派吟唱与现代爵士乐融合在一起。"
+      "explanation_en": "A male given name of Arabic origin, equivalent to the biblical name Joseph, meaning 'God increases' or 'He will add'. Commonly used in Muslim communities across the Middle East, North Africa, and South Asia.",
+      "explanation_cn": "源自阿拉伯语的男性名字，相当于圣经中的约瑟夫，意为‘上帝增添’或‘祂将加增’，广泛用于中东、北非和南亚的穆斯林社群。",
+      "example_en": "Yusuf is a talented engineer who recently graduated from MIT.",
+      "example_cn": "尤素福是一位才华横溢的工程师，最近刚从麻省理工学院毕业。"
     },
     {
       "pos": "noun",
-      "explanation_en": "In Islamic tradition, Yusuf refers to the Prophet Joseph, known for his beauty, patience, and wisdom, as recounted in the Quran (Surah Yusuf). He is one of the most celebrated prophets in Islam.",
-      "explanation_cn": "在伊斯兰传统中，尤素福指先知约瑟，以其美貌、忍耐与智慧著称，详见《古兰经》第12章（尤素福章）。他是伊斯兰教中最受尊崇的先知之一。",
-      "example_en": "The story of Yusuf in the Quran is often cited as a model of moral integrity and divine patience.",
-      "example_cn": "《古兰经》中尤素福的故事常被引为道德操守与神圣忍耐的典范。"
+      "explanation_en": "In Islamic tradition, Yusuf refers to the prophet Joseph, known for his beauty, patience, and wisdom, as recounted in the Quran (Surah Yusuf).",
+      "explanation_cn": "在伊斯兰传统中，尤素福指先知约瑟，以其美貌、忍耐与智慧著称，其故事记载于《古兰经》第十二章（尤素福章）。",
+      "example_en": "The story of Yusuf in the Quran is often cited as a model of moral resilience and divine trust.",
+      "example_cn": "《古兰经》中尤素福的故事常被引为道德坚韧与对真主信赖的典范。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "Joseph",
-      "analysis": "“Joseph” 是希伯来语 Yosef 的英语形式，广泛用于基督教和西方文化中，指圣经中的约瑟。而 “Yusuf” 是其阿拉伯语和伊斯兰文化中的对应形式，拼写和发音因语言和地域而异，但指代的是同一位先知。两者在宗教叙事上高度一致，但文化语境和使用群体不同。"
+      "analysis": "“Joseph” 是希伯来语和基督教传统中的对应名字，拼写和发音不同，但语义和人物背景与 “Yusuf” 完全一致。两者都指《圣经》和《古兰经》中的先知约瑟，区别主要在于语言文化语境：前者用于西方基督教世界，后者用于伊斯兰世界。"
     },
     {
-      "word_to_compare": "Youssef",
-      "analysis": "“Youssef” 是 “Yusuf” 的另一种常见拼写变体，主要在法语影响地区（如北非）使用。发音略有不同，但语义和文化背景完全相同。两者是同一名字的方言或拼写差异，非不同词义。"
+      "word_to_compare": "Yousef",
+      "analysis": "“Yousef” 是 “Yusuf” 的另一种英语化拼写形式，常见于埃及、黎巴嫩等阿拉伯国家的移民群体中。两者发音几乎相同，只是拼写略有差异，属于同一名字的变体，无语义区别。"
     },
     {
       "word_to_compare": "Joshua",
-      "analysis": "“Joshua” 是另一个希伯来语名字 Yehoshua 的英语形式，意为‘耶和华是救主’，与 Yusuf（意为‘他将增添’）在词源、含义和宗教角色上均无关联。尽管两者都是圣经人物，但不应混淆。"
+      "analysis": "“Joshua” 是另一个希伯来语名字，意为‘耶和华是救主’，与 ‘Yusuf’ 在语义和宗教背景上完全不同。虽然两者都是圣经中的重要人物，但 Joshua 是摩西的继承者，带领以色列人进入应许之地，而 Yusuf 是被卖为奴后成为埃及宰相的先知，角色和故事截然不同。"
     }
   ]
 }

@@ -1,33 +1,34 @@
 {
   "word": "loosing",
-  "pronunciation": "loo·sihg",
-  "concise_definition": "v. 松开, 放松 (错误形式)",
+  "pronunciation": "loo·ihs",
+  "concise_definition": "v. 松开, 放松 (错误形式，正确形式应为 losing)",
   "forms": {
-    "correct_form": "losing"
+    "third_person_singular": "looses",
+    "past_tense": "loosed",
+    "past_participle": "loosed",
+    "present_participle": "loosing"
   },
   "definitions": [
     {
       "pos": "verb",
-      "explanation_en": "A misspelling of 'losing'. 'Loosing' is the present participle of 'loose', meaning to set free or make less tight, and is often mistakenly used in place of 'losing', which means to fail to keep or to be defeated.",
-      "explanation_cn": "是 'losing' 的拼写错误。'Loosing' 是动词 'loose' 的现在分词，意为‘释放’或‘使不紧’，常被误用为表示‘失去’或‘输掉’的 'losing'。",
-      "example_en": "He was loosing the game (incorrect usage).",
-      "example_cn": "他正在输掉比赛（错误用法）。",
-      "note_en": "This form is grammatically incorrect when intended to mean 'not winning'. The correct word is 'losing'.",
-      "note_cn": "当意图表示‘未获胜’时，此形式在语法上是错误的。正确形式应为 'losing'。"
+      "explanation_en": "To release or make less tight; to set free from constraint or fastening. This is the correct spelling and meaning of 'loose' in its -ing form.",
+      "explanation_cn": "指释放或使某物不那么紧；从约束或固定中解脱出来。这是 'loose' 的正确现在分词形式及其含义。",
+      "example_en": "He was loosing the knot on his tie so he could breathe more easily.",
+      "example_cn": "他正在松开领带上的结，以便呼吸更顺畅。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "losing",
-      "analysis": "“Losing” 是 “lose” 的现在分词，意为“失去、输掉、未能保留”。它用于描述在比赛、竞争、财物或机会上的失败。而 “loosing” 是 “loose” 的现在分词，意为“松开、释放”，两者词义完全不同，但因发音相似常被混淆。"
+      "analysis": "“Losing” (失去) 是动词 “lose” 的现在分词，意为“失去、输掉、无法保留”，常用于比赛、物品、机会等语境。而 “loosing” 是 “loose” 的现在分词，意为“松开、释放”。两者发音相似，但拼写和含义完全不同，常被混淆。例如：‘losing a game’（输掉比赛） vs. ‘loosing a dog’（松开狗绳）。"
     },
     {
       "word_to_compare": "loose",
-      "analysis": "“Loose” 是形容词或动词，意为“松的”或“释放”。作为动词时，其现在分词为 “loosing”，如 “loosing the dog from its leash”。它与 “losing” 在语义和用法上无关联，仅因拼写相似导致常见错误。"
+      "analysis": "“Loose” 是形容词或动词原形，意为“松的、不紧的”或“松开”。而 “loosing” 是其动词的现在分词形式，强调正在进行的松开动作。例如：‘a loose shirt’（一件宽松的衬衫） vs. ‘loosing the rope’（正在松开绳子）。"
     },
     {
-      "word_to_compare": "lose",
-      "analysis": "“Lose” 是动词原形，意为“失去、输掉”，其现在分词为 “losing”。这是表达失败或丧失时的正确形式。与 “loosing” 的混淆是英语学习者中最常见的拼写错误之一，需特别注意词根差异：lose/losing vs. loose/loosing。"
+      "word_to_compare": "miss",
+      "analysis": "“Miss” (错过) 指未能抓住、达到或获得某物，常用于机会、目标或人。它强调“未达成”，而 “loosing” 强调“主动释放”或“解除束缚”。例如：‘miss the bus’（错过公交车）与 ‘loosing the leash’（松开牵引绳）在语义和动作意图上完全不同。"
     }
   ]
 }

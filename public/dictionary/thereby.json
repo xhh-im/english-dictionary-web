@@ -17,22 +17,22 @@
       "pos": "adverb",
       "explanation_en": "By means of the previously stated action or method; emphasizing the mechanism through which an effect is achieved.",
       "explanation_cn": "通过前文所述的方式或手段，强调实现某种效果的途径。",
-      "example_en": "The government introduced new regulations, thereby reducing pollution in urban areas.",
+      "example_en": "The government imposed new regulations, thereby reducing pollution in urban areas.",
       "example_cn": "政府出台了新法规，借此减少了城市地区的污染。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "thus",
-      "analysis": "“Thus” (因此) 与 “thereby” 都表示结果，但 “thus” 更常用于总结性或抽象的推论，语气更正式，常置于句首或句中，不强调具体手段。而 “thereby” 更强调前文动作直接导致的结果，且通常紧接在该动作之后，突出因果链条中的机制。"
+      "analysis": "“Thus” (因此) 与 “thereby” 都表示结果，但 “thus” 更常用于总结性或抽象的推论，语气更正式，常置于句首或句中，不强调具体手段。而 “thereby” 更强调前文动作直接导致的结果，常与具体行为关联，具有更强的因果机制感。"
     },
     {
       "word_to_compare": "therefore",
-      "analysis": "“Therefore” (因此) 用于逻辑推论，强调基于前提得出的结论，常用于论证或推理语境，位置较灵活。而 “thereby” 不用于推论，而是描述一个实际发生的、由前文行为直接引发的后果，更侧重于物理或实际层面的结果。"
+      "analysis": "“Therefore” (因此) 用于逻辑推理，表示基于前提得出的结论，常用于论证或说明理由，多位于句首或主句前。而 “thereby” 不用于推论，而是描述一个动作实际产生的直接后果，更侧重于物理或实际影响，而非抽象推理。"
     },
     {
       "word_to_compare": "hence",
-      "analysis": "“Hence” (因此) 与 “therefore” 类似，多用于书面语，表示从已知事实推出的结论，常带有时间或空间上的推移含义（如“henceforth”）。而 “thereby” 不表达推论，只表达由前文动作直接产生的结果，语义更具体、更贴近动作本身。"
+      "analysis": "“Hence” (因此) 与 “therefore” 类似，多用于书面语，表示从已知事实推出的结论，常带有时间或空间上的推移含义（如“从这里出发”）。而 “thereby” 不表达推论，只表达前文行为所引发的直接结果，语义更具体、更贴近动作的后果。"
     }
   ]
 }

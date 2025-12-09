@@ -3,36 +3,36 @@
   "pronunciation": "too·skuh·nee",
   "concise_definition": "n. 意大利托斯卡纳地区",
   "forms": {
-    "proper_noun": true
+    "plural": "Tuscany"
   },
   "definitions": [
     {
       "pos": "noun",
       "explanation_en": "A region in central Italy, renowned for its rolling hills, vineyards, medieval towns, Renaissance art, and distinctive cuisine, including Chianti wine and olive oil.",
-      "explanation_cn": "意大利中部的一个地区，以其连绵的丘陵、葡萄园、中世纪城镇、文艺复兴艺术以及独特的美食（如基安蒂葡萄酒和橄榄油）而闻名。",
+      "explanation_cn": "意大利中部的一个地区，以其连绵起伏的丘陵、葡萄园、中世纪城镇、文艺复兴艺术以及独特的美食（如基安蒂葡萄酒和橄榄油）而闻名。",
       "example_en": "We spent a week exploring the countryside of Tuscany, visiting charming villages and tasting local wines.",
       "example_cn": "我们花了一周时间探索托斯卡纳的乡村，参观了迷人的村庄并品尝了当地葡萄酒。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A style or aesthetic inspired by the culture, architecture, and landscape of the Italian region, often used in interior design, landscaping, and culinary arts.",
-      "explanation_cn": "一种受意大利托斯卡纳地区文化、建筑和景观启发的风格或美学，常用于室内设计、园林景观和烹饪艺术中。",
-      "example_en": "The restaurant’s decor features a Tuscan-style kitchen with terracotta tiles and wrought-iron fixtures.",
-      "example_cn": "这家餐厅的装潢采用了托斯卡纳风格的厨房，配有赤陶砖和锻铁配件。"
+      "explanation_en": "A style or aesthetic inspired by the culture, architecture, and landscape of the Italian region, often characterized by warm earth tones, rustic furnishings, and natural materials.",
+      "explanation_cn": "一种受意大利托斯卡纳地区文化、建筑和景观启发的风格或美学，通常以温暖的大地色系、质朴的家具和天然材料为特征。",
+      "example_en": "Her kitchen was designed in a Tuscan style, with terracotta tiles and wrought-iron light fixtures.",
+      "example_cn": "她的厨房采用了托斯卡纳风格设计，铺有赤陶地砖，配有铁艺灯具。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "lombardy",
-      "analysis": "“Lombardy”（伦巴第）是意大利北部的一个大区，以米兰、金融和工业著称，其文化更偏向现代都市与古典巴洛克风格；而 “Tuscany” 则代表意大利乡村的田园诗意与文艺复兴传统，两者在地理、经济和文化气质上形成鲜明对比。"
+      "analysis": "“Lombardy”（伦巴第）是意大利北部的一个经济发达地区，以米兰、时尚产业和工业著称，其景观以平原和城市为主。而 “Tuscany” 则以乡村风光、艺术遗产和慢生活闻名，两者在文化气质和地理特征上截然不同。"
     },
     {
       "word_to_compare": "provence",
-      "analysis": "“Provence”（普罗旺斯）是法国东南部地区，以薰衣草田、阳光明媚的气候和地中海风情闻名，其美学更轻盈、浪漫；而 “Tuscany” 的景观更厚重、古朴，强调石质建筑、葡萄园和历史沉淀，文化上更贴近意大利的宗教与艺术传统。"
+      "analysis": "“Provence”（普罗旺斯）是法国东南部的一个地区，与托斯卡纳一样以薰衣草田、橄榄园和阳光明媚的乡村闻名。但普罗旺斯更强调法国南部的清新感与香草香气，而托斯卡纳则更厚重，充满文艺复兴的历史沉淀与红葡萄酒文化。"
     },
     {
       "word_to_compare": "countryside",
-      "analysis": "“Countryside”（乡村）是一个泛指任何非城市地区的通用词，不特指某一文化或地理区域；而 “Tuscany” 是一个具有独特历史、艺术和饮食传统的具体地域名称，承载着强烈的文化象征意义，远超一般意义上的乡村概念。"
+      "analysis": "“Countryside”（乡村）是一个泛指所有非城市地区的通用词，不特指任何文化或地理区域。而 “Tuscany” 是一个具有独特历史、艺术和饮食传统的具体地理与文化实体，远比 “countryside” 更具文化内涵和辨识度。"
     }
   ]
 }

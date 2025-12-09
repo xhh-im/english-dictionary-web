@@ -3,40 +3,29 @@
   "pronunciation": "soh·nee·uh",
   "concise_definition": "n. 索尼娅（女性名）",
   "forms": {
-    "variant_spellings": [
-      "Sonia",
-      "Sonja",
-      "Sónia"
-    ]
+    "plural": "sonias"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A feminine given name of Slavic origin, commonly used in Russian, Spanish, Portuguese, and other European languages. It is often a variant of the name Sophia, meaning 'wisdom'.",
-      "explanation_cn": "源自斯拉夫语的女性名，广泛用于俄语、西班牙语、葡萄牙语及其他欧洲语言，常为 'Sophia'（智慧）的变体，意为 '智慧'。",
-      "example_en": "Sonia is a talented violinist who performs with the national orchestra.",
-      "example_cn": "索尼娅是一位才华横溢的小提琴家，她在国家交响乐团演奏。"
-    },
-    {
-      "pos": "noun",
-      "explanation_en": "A proper noun used to refer to specific individuals, such as Sonia Sotomayor, the first Latina justice of the U.S. Supreme Court.",
-      "explanation_cn": "用作专有名词，指代特定人物，例如索尼娅·索托马约尔——美国最高法院首位拉美裔大法官。",
-      "example_en": "Justice Sonia Sotomayor has been a powerful voice for civil rights and judicial fairness.",
-      "example_cn": "索托马约尔大法官一直是民权与司法公正的有力倡导者。"
+      "explanation_en": "A feminine given name of Slavic origin, commonly used in Russia, Ukraine, and other Eastern European countries. It is a variant of the name 'Sophia', meaning 'wisdom'.",
+      "explanation_cn": "源自斯拉夫语的女性名，常见于俄罗斯、乌克兰及其他东欧国家，是 'Sophia'（智慧）的变体形式，意为‘智慧’。",
+      "example_en": "Sonia was the first in her family to earn a university degree.",
+      "example_cn": "索尼娅是她家族中第一个获得大学学位的人。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "Sophia",
-      "analysis": "“Sophia” 是希腊语词源，意为“智慧”，是更广泛使用的国际女性名字，拼写和发音更标准化。而 “Sonia” 是其斯拉夫语变体，发音更短促，文化上更集中于东欧和拉丁美洲地区。两者语义相近，但 “Sonia” 更具地域特色。"
+      "word_to_compare": "sofia",
+      "analysis": "“Sofia” 是 “Sonia” 的直接词源形式，源自希腊语 “sophia”（智慧），拼写更接近原始形式，使用范围更广，尤其在西方国家更常见。而 “Sonia” 是其斯拉夫语化的变体，发音更短促，文化上更具东欧特色。"
     },
     {
-      "word_to_compare": "Sonia (brand)",
-      "analysis": "在某些语境下，'Sonia' 也可能指代品牌（如 Sonia Rykiel，法国时尚品牌），但作为人名时，它不具有商业含义。与作为人名的 'Sonia' 相比，品牌用法属于专有名词的延伸，需根据上下文区分。"
+      "word_to_compare": "sophia",
+      "analysis": "“Sophia” 是完整的原始形式，常用于宗教、哲学语境中象征“智慧”这一抽象概念，作为人名时更显庄重典雅。“Sonia” 则是其口语化、昵称化的衍生形式，更亲切、日常，多用于非正式场合。"
     },
     {
-      "word_to_compare": "Sonia vs. Sonja",
-      "analysis": "“Sonja” 是 “Sonia” 在北欧和德语区的常见拼写变体，发音相同，但拼写差异反映了语言习惯。两者在语义和使用上完全等同，仅属地域性拼写差异，无语义区别。"
+      "word_to_compare": "lucia",
+      "analysis": "“Lucia” 源自拉丁语 “lux”（光），意为“光明”，与 “Sonia” 在语义和文化背景上不同。两者均为东欧常见女性名，但 “Lucia” 更具地中海和天主教传统色彩，而 “Sonia” 则与斯拉夫文化紧密关联。"
     }
   ]
 }

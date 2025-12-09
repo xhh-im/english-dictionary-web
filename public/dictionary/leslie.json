@@ -1,42 +1,38 @@
 {
   "word": "leslie",
   "pronunciation": "lez·lee",
-  "concise_definition": "n. 人名：莱斯利（常见英文名，男女皆可）",
+  "concise_definition": "n. 人名，莱斯利（常见于英语国家的姓氏或女性名）",
   "forms": {
-    "variant_spellings": [
-      "Lesley",
-      "Lesly",
-      "Leslee"
-    ]
+    "plural": "leslies"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A given name of Scottish origin, traditionally used for both males and females, derived from the place name Leslie in Aberdeenshire, Scotland, meaning 'holly garden'.",
-      "explanation_cn": "源自苏格兰的英文人名，传统上男女皆可使用，源于苏格兰阿伯丁郡的地名 Leslie，意为‘冬青花园’。",
+      "explanation_en": "A proper noun used as a given name or surname, primarily in English-speaking countries. It has origins in Scottish and English place names, derived from Old French 'les lieux' meaning 'the meadows'.",
+      "explanation_cn": "一个专有名词，主要用作英语国家的姓氏或女性名字，源自苏格兰和英格兰的地名，由古法语 'les lieux'（意为‘草地’）演变而来。",
       "example_en": "Leslie Knope is a beloved character from the TV show Parks and Recreation.",
       "example_cn": "莱斯利·诺普是电视剧《公园与游憩》中深受喜爱的角色。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A surname used by notable individuals across various fields, including arts, politics, and sports.",
-      "explanation_cn": "用作姓氏，常见于艺术、政治和体育等领域的知名人物。",
-      "example_en": "The actor Leslie Nielsen was famous for his comedic roles in films like Airplane! and The Naked Gun.",
-      "example_cn": "演员莱斯利·尼尔森因在《空前绝后满天飞》和《警察故事》等电影中的喜剧角色而闻名。"
+      "explanation_en": "A surname associated with notable individuals in arts, politics, and sports, such as Leslie Nielsen (actor) or Leslie Lamport (computer scientist).",
+      "explanation_cn": "作为姓氏，常与艺术、政治和体育领域的知名人物相关，例如演员莱斯利·尼尔森或计算机科学家莱斯利·兰波特。",
+      "example_en": "Leslie Lamport received the Turing Award for his contributions to distributed systems.",
+      "example_cn": "莱斯利·兰波特因在分布式系统领域的贡献而获得图灵奖。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "Lesley",
-      "analysis": "“Lesley” 是 “Leslie” 的一种常见拼写变体，两者发音完全相同，语义和用法无区别，仅在拼写习惯上略有不同。在北美，“Leslie” 更为普遍，而在英国，“Lesley” 的使用频率略高。"
+      "word_to_compare": "lesley",
+      "analysis": "“Lesley” 是 “Leslie” 的另一种拼写形式，两者发音相同，常被当作同一名字的不同变体。传统上，“Lesley” 更常用于女性，而 “Leslie” 更中性或偏向男性，但现代用法中界限已模糊，两者均可用于任何性别。"
     },
     {
-      "word_to_compare": "Lester",
-      "analysis": "“Lester” 是另一个英文人名，源自古英语，意为‘来自莱斯特的人’，与 ‘Leslie’ 在词源、发音和性别使用上均无关联。虽然两者都以 ‘L’ 开头且音节相似，但它们是完全不同的名字，不可互换。"
+      "word_to_compare": "lisa",
+      "analysis": "“Lisa” 是一个独立的女性名字，源自希腊语，意为“上帝的誓言”，与 “Leslie” 在词源、含义和文化背景上完全不同。虽然两者都是英语国家常见的女性名，但 “Leslie” 有地名起源，而 “Lisa” 是典型的教名，无地理关联。"
     },
     {
-      "word_to_compare": "Lindsay",
-      "analysis": "“Lindsay” 与 ‘Leslie’ 同为苏格兰起源的中性名字，常用于男女，且都带有地名背景（Lindsay 源自苏格兰的 Lindsay 地区）。两者在性别中立性和流行文化中的使用相似，但 ‘Leslie’ 更常作为独立名字使用，而 ‘Lindsay’ 更常被用作姓氏或复合名的一部分。"
+      "word_to_compare": "lindsay",
+      "analysis": "“Lindsay” 与 “Leslie” 同样源自苏格兰地名，且都曾作为中性名使用。两者在现代常被用作女性名，但 “Lindsay” 更强调“林地”或“河流”之意，而 “Leslie” 更侧重“草地”或“沼泽地”，语义来源略有不同。"
     }
   ]
 }

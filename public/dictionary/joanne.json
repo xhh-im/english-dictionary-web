@@ -1,7 +1,7 @@
 {
   "word": "joanne",
   "pronunciation": "zhoo·an",
-  "concise_definition": "n. 珍妮（女性名）",
+  "concise_definition": "n. 约安（女性名）",
   "forms": {
     "variant_spellings": [
       "Joann",
@@ -12,24 +12,24 @@
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A feminine given name of French origin, derived from the name Jeanne, which itself comes from the Hebrew name Yochanan, meaning 'God is gracious'. It is commonly used in English-speaking countries and has been popular since the mid-20th century.",
-      "explanation_cn": "一个源自法语的女性名字，由 Jeanne 演变而来，而 Jeanne 又源自希伯来语名字 Yochanan，意为‘上帝是仁慈的’。该名字在英语国家广泛使用，自20世纪中期以来一直流行。",
-      "example_en": "Joanne is a dedicated teacher who inspires her students every day.",
-      "example_cn": "珍妮是一位敬业的教师，每天都在激励她的学生。"
+      "explanation_en": "A feminine given name of Hebrew origin, derived from the name John, meaning 'God is gracious'. It is commonly used in English-speaking countries and has been popular since the mid-20th century.",
+      "explanation_cn": "一个源自希伯来语的女性名字，由名字 John 演变而来，意为‘上帝是仁慈的’。自20世纪中期以来在英语国家广泛使用。",
+      "example_en": "Joanne was the first woman to lead the research team at the institute.",
+      "example_cn": "约安是该研究所首位领导研究团队的女性。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "Jane",
-      "analysis": "“Jane” 是 “Joanne” 的简短形式或同源名，两者都源自希伯来语 Yochanan，但 “Jane” 更简洁、更常见于19世纪，而 “Joanne” 带有更明显的法语影响，听起来更柔和、现代。"
+      "word_to_compare": "john",
+      "analysis": "“John” 是男性名字，源自希伯来语 Yochanan，意为‘上帝是仁慈的’，与 “Joanne” 同源，但性别不同。两者共享相同的词根和语义，但 “Joanne” 是女性形式，常用于区分性别。"
     },
     {
-      "word_to_compare": "Joan",
-      "analysis": "“Joan” 是 “Joanne” 的更古老、更简化的形式，常用于英国英语，发音为 /dʒoʊən/，而 “Joanne” 通常发音为 /dʒuːˈæn/ 或 /dʒoʊˈæn/，更强调第二个音节。两者可互换使用，但 “Joanne” 更具现代感和女性化特征。"
+      "word_to_compare": "janet",
+      "analysis": "“Janet” 也是女性名字，源自 “Jane”，而 “Jane” 又是 “John” 的女性形式。因此 “Joanne” 和 “Janet” 都是 “John” 的女性变体，但 “Joanne” 更直接地由 “John” 加女性后缀 -ne 构成，而 “Janet” 是通过 “Jane” 的 diminutive 形式演变而来，发音和拼写差异较大。"
     },
     {
-      "word_to_compare": "Jeanne",
-      "analysis": "“Jeanne” 是法语原版拼写，是 “Joanne” 的直接来源。在法语语境中，它更常见且更正式；而在英语中，人们更倾向于使用 “Joanne” 以适应英语发音习惯。两者含义完全相同，但文化语境不同。"
+      "word_to_compare": "johanna",
+      "analysis": "“Johanna” 是 “Joanne” 的更正式或古典形式，源自拉丁语 Johanna，保留了更完整的希伯来语原形。两者意义相同，但 “Johanna” 在欧洲更常见，而 “Joanne” 更偏向现代英语用法，发音也更简洁。"
     }
   ]
 }

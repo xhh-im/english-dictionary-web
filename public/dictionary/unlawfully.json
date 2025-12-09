@@ -2,38 +2,34 @@
   "word": "unlawfully",
   "pronunciation": "un·law·fuh·lee",
   "concise_definition": "adv. 非法地, 违法地",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
   "definitions": [
     {
       "pos": "adverb",
-      "explanation_en": "In a manner that violates the law or is not permitted by legal authority; done without legal justification or permission.",
-      "explanation_cn": "以违反法律或未经法律授权的方式；指没有合法依据或许可而进行的行为。",
-      "example_en": "The police arrested the suspect for unlawfully entering the restricted area.",
-      "example_cn": "警方因该嫌疑人非法进入限制区域而将其逮捕。"
+      "explanation_en": "In a manner that violates the law or is not permitted by legal authority; acting contrary to established laws or regulations.",
+      "explanation_cn": "以违反法律或不受法律授权的方式行事；与既定法律或法规相悖的行为。",
+      "example_en": "He was arrested for unlawfully entering the restricted area.",
+      "example_cn": "他因非法进入限制区域而被逮捕。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "Used to emphasize that an action was carried out in breach of statutory, regulatory, or contractual rules, often implying moral or ethical wrongdoing.",
-      "explanation_cn": "用于强调某行为违反了法律、法规或合同规定，常暗示该行为在道德或伦理上亦属不当。",
-      "example_en": "The company was fined for unlawfully withholding employee benefits.",
-      "example_cn": "该公司因非法扣留员工福利而被罚款。"
+      "explanation_en": "Used to emphasize that an action was performed without legal justification or permission, often implying moral or ethical wrongdoing alongside legal violation.",
+      "explanation_cn": "用于强调某行为缺乏法律依据或授权，常暗示该行为不仅违法，还涉及道德或伦理上的不当。",
+      "example_en": "The company unlawfully withheld wages from its employees for months.",
+      "example_cn": "该公司数月来非法扣留员工工资。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "illegally",
-      "analysis": "“Illegally”（非法地）与 “unlawfully” 几乎完全同义，常可互换。但 “illegally” 更常用于描述明显触犯刑法的行为（如盗窃、贩毒），语气更直接、更严厉；而 “unlawfully” 语义范围更广，可涵盖违反行政法规、民事禁令或程序性规定的情形，语气稍显正式或技术性。"
+      "analysis": "“Illegally”（非法地）与 “unlawfully” 几乎完全同义，常可互换。但 “illegally” 更常用于日常口语和新闻报道，语气更直接；而 “unlawfully” 更正式，多用于法律文书、官方声明或学术语境中，带有更强的程序性意味。"
     },
     {
       "word_to_compare": "wrongfully",
-      "analysis": "“Wrongfully”（不正当地）强调行为在道德、公正或程序上的错误，不一定构成法律上的违法。例如，被错误定罪（wrongfully convicted）可能完全合法但事实错误。而 “unlawfully” 严格指违反法律条文本身，不涉及道德判断。"
+      "analysis": "“Wrongfully”（不正当地）侧重于道德或正义层面的错误，不一定构成法律上的违法。例如，一个人可能被 wrongfully accused（被冤枉指控），但其行为本身未必违法。而 “unlawfully” 明确指向违反法律条文，不涉及道德判断。"
     },
     {
-      "word_to_compare": "unauthorized",
-      "analysis": "“Unauthorized”（未经许可的）指缺乏官方或权威的批准，但不一定构成违法。例如，未经允许进入办公室是 unauthorized，但若该办公室无法律限制，则不构成 unlawful。而 “unlawfully” 必须涉及违反法律规范，语义更强、更严重。"
+      "word_to_compare": "criminally",
+      "analysis": "“Criminally”（构成犯罪地）强调行为已达到刑事犯罪的程度，需承担刑事责任。而 “unlawfully” 的范围更广，包括所有违反法律的行为，无论是否构成犯罪（如轻微违规、行政违法）。因此，所有 criminally done 行为都是 unlawfully done，但反之不成立。"
     }
   ]
 }

@@ -1,18 +1,20 @@
 {
   "word": "maxine",
   "pronunciation": "mak·seen",
-  "concise_definition": "n. (人名) 马克辛",
+  "concise_definition": "n. 女名，马克斯琳（Maxine 的中文音译）",
   "forms": {
-    "plural": "Maxines"
+    "variant_spelling": [
+      "Maxine",
+      "Maxine"
+    ]
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A proper noun, typically used as a feminine given name, derived from the name Max or as a variant of Maximilian or Maximilla, often associated with strength and elegance.",
-      "explanation_cn": "一个专有名词，通常用作女性名字，源自 Max 或 Maximilian/Maximilla 的变体，常与力量和优雅相关联。",
-      "example_en": "Maxine is a talented pianist who performs internationally.",
-      "example_cn": "马克辛是一位才华横溢的钢琴家，经常在国际上演出。"
+      "explanation_en": "A feminine given name, often derived from the name Max or as a variant of Maximilian, used to convey strength and elegance.",
+      "explanation_cn": "一个女性名，通常源自 Max 或作为 Maximilian 的变体，用于传达力量与优雅的气质。",
+      "example_en": "Maxine is a talented artist who exhibits her work in galleries across Europe.",
+      "example_cn": "马克斯琳是一位才华横溢的艺术家，她的作品在欧洲各地的画廊展出。"
     }
-  ],
-  "comparison": []
+  ]
 }

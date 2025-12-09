@@ -3,33 +3,29 @@
   "pronunciation": "jee·mee",
   "concise_definition": "n. （专有名词）吉米（人名）",
   "forms": {
-    "variant_spelling": [
-      "Jimi",
-      "Jimmie",
-      "Jimmy"
-    ]
+    "plural": "Jimi"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A proper noun, typically used as a given name, most famously associated with the American rock guitarist Jimi Hendrix. It is a variant spelling of 'Jimmy' and often carries cultural connotations of creativity, rebellion, or musical genius.",
-      "explanation_cn": "专有名词，通常用作人名，最著名的是美国摇滚吉他手吉米·亨德里克斯。它是 'Jimmy' 的变体拼写，常带有创造力、反叛精神或音乐天才的文化内涵。",
-      "example_en": "Jimi Hendrix revolutionized electric guitar playing with his innovative techniques and expressive style.",
-      "example_cn": "吉米·亨德里克斯以其创新的技巧和富有表现力的风格，彻底改变了电吉他的演奏方式。"
+      "explanation_en": "A proper noun, typically used as a given name, most famously associated with the American rock guitarist Jimi Hendrix.",
+      "explanation_cn": "专有名词，通常用作人名，最著名的是美国摇滚吉他手吉米·亨德里克斯（Jimi Hendrix）。",
+      "example_en": "Jimi Hendrix revolutionized electric guitar playing in the 1960s.",
+      "example_cn": "吉米·亨德里克斯在20世纪60年代彻底改变了电吉他的演奏方式。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "Jimmy",
-      "analysis": "“Jimmy” 是更常见和标准的拼写形式，广泛用于日常英语中作为男性名字，中性且普遍；而 “Jimi” 是一种带有个性化的变体拼写，常用于艺术或文化语境中，以强调独特性或反主流风格，尤其因吉米·亨德里克斯而具有标志性意义。"
+      "analysis": "“Jimmy” 是 “Jimi” 的标准拼写形式，作为人名更为常见和规范。“Jimi” 是 “Jimmy” 的一种非传统拼写变体，常用于艺术表达或个性化的命名，如音乐家 Jimi Hendrix 有意采用此拼写以彰显独特性。两者发音相同，但 “Jimi” 带有更强的流行文化与反叛象征意义。"
     },
     {
-      "word_to_compare": "Jimmie",
-      "analysis": "“Jimmie” 是 “Jimmy” 的另一种历史变体拼写，多见于20世纪早期的英语文献，如今较少使用。与 “Jimi” 相比，它不具有强烈的现代文化象征意义，也不常与音乐天才或反叛形象直接关联。"
+      "word_to_compare": "Jim",
+      "analysis": "“Jim” 是 “James” 的常见昵称，属于传统英语人名缩写，语气更朴实、日常。“Jimi” 则是现代流行文化中更具个性和艺术感的变体，常与摇滚、反主流文化相关联，语义上不等同于 “Jim”，后者不具备 “Jimi” 所承载的音乐传奇色彩。"
     },
     {
-      "word_to_compare": "name",
-      "analysis": "“Name” 是泛指任何称呼或标识符，而 “Jimi” 是一个具体的专有名词，承载着特定的历史、文化和个人身份。它不是普通名词，不能用于泛指，其意义高度依赖于语境和文化认知。"
+      "word_to_compare": "Gee",
+      "analysis": "“Gee” 是英语中表示惊讶或感叹的拟声词，与 “Jimi” 在语义和用法上完全无关。虽然发音部分相似，但 “Gee” 是感叹词，而 “Jimi” 是专有名词，二者不可混淆。"
     }
   ]
 }

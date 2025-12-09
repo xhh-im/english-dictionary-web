@@ -3,7 +3,7 @@
   "pronunciation": "roh·bot·iks",
   "concise_definition": "n. 机器人学, 机器人技术",
   "forms": {
-    "no_plural_form": true
+    "plural": "robotics"
   },
   "definitions": [
     {
@@ -15,8 +15,8 @@
     },
     {
       "pos": "noun",
-      "explanation_en": "The collective field of technology and research focused on creating autonomous or semi-autonomous machines capable of performing tasks traditionally done by humans.",
-      "explanation_cn": "指致力于创造能够执行传统由人类完成的任务的自主或半自主机器的技术与研究领域。",
+      "explanation_en": "The field of study and industry focused on creating autonomous or semi-autonomous machines capable of carrying out tasks traditionally performed by humans.",
+      "explanation_cn": "专注于创造能够执行传统由人类完成的任务的自主或半自主机器的研究领域与产业。",
       "example_en": "She majored in robotics and now works at a leading AI-driven automation company.",
       "example_cn": "她主修机器人学，现在就职于一家领先的AI驱动自动化公司。"
     }
@@ -24,15 +24,15 @@
   "comparison": [
     {
       "word_to_compare": "automation",
-      "analysis": "“Automation”（自动化）指通过技术手段使过程或系统无需人工干预即可运行，范围广泛，涵盖生产线、软件流程、家用设备等。而 “robotics” 专指使用机器人实体来实现自动化，强调物理机器的构建与控制，是自动化的一个子集。"
+      "analysis": "“Automation”（自动化）指通过技术手段使系统或流程无需人工干预即可运行，范围广泛，包括软件流程、生产线控制等，不一定涉及物理机器人。而 “robotics” 专指涉及物理机器人实体的设计与应用，是自动化的一种具体实现形式。"
     },
     {
       "word_to_compare": "artificial intelligence",
-      "analysis": "“Artificial intelligence”（人工智能）关注的是使机器具备学习、推理、决策等智能行为的能力，属于软件与算法层面。而 “robotics” 关注的是物理机器的机械结构、运动控制与环境交互。两者常结合（如AI机器人），但人工智能可以独立于机器人存在，而机器人不一定需要人工智能。"
+      "analysis": "“Artificial intelligence”（人工智能）是使机器模拟人类智能行为的技术，如学习、推理、识别等。机器人学可以使用人工智能作为其核心控制技术，但机器人学本身更关注机械结构、运动控制和物理交互，而人工智能则侧重于算法与数据处理。两者常结合，但属于不同学科。"
     },
     {
-      "word_to_compare": "mechanics",
-      "analysis": "“Mechanics”（力学/机械学）是物理学的一个分支，研究力与运动的关系，是机器人设计的基础学科之一。而 “robotics” 是一个跨学科的应用领域，融合了机械学、电子学、计算机科学和控制理论，其目标是构建可执行任务的智能机器，而不仅仅是理解物理原理。"
+      "word_to_compare": "mechatronics",
+      "analysis": "“Mechatronics”（机电一体化）是机械工程、电子工程与计算机控制的交叉学科，用于设计智能机械系统。机器人学是机电一体化的一个重要子集，但机电一体化的应用范围更广，如防抱死刹车系统、数码相机对焦机制等，不一定包含自主机器人功能。"
     }
   ]
 }

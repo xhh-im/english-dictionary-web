@@ -2,10 +2,6 @@
   "word": "atop",
   "pronunciation": "uh·top",
   "concise_definition": "prep. 在…顶部, 在…之上",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
   "definitions": [
     {
       "pos": "preposition",
@@ -16,24 +12,24 @@
     },
     {
       "pos": "preposition",
-      "explanation_en": "Used metaphorically to describe being in a position of superiority, dominance, or leadership over something else.",
-      "explanation_cn": "用于比喻意义，表示在某事物之上占据主导、优越或领导地位。",
-      "example_en": "Atop the list of priorities is the need for environmental reform.",
-      "example_cn": "首要任务是进行环境改革。"
+      "explanation_en": "Used metaphorically to describe being in a position of superiority or dominance over something else, often in abstract or figurative contexts.",
+      "explanation_cn": "用于比喻意义，表示在某事物之上占据主导或优越地位，常用于抽象语境。",
+      "example_en": "She stood atop the corporate ladder, the most powerful executive in the company.",
+      "example_cn": "她位居公司权力金字塔顶端，是公司最有权势的高管。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "on",
-      "analysis": "“On” (在…上) 是一个更通用的介词，表示物体与表面接触，但不强调位置是否在最高点。例如，“The book is on the table” 只说明书在桌子表面，而 “atop” 则暗示书在桌子的正上方最高处，具有更强的空间精确性。"
+      "analysis": "“On”（在…上）是一个更通用的介词，表示接触表面，但不强调位置在最高点。例如，“a book on the table” 仅说明书在桌子表面，而 “atop the table” 则暗示书放在桌子的正中央或最高处，更具空间精确性。"
     },
     {
       "word_to_compare": "above",
-      "analysis": "“Above” (在…上方) 表示垂直方向上的更高位置，但不必然接触；它强调的是相对高度而非接触关系。例如，“The plane flew above the clouds” 表示飞机在云层之上但未接触。而 “atop” 必须是直接位于顶部并接触的，语义更具体、更形象。"
+      "analysis": "“Above”（在…上方）仅表示垂直方向上的更高位置，但不意味着接触或位于顶部。例如，“a bird above the trees” 表示鸟在树的上方但未接触树顶；而 “atop the trees” 则意味着鸟站在树的最高枝上，有物理接触。"
     },
     {
       "word_to_compare": "over",
-      "analysis": "“Over” (在…上方) 可以表示空间上的覆盖或垂直上方，但常带有“跨越”或“遮盖”的含义，且不一定接触。例如，“The blanket was over the bed”。而 “atop” 仅用于明确的顶部接触位置，语义更狭窄、更精确，常用于书面或文学语境中以增强画面感。"
+      "analysis": "“Over”（在…上方）可表示空间上的覆盖或悬空，但不一定接触，有时还带有方向性（如飞过）。例如，“a plane over the city” 强调飞行路径；而 “atop the city” 则不可能用于飞机，只适用于固定在城市最高点的物体，如雕像或塔楼。"
     }
   ]
 }

@@ -3,16 +3,29 @@
   "pronunciation": "muh·lee",
   "concise_definition": "n. 马里（西非国家）",
   "forms": {
-    "proper_noun": "Mali"
+    "plural": "Malis"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A landlocked country in West Africa, bordered by Algeria, Niger, Burkina Faso, Côte d'Ivoire, Guinea, Senegal, and Mauritania. It is known for its rich cultural heritage, including the ancient city of Timbuktu, and its historical significance in trans-Saharan trade.",
-      "explanation_cn": "位于西非的内陆国家，与阿尔及利亚、尼日尔、布基纳法索、科特迪瓦、几内亚、塞内加尔和毛里塔尼亚接壤。以其丰富的文化遗产著称，包括古城廷巴克图，以及在跨撒哈拉贸易中的历史重要性。",
-      "example_en": "Mali gained independence from France in 1960 and is home to the Dogon people, famous for their unique architecture and spiritual traditions.",
-      "example_cn": "马里于1960年从法国独立，是多贡人的家园，他们以独特的建筑和精神传统而闻名。"
+      "explanation_en": "A landlocked country in West Africa, bordered by Algeria, Niger, Burkina Faso, Côte d'Ivoire, Guinea, Senegal, and Mauritania. It was once part of the ancient Mali Empire, known for its wealth in gold and salt trade.",
+      "explanation_cn": "位于西非的内陆国家，与阿尔及利亚、尼日尔、布基纳法索、科特迪瓦、几内亚、塞内加尔和毛里塔尼亚接壤。曾是古代马里帝国的一部分，以黄金和盐的贸易财富闻名。",
+      "example_en": "The ancient city of Timbuktu, located in Mali, was a major center of Islamic scholarship in the 14th century.",
+      "example_cn": "位于马里的古城廷巴克图在14世纪是伊斯兰学术的重要中心。"
     }
   ],
-  "comparison": []
+  "comparison": [
+    {
+      "word_to_compare": "malawi",
+      "analysis": "“Malawi”（马拉维）是位于非洲东南部的一个国家，与马里在地理位置、历史和文化上完全不同。两者名称拼写相似，但发音和所指国家截然不同，容易因拼写混淆，需注意区分。"
+    },
+    {
+      "word_to_compare": "malaysia",
+      "analysis": "“Malaysia”（马来西亚）是东南亚国家，以多元文化、热带雨林和现代都市著称，与西非的马里在语言、宗教、经济结构等方面无关联。名称相似纯属巧合，不可混淆。"
+    },
+    {
+      "word_to_compare": "malice",
+      "analysis": "“Malice”（恶意）是英语单词，意为蓄意伤害他人的意图，与国家名称“Mali”在词源、词性和语义上毫无关联，仅因开头字母相同而可能被误认，需注意语境区分。"
+    }
+  ]
 }

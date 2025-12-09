@@ -2,10 +2,6 @@
   "word": "ovarian",
   "pronunciation": "oh·vee·air·ee·uhn",
   "concise_definition": "adj. 卵巢的, 卵巢相关的",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
   "definitions": [
     {
       "pos": "adjective",
@@ -16,8 +12,8 @@
     },
     {
       "pos": "adjective",
-      "explanation_en": "Used in medical contexts to describe conditions, cysts, tumors, or hormones that are associated with the function or pathology of the ovaries.",
-      "explanation_cn": "在医学语境中用于描述与卵巢功能或病理相关的病症、囊肿、肿瘤或激素。",
+      "explanation_en": "Used in medical contexts to describe conditions, cysts, tumors, or hormonal functions associated with the ovaries.",
+      "explanation_cn": "在医学语境中用于描述与卵巢相关的疾病、囊肿、肿瘤或激素功能。",
       "example_en": "The patient was diagnosed with a benign ovarian cyst that required monitoring.",
       "example_cn": "该患者被诊断出患有良性卵巢囊肿，需定期监测。"
     }
@@ -33,7 +29,7 @@
     },
     {
       "word_to_compare": "hormonal",
-      "analysis": "“Hormonal”（激素的）泛指与任何激素相关的，包括甲状腺、肾上腺或性腺激素；而 “ovarian” 是特指由卵巢分泌的激素（如雌激素、孕激素）及其相关效应。因此，“ovarian” 是 “hormonal” 的一个子集，范围更窄、更具体。"
+      "analysis": "“Hormonal”（激素的）泛指与激素相关的任何生理过程，包括甲状腺、肾上腺、胰腺等分泌的激素；而 “ovarian” 是特指由卵巢分泌的激素（如雌激素、孕激素）所引发的生理现象，范围更窄、更具体。"
     }
   ]
 }

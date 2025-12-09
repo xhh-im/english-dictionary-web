@@ -1,18 +1,14 @@
 {
   "word": "literally",
   "pronunciation": "lit·er·uh·lee",
-  "concise_definition": "adv. 字面上地, 确实, 真正地",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
+  "concise_definition": "adv. 字面上地, 确实, 实际上",
   "definitions": [
     {
       "pos": "adverb",
       "explanation_en": "In a literal sense; exactly as stated, without metaphor, exaggeration, or figurative interpretation.",
       "explanation_cn": "按字面意义；完全按照所陈述的内容，不带隐喻、夸张或比喻性解释。",
-      "example_en": "The book literally changed my life — I started a new career after reading it.",
-      "example_cn": "这本书真的改变了我的人生——我读完后开始了全新的职业生涯。"
+      "example_en": "The book literally changed my life—I started a new career after reading it.",
+      "example_cn": "这本书真的改变了我的人生——我读完后开始了新的职业生涯。"
     },
     {
       "pos": "adverb",
@@ -25,15 +21,15 @@
   "comparison": [
     {
       "word_to_compare": "figuratively",
-      "analysis": "“Figuratively”（比喻地）与 “literally” 意义相反，用于表示非字面意义的表达，强调象征、隐喻或修辞。例如：“He’s a lion in battle” 是比喻说法，而 “He literally fought like a lion” 则暗示他真的像狮子一样战斗（尽管现实中不可能）。"
+      "analysis": "“Figuratively”（比喻地）与 “literally” 意义相反，用于表示非字面意义的表达，强调象征、隐喻或修辞。例如，“He’s a lion in battle” 是比喻说法，而 “literally” 则要求该句按字面理解为“他真的是狮子”。两者常形成对比，用于纠正或澄清表达意图。"
     },
     {
       "word_to_compare": "actually",
-      "analysis": "“Actually”（实际上）强调事实与预期或表面现象的对比，用于纠正误解，但不必然要求字面真实性。例如：“I thought it was fake, but it’s actually real.” 而 “literally” 强调语义的精确性，不涉及真假对比，而是是否按字面理解。"
+      "analysis": "“Actually”（实际上）强调事实与预期或表面现象的差异，但不必然要求字面真实。它可以用于纠正误解，如 “I thought he was angry, but actually he was just tired.” 而 “literally” 强调语言的精确性，要求陈述在物理或逻辑上完全成立。"
     },
     {
       "word_to_compare": "truly",
-      "analysis": "“Truly”（真正地）强调真实性、真诚性或本质，常用于情感或道德层面，如 “truly kind”。它不强调语言的字面性，而是内在的真实性。而 “literally” 关注的是语言表达是否与现实完全一致，属于语义精确性范畴。"
+      "analysis": "“Truly”（真正地）侧重于真实性、真诚性或本质，常用于表达情感或道德层面的真实，如 “She truly cares about you.” 它不涉及语言是否按字面理解，而 “literally” 则严格限定于语义的字面层面，二者语义范畴不同。"
     }
   ]
 }

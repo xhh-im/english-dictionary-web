@@ -3,8 +3,6 @@
   "pronunciation": "dutch",
   "concise_definition": "adj. 荷兰的, 荷兰人的; n. 荷兰语, 荷兰人",
   "forms": {
-    "comparative": "",
-    "superlative": "",
     "plural": "Dutch"
   },
   "definitions": [
@@ -27,28 +25,28 @@
       "explanation_en": "A native or inhabitant of the Netherlands.",
       "explanation_cn": "荷兰的原住民或居民。",
       "example_en": "The Dutch are known for their cycling culture and tolerance.",
-      "example_cn": "荷兰人以其骑行文化和包容性而闻名。"
+      "example_cn": "荷兰人以他们的骑行文化和包容性而闻名。"
     },
     {
       "pos": "adjective",
-      "explanation_en": "Used in compound expressions to describe something unfair, double-dealing, or contrary to expectation (e.g., Dutch auction, Dutch courage, Dutch treat).",
-      "explanation_cn": "用于复合表达中，指某种不公平、两面派或与预期相反的事物（如荷兰式拍卖、酒壮怂人胆、AA制）。",
-      "example_en": "It was a Dutch treat — everyone paid for their own meal.",
-      "example_cn": "这是AA制——每个人付自己的饭钱。"
+      "explanation_en": "Used in compound expressions to describe something unfair, double-dealing, or contrary to expectation, often in phrases like 'Dutch auction' or 'Dutch treat'.",
+      "explanation_cn": "用于复合表达中，描述某种不公平、两面派或违背预期的事物，常见于如 'Dutch auction'（荷兰式拍卖）或 'Dutch treat'（各付各的）等短语中。",
+      "example_en": "It was a Dutch treat — we each paid for our own meal.",
+      "example_cn": "这是各付各的——我们各自为自己的餐费买单。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "Netherlandic",
-      "analysis": "“Netherlandic” 是 “Dutch” 的学术性同义词，专指荷兰语，常用于语言学语境中，强调其作为语言的正式名称。而 “Dutch” 更常用、更口语化，既可指语言，也可指人或国家。"
+      "analysis": "“Netherlandic” 是 “Dutch” 的学术性同义词，专指荷兰语，多用于语言学语境中，强调语言的正式名称。而 “Dutch” 更常用、更口语化，既可指语言，也可指人或国家。"
     },
     {
       "word_to_compare": "Flemish",
-      "analysis": "“Flemish” 指比利时北部佛兰德地区所使用的荷兰语变体，与荷兰的荷兰语高度相似但存在口音、词汇和语法差异。虽然语言上同源，但 “Flemish” 强调地域身份，而 “Dutch” 通常指荷兰本土的标准语。"
+      "analysis": "“Flemish”（佛兰芒语）是比利时北部地区使用的荷兰语变体，与荷兰语高度相似，但有词汇、发音和语调上的差异。虽然常被误认为是独立语言，但语言学上它属于荷兰语的一种方言。使用 “Dutch” 时通常涵盖标准荷兰语，而 “Flemish” 特指比利时的变体。"
     },
     {
       "word_to_compare": "German",
-      "analysis": "“German” 是另一种日耳曼语，与荷兰语有亲缘关系，但两者在词汇、发音和语法上差异显著。虽然历史上荷兰语曾被视为德语的方言，但现代语言学已将其视为独立语言。将 “Dutch” 误用为 “German” 是常见文化误解。"
+      "analysis": "“German”（德语）与 “Dutch” 同属西日耳曼语支，两者在词汇和语法上有相似之处，但属于不同语言。荷兰语更接近英语，而德语有更复杂的格系统和发音规则。在文化语境中，将荷兰人误称为 “German” 是不准确且可能冒犯的。"
     }
   ]
 }

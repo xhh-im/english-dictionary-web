@@ -1,41 +1,38 @@
 {
   "word": "sg",
-  "pronunciation": "esˈdʒi",
+  "pronunciation": "es ˈdʒi",
   "concise_definition": "n. 缩写，常用于指新加坡（Singapore）或单数（singular）",
   "forms": {
-    "full_forms": [
-      "Singapore",
-      "singular"
-    ]
+    "full_form": "Singapore (国家名) / singular (语法术语)"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "An abbreviation for Singapore, commonly used in international contexts such as domain names (.sg), currency codes (SGD), and geographic references.",
-      "explanation_cn": "新加坡的缩写，常用于国际语境中，如国家顶级域名（.sg）、货币代码（SGD）和地理标识。",
-      "example_en": "The conference will be held in SG next month.",
-      "example_cn": "下个月会议将在新加坡举行。"
+      "explanation_en": "An abbreviation for Singapore, commonly used in international contexts such as domain names (.sg), currency codes (SGD), and travel documentation.",
+      "explanation_cn": "新加坡的缩写，常用于国际语境中，如国家顶级域名（.sg）、货币代码（SGD）和旅行文件中。",
+      "example_en": "I booked my flight to SG for next week.",
+      "example_cn": "我预订了下周飞往新加坡的航班。"
     },
     {
       "pos": "noun",
-      "explanation_en": "An abbreviation for 'singular', used in grammar, linguistics, or programming to denote the singular form of a noun or pronoun.",
-      "explanation_cn": "在语法、语言学或编程中用作 'singular'（单数）的缩写，用于表示名词或代词的单数形式。",
-      "example_en": "In this grammar rule, 'sg' indicates the singular form, while 'pl' indicates plural.",
-      "example_cn": "在这个语法规则中，'sg' 表示单数形式，而 'pl' 表示复数形式。"
+      "explanation_en": "An abbreviation for 'singular' in grammar, used to denote a form referring to one person, place, thing, or idea, as opposed to plural.",
+      "explanation_cn": "语法中 'singular'（单数）的缩写，用于指代指一个人、地点、事物或概念的形式，与复数相对。",
+      "example_en": "In English, 'cat' is sg, while 'cats' is pl.",
+      "example_cn": "在英语中，'cat' 是单数形式，而 'cats' 是复数形式。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "Singapore",
-      "analysis": "“Singapore” 是国家全称，用于正式场合、官方文件或完整语句中；而 “sg” 是其非正式缩写，多用于技术环境、网络地址或快速书写场景。两者语义相同，但语体和使用场景不同。"
+      "analysis": "“Singapore” 是国家全称，正式用于外交、法律和官方文件；而 “sg” 是其非正式缩写，多用于技术、网络或口语场景，简洁但缺乏正式性。"
     },
     {
-      "word_to_compare": "singular",
-      "analysis": "“Singular” 是完整单词，用于学术、语法或正式文本中；“sg” 是其高度简化的缩写形式，常见于编程注释、语言学表格或快速笔记中。后者不具备正式书面语的语体地位。"
+      "word_to_compare": "pl",
+      "analysis": "“pl” 是 “plural”（复数）的缩写，与 “sg”（单数）在语法体系中成对出现。两者常用于语言学、词典标注或编程中区分词形变化，但 “sg” 仅表示单数，不包含复数含义。"
     },
     {
-      "word_to_compare": "abbr",
-      "analysis": "“Abbr.” 是表示“缩写”的通用术语，而 “sg” 是一个具体的缩写实例。前者是元标签，后者是内容。例如：'sg (abbr. for singular)' —— 这里 'abbr' 描述性质，'sg' 是被描述的对象。"
+      "word_to_compare": "SIN",
+      "analysis": "“SIN” 是新加坡在国际标准化组织（ISO）中的三位字母国家代码，用于航空、物流和金融系统，比 “sg” 更正式且标准化。而 “sg” 主要用于互联网域名和非正式场合，语义范围更窄。"
     }
   ]
 }

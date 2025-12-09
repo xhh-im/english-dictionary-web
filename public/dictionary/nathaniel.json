@@ -4,42 +4,37 @@
   "concise_definition": "n. 纳撒尼尔（男性名）",
   "forms": {
     "variant_spellings": [
-      "Nathanael",
-      "Nathaniel"
-    ],
-    "diminutives": [
-      "Nate",
-      "Natty"
+      "Nathanael"
     ]
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A masculine given name of Hebrew origin, meaning 'God has given' or 'gift of God'. It is traditionally used in Christian, Jewish, and Western cultures and appears in biblical texts.",
-      "explanation_cn": "源自希伯来语的男性名字，意为‘上帝所赐’或‘上帝的礼物’。广泛用于基督教、犹太教及西方文化中，并见于《圣经》文本。",
-      "example_en": "Nathaniel was known for his honesty and integrity in the biblical story of John 1:47.",
-      "example_cn": "在《约翰福音》1:47 的圣经故事中，纳撒尼尔以诚实和正直著称。"
+      "explanation_en": "A masculine given name of Hebrew origin, meaning 'God has given' or 'gift of God'. It appears in the Bible as the name of one of Jesus' disciples and is used in various cultural and historical contexts.",
+      "explanation_cn": "源自希伯来语的男性名字，意为‘上帝所赐’或‘上帝的礼物’。在《圣经》中是耶稣门徒之一的名字，广泛用于各种文化和历史背景中。",
+      "example_en": "Nathaniel Hawthorne was a renowned American novelist known for The Scarlet Letter.",
+      "example_cn": "纳撒尼尔·霍桑是一位著名的美国小说家，以《红字》闻名。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A proper noun used as a personal identifier for individuals, often carrying cultural or familial significance, and sometimes associated with historical or literary figures.",
-      "explanation_cn": "作为个人身份标识的专有名词，常承载文化或家族意义，有时与历史人物或文学人物相关联。",
-      "example_en": "Nathaniel Hawthorne, the American author, wrote The Scarlet Letter, a classic of American literature.",
-      "example_cn": "美国作家纳撒尼尔·霍桑创作了《红字》，这部作品是美国文学的经典之作。"
+      "explanation_en": "A name often chosen for its biblical and traditional connotations, symbolizing divine favor, gratitude, or spiritual blessing in many Western families.",
+      "explanation_cn": "因具有圣经渊源和传统寓意，常被西方家庭选用，象征神的恩宠、感恩或属灵的祝福。",
+      "example_en": "The parents named their son Nathaniel to honor their faith and heritage.",
+      "example_cn": "父母为儿子取名纳撒尼尔，以表达他们的信仰与传承。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "nathan",
-      "analysis": "“Nathan” 是 “Nathaniel” 的常见缩略形式，源自相同的希伯来语词根，意为‘他赐予了’。两者含义相近，但 “Nathan” 更简短、现代，使用更广泛；而 “Nathaniel” 更正式、古典，常带有宗教或文学色彩。"
-    },
-    {
-      "word_to_compare": "gabe",
-      "analysis": "“Gabe” 是 “Gabriel” 的昵称，意为‘上帝是我的力量’，与 “Nathaniel” 同属希伯来语名字，但语义不同：前者强调力量，后者强调恩赐。两者都具宗教渊源，但 “Nathaniel” 更强调‘被给予’的被动恩典，而 “Gabriel” 强调‘神之力量’的主动属性。"
+      "analysis": "“Nathan”（拿单）是“Nathaniel”的缩略形式，同样源自希伯来语，意为‘他赐予了’，但更简短、现代，常用于当代命名。而 “Nathaniel” 更正式、古典，带有更浓厚的宗教和文学色彩，常出现在经典文学或历史人物中。"
     },
     {
       "word_to_compare": "elijah",
-      "analysis": "“Elijah” 意为‘我的神是耶和华’，是《圣经》中著名的先知之名，具有强烈的先知与神圣使命色彩。而 “Nathaniel” 更侧重于个人被赐予的恩典，情感上更温和、内敛。两者均为圣经名字，但 “Elijah” 更具权威与戏剧性，而 “Nathaniel” 更具谦逊与感恩的意味。"
+      "analysis": "“Elijah”（以利亚）是另一个希伯来语起源的男性名字，意为‘我的神是耶和华’，强调对神的忠诚与先知身份。而 “Nathaniel” 更侧重于‘神的恩赐’这一主题，情感上更偏向感恩与受赐，而非使命或权威。"
+    },
+    {
+      "word_to_compare": "matthew",
+      "analysis": "“Matthew”（马太）意为‘上帝的礼物’，与 “Nathaniel” 的语义高度相似，两者都表达神赐之恩。但 “Matthew” 更常见于日常使用，且因《新约》福音书作者而广为人知；而 “Nathaniel” 相对更少见，更具独特性和古典韵味。"
     }
   ]
 }

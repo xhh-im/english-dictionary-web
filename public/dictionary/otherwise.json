@@ -1,46 +1,42 @@
 {
   "word": "otherwise",
-  "pronunciation": "ˌʌð·ər·ˈwaɪz",
+  "pronunciation": "ˈɔːr.ðər.waɪz",
   "concise_definition": "adv. 否则, 要不然, 在其他方面",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
   "definitions": [
     {
       "pos": "adverb",
-      "explanation_en": "Used to introduce a consequence that will happen if a stated condition is not met; equivalent to 'if not' or 'or else'.",
-      "explanation_cn": "用于引出如果前面所述条件未被满足时将发生的后果，相当于 '如果不' 或 '否则'。",
-      "example_en": "You must finish your homework; otherwise, you won't be allowed to watch TV.",
-      "example_cn": "你必须完成作业，否则不许看电视。"
+      "explanation_en": "Used to introduce a consequence that will happen if a stated condition is not met; implies an alternative outcome.",
+      "explanation_cn": "用于引出如果前面所述条件未被满足时将发生的后果，暗示一种替代性结果。",
+      "example_en": "You should leave now, otherwise you'll miss the train.",
+      "example_cn": "你现在该走了，否则会错过火车。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "In other respects or under different circumstances; used to indicate an alternative aspect or condition.",
-      "explanation_cn": "在其他方面或不同情况下；用于指出另一种情况或方面。",
+      "explanation_en": "In other respects or under different circumstances; used to contrast one aspect with another.",
+      "explanation_cn": "在其他方面或不同情况下使用，用于对比某一特定方面与其他方面。",
       "example_en": "She's a quiet person; otherwise, she's very friendly and outgoing.",
-      "example_cn": "她是个安静的人，但在其他方面非常友好和外向。"
+      "example_cn": "她是个安静的人；但在其他方面，她非常友好和外向。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "In a different way or manner; used to contrast with what has just been stated.",
-      "explanation_cn": "以不同的方式或方法；用于与刚刚陈述的内容形成对比。",
-      "example_en": "The room was small, but otherwise comfortable.",
-      "example_cn": "房间很小，但其他方面很舒适。"
+      "explanation_en": "In a different way or manner; indicating an alternative method or condition.",
+      "explanation_cn": "以不同的方式或状态，表示另一种方法或条件。",
+      "example_en": "The results were not as expected; otherwise, the experiment was successful.",
+      "example_cn": "结果与预期不符；但除此之外，实验是成功的。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "else",
-      "analysis": "“Else”（别的）通常用于疑问词或不定代词之后（如 anything else, someone else），表示‘除此之外的’，语气更口语化，且不能独立作状语。而 “otherwise” 可独立使用，常用于条件句中表达后果，语义更完整、正式。"
+      "analysis": "“Else”（别的）通常用于疑问句或否定句中，与“if”或“any”等词搭配，表示“除此之外的其他可能性”，如“anything else”。“Otherwise”则更常用于陈述句中，表达条件未满足时的后果，语气更完整、更正式。"
     },
     {
       "word_to_compare": "alternatively",
-      "analysis": "“Alternatively”（或者，另一种选择）强调提供一个明确的替代方案，语气中性，常用于建议或选项列举。而 “otherwise” 更强调如果不采取前文所述行为将导致的负面结果，带有警告或必要性含义。"
+      "analysis": "“Alternatively”（或者，作为另一种选择）强调提供一个明确的、可选的方案，语气中性，常用于建议或选项列举中。而 “otherwise” 更强调如果不采取前文所述行动，就会产生负面结果，带有警告或紧迫感。"
     },
     {
-      "word_to_compare": "in other ways",
-      "analysis": "“In other ways” 是一个介词短语，用于描述在其他方面的情况，结构更冗长，语义更具体、局限。而 “otherwise” 是一个简洁的副词，可涵盖多种语境（条件、对比、补充），使用更灵活、更常见于书面和口语中。"
+      "word_to_compare": "but",
+      "analysis": "“But”（但是）用于直接对比两个对立的事实或观点，连接两个并列分句，强调转折关系。“Otherwise”则不直接连接句子，而是作为副词修饰整个语境，表达一种假设性后果，逻辑上更偏向条件推理而非单纯对比。"
     }
   ]
 }

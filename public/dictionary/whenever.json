@@ -2,9 +2,6 @@
   "word": "whenever",
   "pronunciation": "hwen·ev·er",
   "concise_definition": "conj. 每当, 无论何时",
-  "forms": {
-    "none": ""
-  },
   "definitions": [
     {
       "pos": "conjunction",
@@ -15,24 +12,24 @@
     },
     {
       "pos": "conjunction",
-      "explanation_en": "Used to express that something is true regardless of the time or circumstance, often implying flexibility or unconditional acceptance.",
-      "explanation_cn": "用于表达某事在任何时间或情况下都成立，常暗示灵活性或无条件的接受。",
+      "explanation_en": "Used to express that something is true regardless of the time or circumstance, often implying flexibility or unconditional conditions.",
+      "explanation_cn": "用于表达某事在任何时间或情况下都成立，常暗示灵活性或无条件性。",
       "example_en": "You can call me whenever you need help—day or night.",
-      "example_cn": "你需要帮助时随时都可以给我打电话——无论白天还是黑夜。"
+      "example_cn": "你任何时候需要帮助都可以给我打电话——无论白天还是黑夜。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "when",
-      "analysis": "“When” (当……时) 通常指特定的、已知的或即将发生的时间点，具有确定性。而 “whenever” 强调任意性、重复性或无条件性，适用于所有可能的时间场合。例如：'When I arrived, she was gone.'（我到时她已经走了）是单一事件；'Whenever I arrived, she was gone.'（我每次到时她都走了）则暗示反复发生。"
+      "analysis": "“When” (当……时) 通常指特定的、已知的或即将发生的时间点，具有确定性。例如：“When the bell rings, we leave.” 而 “whenever” 强调任意性、重复性或无条件性，适用于所有可能的时间，不局限于某一具体时刻。"
     },
     {
       "word_to_compare": "anytime",
-      "analysis": "“Anytime” 是一个副词短语，语气更口语化，常用于非正式语境中表示‘任何时候’，但不能引导从句。而 “whenever” 是连词，必须引导时间状语从句，语法功能更完整。例如：'You can come anytime.'（你可以随时来）vs. 'You can come whenever you want.'（你什么时候想来都可以来）。"
+      "analysis": "“Anytime” (任何时候) 是一个副词短语，语气更口语化，常用于非正式语境，如 “You can come anytime.” 它与 “whenever” 意义接近，但 “whenever” 更常用于引导从句，语法结构更完整，适用于书面语和正式语境。"
     },
     {
       "word_to_compare": "every time",
-      "analysis": "“Every time” 强调每一个具体发生的实例，侧重于次数的重复性，语气更具体、更量化。而 “whenever” 更抽象，强调条件性或可能性，不强调次数。例如：'Every time I sneeze, my head hurts.'（我每次打喷嚏都头疼）强调每次发生；'Whenever I sneeze, my head hurts.' 则更侧重于‘只要打喷嚏，就头疼’这一普遍规律。"
+      "analysis": "“Every time” (每次) 强调每一个具体发生的实例，侧重于次数的重复性，如 “Every time I eat spicy food, I get a stomachache.” 而 “whenever” 更抽象，不强调次数，而是泛指所有可能的场合，语气更宽泛、更自由。"
     }
   ]
 }

@@ -8,11 +8,16 @@
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A surname of English origin, typically derived from a place name meaning 'from the shelf town' or 'from the settlement on the shelf-like landform'. It is not a common noun but a proper noun used to identify individuals or families.",
-      "explanation_cn": "一个源自英语的姓氏，通常由地名演变而来，意为‘来自 Shelf 地方’或‘位于类似搁板地形的聚居地’。它不是普通名词，而是用于标识个人或家族的专有名词。",
-      "example_en": "Shelton, the renowned actor, starred in the hit TV series 'The Big Bang Theory'.",
-      "example_cn": "著名演员谢尔顿主演了热门电视剧《生活大爆炸》。"
+      "explanation_en": "A surname of English origin, typically derived from a place name meaning 'from the shelf town' or 'from the settlement on the shelf-like landform'.",
+      "explanation_cn": "源自英语的姓氏，通常来源于地名，意为‘来自位于 Shelf（台地/阶地）上的城镇’或‘来自台地状地形上的聚居地’。",
+      "example_en": "Shelton, the renowned actor, starred in the TV series 'The Big Bang Theory'.",
+      "example_cn": "谢尔顿，这位著名演员，在电视剧《生活大爆炸》中出演主角。"
     }
   ],
-  "comparison": []
+  "comparison": [
+    {
+      "word_to_compare": "Shelton",
+      "analysis": "“Shelton” 是一个专有名词（姓氏），不具备普通名词的语义功能，因此无法与其他通用词汇（如 ‘shelf’ 或 ‘town’）进行语义比较。它仅作为个人或家族的标识符使用，不表示事物、概念或动作。"
+    }
+  ]
 }

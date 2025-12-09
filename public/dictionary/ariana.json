@@ -1,6 +1,6 @@
 {
   "word": "ariana",
-  "pronunciation": "ah-ree-ah-nah",
+  "pronunciation": "ah·ree·AH·nuh",
   "concise_definition": "n. 阿丽安娜（人名）",
   "forms": {
     "variant_spellings": [
@@ -11,31 +11,31 @@
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A feminine given name of Italian, Greek, and Hebrew origin, often associated with meanings such as 'most holy' or 'exalted one'. It is popular in Western cultures and frequently used in music, entertainment, and literature.",
-      "explanation_cn": "一个源自意大利语、希腊语和希伯来语的女性名字，常意为“最神圣的”或“崇高的”。在西方文化中广为流行，常用于音乐、娱乐和文学领域。",
-      "example_en": "Ariana Grande is a globally renowned pop singer known for her powerful vocals and chart-topping hits.",
-      "example_cn": "阿丽安娜·格兰德是一位全球知名的流行歌手，以其强大的嗓音和热门单曲而闻名。"
+      "explanation_en": "A feminine given name of Italian, Greek, and Hebrew origin, often associated with meanings such as 'most holy' or 'holy one', and popularized in modern times by cultural figures such as singer Ariana Grande.",
+      "explanation_cn": "一个源自意大利语、希腊语和希伯来语的女性名字，常被赋予“最神圣的”或“圣洁者”的含义，并因歌手阿丽安娜·格兰德等文化人物而广为人知。",
+      "example_en": "Ariana is studying music at Juilliard and dreams of becoming a world-renowned vocalist.",
+      "example_cn": "阿丽安娜正在茱莉亚音乐学院学习音乐，梦想成为一名世界知名的歌手。"
     },
     {
       "pos": "noun",
-      "explanation_en": "In classical mythology and literature, Ariana (or Ariadne) is sometimes used as a variant spelling of Ariadne, the Cretan princess who helped Theseus escape the Labyrinth.",
-      "explanation_cn": "在古典神话和文学中，Ariana 有时作为 Ariadne（阿里阿德涅）的变体拼写，指帮助忒修斯逃离迷宫的克里特公主。",
-      "example_en": "Though traditionally spelled Ariadne, some modern retellings refer to her as Ariana to give the character a more contemporary feel.",
-      "example_cn": "尽管传统拼写为 Ariadne，但一些现代重述版本将其更名为 Ariana，以赋予角色更现代的气息。"
+      "explanation_en": "In classical mythology, Ariadne (sometimes conflated with Ariana) was the daughter of King Minos of Crete who helped Theseus escape the Labyrinth; the name has thus acquired connotations of guidance and salvation.",
+      "explanation_cn": "在古典神话中，阿里阿德涅（有时与阿丽安娜混淆）是克里特国王弥诺斯的女儿，她帮助忒修斯逃离迷宫；因此这个名字也带有指引与救赎的寓意。",
+      "example_en": "She was the Ariana of our team — always showing us the way when we were lost.",
+      "example_cn": "她是我们的阿丽安娜——总在我们迷失时为我们指明方向。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "Ariadne",
-      "analysis": "“Ariadne” 是古典神话中公主的原始拼写，具有明确的神话背景和历史渊源。而 “Ariana” 是现代流行文化中更常见的变体拼写，发音更柔和，常用于命名而非神话引用，两者语义相近但文化语境不同。"
-    },
-    {
       "word_to_compare": "Arianna",
-      "analysis": "“Arianna” 是 “Ariana” 的另一种常见拼写变体，两者发音几乎相同，主要区别在于拼写偏好和地域使用习惯。Arianna 在意大利语和西班牙语地区更常见，而 Ariana 在英语国家更流行，尤其因流行歌手的影响力而普及。"
+      "analysis": "“Arianna” 是 “Ariana” 的常见变体拼写，两者发音几乎相同，语义和文化背景完全一致。主要区别在于拼写偏好：Arianna 更接近意大利语原形，而 Ariana 在英语国家更流行，尤其因流行歌手的使用而普及。"
     },
     {
-      "word_to_compare": "Aria",
-      "analysis": "“Aria” 意为“咏叹调”，源自意大利语，常用于音乐领域，与 “Ariana” 在发音上相似，但语义完全不同。Aria 是一个音乐术语，而 Ariana 是人名，二者无词源或语义关联，仅因音近易被混淆。"
+      "word_to_compare": "Ariadne",
+      "analysis": "“Ariadne” 是古希腊神话中的人物名字，是 “Ariana” 的词源之一。虽然现代人常将 Ariana 视为 Ariadne 的简化形式，但 Ariadne 更具古典和文学色彩，常用于艺术或学术语境，而 Ariana 更偏向现代流行文化中的名字使用。"
+    },
+    {
+      "word_to_compare": "Elena",
+      "analysis": "“Elena” 是另一个流行的女性名字，源自希腊语，意为“光明”或“光辉”。与 Ariana 相比，Elena 更强调外在的明亮与温暖，而 Ariana 则更侧重神圣性与精神指引的内涵，两者在文化联想上有所不同。"
     }
   ]
 }

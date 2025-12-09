@@ -1,42 +1,40 @@
 {
   "word": "lesley",
   "pronunciation": "lez·lee",
-  "concise_definition": "n. 莱斯利（人名）",
+  "concise_definition": "n. 人名，莱斯利（女性名，亦作男性名）",
   "forms": {
-    "variant_spelling": [
-      "Lesley",
-      "Leslie",
-      "Leslee"
+    "variant_spellings": [
+      "Leslie"
     ]
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A given name of Scottish origin, traditionally used for males but now more commonly used for females; often associated with the place name 'Lesley' in Aberdeenshire, Scotland.",
-      "explanation_cn": "源自苏格兰的given name，传统上用于男性，但现在更常用于女性；常与苏格兰阿伯丁郡的地名‘Lesley’相关联。",
-      "example_en": "Lesley is a talented graphic designer who recently launched her own studio.",
-      "example_cn": "莱斯利是一位才华横溢的平面设计师，最近创办了自己的工作室。"
+      "explanation_en": "A given name of Scottish origin, traditionally used for both males and females, derived from a place name meaning 'from the holly grove'.",
+      "explanation_cn": "源自苏格兰的given name，传统上既用于男性也用于女性，来源于地名，意为‘来自冬青树丛之地’。",
+      "example_en": "Lesley is a talented artist who exhibits her work in galleries across Europe.",
+      "example_cn": "莱斯利是一位才华横溢的艺术家，她的作品在欧洲各地的画廊展出。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A surname derived from a place name, indicating ancestral origin from the town of Lesley in Scotland.",
-      "explanation_cn": "作为姓氏，源自苏格兰的Lesley镇，表示祖先来自该地。",
-      "example_en": "John Lesley was a 16th-century Scottish historian and bishop.",
-      "example_cn": "约翰·莱斯利是16世纪的苏格兰历史学家和主教。"
+      "explanation_en": "A surname occasionally found in English-speaking countries, often associated with families of Scottish descent.",
+      "explanation_cn": "偶尔作为姓氏出现在英语国家，常与苏格兰后裔家族相关。",
+      "example_en": "The novelist Lesley Thomson won the Crime Writers' Association Award in 2020.",
+      "example_cn": "小说家莱斯利·汤姆森于2020年荣获犯罪作家协会奖。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "Leslie",
-      "analysis": "“Leslie” 是 “Lesley” 最常见的拼写变体，两者发音完全相同，历史来源一致。在现代英语中，“Leslie” 更常用于男性名字，而 “Lesley” 更倾向女性用法，但这种区分并非绝对，存在大量交叉使用。"
+      "analysis": "“Leslie” 是 “Lesley” 的标准拼写形式，两者发音完全相同，语义和用法一致。在现代英语中，“Leslie” 更为常见，尤其在北美地区；而 “Lesley” 更常用于英国和爱尔兰，有时被视作更具女性化的变体，但并无严格性别区分。"
     },
     {
       "word_to_compare": "Lacey",
-      "analysis": "“Lacey” 是另一个女性常用名，源自古法语，意为“精致的织物”或“网状”，强调优雅与柔美。而 “Lesley” 源自地名，带有地理和历史的厚重感，语义上更中性、更少装饰性。"
+      "analysis": "“Lacey” 是另一个源自地名的女性名字，意为‘精致的、有蕾丝花纹的’，强调的是视觉美感与优雅气质。而 “Lesley” 的语义根源与自然地貌（冬青树丛）相关，更偏向地理与历史传承，而非审美属性。"
     },
     {
-      "word_to_compare": "Ashley",
-      "analysis": "“Ashley” 与 “Lesley” 同属以 -ley 结尾的英语名字，均源自古英语地名（ash tree + lea），但 “Ashley” 更广泛流行于20世纪后期，性别中立性更强，而 “Lesley” 的使用频率相对较低，更具古典或英伦风格。"
+      "word_to_compare": "Derek",
+      "analysis": "“Derek” 是一个传统男性名字，源自日耳曼语，意为‘统治者’，具有明确的男性化语义倾向。而 “Lesley” 作为中性名，跨越性别使用，体现了现代命名趋势中对性别界限的模糊化，与 “Derek” 的性别固化形成鲜明对比。"
     }
   ]
 }

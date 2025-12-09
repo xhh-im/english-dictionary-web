@@ -15,31 +15,31 @@
     },
     {
       "pos": "interjection",
-      "explanation_en": "Used to signal a sudden change in thought, to introduce a realization, or to soften the delivery of an opinion or request.",
-      "explanation_cn": "用于表示思维的突然转变、引出顿悟，或缓和语气以表达观点或提出请求。",
-      "example_en": "Oh, I suppose you're right after all.",
-      "example_cn": "哦，也许你终究是对的。"
+      "explanation_en": "Used to draw attention, introduce a statement, or soften the impact of what follows, often in conversational speech.",
+      "explanation_cn": "用于引起注意、引出话语，或缓和后续内容的语气，常见于口语中。",
+      "example_en": "Oh, I suppose you're right.",
+      "example_cn": "哦，我想你是对的。"
     },
     {
       "pos": "interjection",
-      "explanation_en": "Expresses sympathy, pity, or mild reprimand, often in a conversational or empathetic tone.",
-      "explanation_cn": "表达同情、怜悯或轻微责备，语气常带有对话性和同理心。",
-      "example_en": "Oh, poor thing—you must be exhausted.",
-      "example_cn": "哦，可怜的孩子——你一定累坏了。"
+      "explanation_en": "Expresses sudden understanding or recollection, similar to 'Ah!' or 'I see!'",
+      "explanation_cn": "表示突然明白或想起某事，类似于‘啊！’或‘我明白了！’",
+      "example_en": "Oh! That's why the door was locked!",
+      "example_cn": "哦！原来门是锁着的！"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "ah",
-      "analysis": "“Ah” 通常表达更温和的领悟、放松或欣赏，如 ‘Ah, that’s better!’；而 ‘oh’ 更常用于强烈的情绪反应，如惊讶或震惊。‘Ah’ 偏向平静的顿悟，‘oh’ 则更具情感冲击力。"
-    },
-    {
-      "word_to_compare": "uh",
-      "analysis": "“Uh” 是一个犹豫或停顿的填充词，常用于口语中表示思考或迟疑，如 ‘I uh… I’m not sure.’；而 ‘oh’ 是明确的情绪表达，具有语义内容，不是语言空白。两者功能截然不同。"
+      "analysis": "“Ah” 通常表达更温和的顿悟、满足或轻微的疼痛，语调较舒缓；而 “oh” 更常用于强烈的情绪反应，如震惊或突然的醒悟，语气更外放。两者可互换，但 “oh” 情感强度更高。"
     },
     {
       "word_to_compare": "wow",
-      "analysis": "“Wow” 专用于表达强烈的惊叹或赞赏，通常为正面情绪；而 ‘oh’ 的情绪范围更广，可正可负，如 ‘Oh no!’ 或 ‘Oh wow!’。‘Wow’ 更单一、更外放，‘oh’ 更内敛、更灵活。"
+      "analysis": "“Wow” 专用于表达惊叹或赞赏，多为正面情绪；而 “oh” 的情感范围更广，可正可负，如惊讶、失望、痛苦等，适用性更广泛。"
+    },
+    {
+      "word_to_compare": "uh",
+      "analysis": "“Uh” 是犹豫或思考时的填充词，属于非语言性停顿；而 “oh” 是有明确语义的感叹词，用于传达情绪或认知变化，二者功能完全不同。"
     }
   ]
 }

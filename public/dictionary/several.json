@@ -2,10 +2,6 @@
   "word": "several",
   "pronunciation": "sev·ruhl",
   "concise_definition": "adj. 若干, 几个, 多个",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
   "definitions": [
     {
       "pos": "adjective",
@@ -25,15 +21,15 @@
   "comparison": [
     {
       "word_to_compare": "a few",
-      "analysis": "“A few” 与 “several” 都表示少量，但 “a few” 更强调“有但不多”，语气更温和，常用于肯定句，数量感更模糊（通常为两到四个）；而 “several” 暗示数量稍多，更明确地指向三到五个或以上，语气更肯定，常用于强调数量的可观性。"
+      "analysis": "“A few”（几个）与 “several” 意义相近，都表示少量但多于两个，但 “a few” 更口语化，语气更随意，常带有积极含义（如 ‘I have a few friends coming’）；而 “several” 更中性，常用于书面语，强调数量的明确性，通常暗示比 “a few” 稍多一些。"
     },
     {
       "word_to_compare": "many",
-      "analysis": "“Many” 表示数量多，通常用于可数名词，且数量远超 “several”，常用于十以上或不确定但明显庞大的数量。而 “several” 严格限定在小范围内，不能用于描述大量事物。两者在数量级上有本质区别。"
+      "analysis": "“Many”（许多）表示数量大，通常用于可数名词，且明显超过 “several” 的范围。例如 “many people” 暗示几十甚至上百人，而 “several people” 通常指三到七人左右。两者在数量级上有显著区别。"
     },
     {
       "word_to_compare": "some",
-      "analysis": "“Some” 是最模糊的不定量词，可指少量、中等量甚至大量，语境决定其范围，且可用于可数和不可数名词。而 “several” 仅用于可数名词，且数量范围固定（三到五或稍多），语义更精确，不具 “some” 的模糊性。"
+      "analysis": "“Some”（一些）是更模糊的量词，可指少量或中等数量，甚至可能是一个不确定的单数或复数，不强调具体数目；而 “several” 则明确排除了单数和极少数，暗示至少三个以上，具有更强的数量限定性。"
     }
   ]
 }

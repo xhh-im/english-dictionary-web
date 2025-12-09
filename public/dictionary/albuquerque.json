@@ -8,11 +8,10 @@
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A city in the state of New Mexico, United States, known for its rich Native American and Spanish heritage, annual International Balloon Fiesta, and desert landscape.",
-      "explanation_cn": "美国新墨西哥州最大的城市，以其丰富的美洲原住民和西班牙文化遗产、年度国际热气球节以及沙漠地貌而闻名。",
+      "explanation_en": "A major city in the state of New Mexico, United States, known for its rich Native American and Spanish heritage, annual International Balloon Fiesta, and desert landscape.",
+      "explanation_cn": "美国新墨西哥州最大的城市，以其丰富的美洲原住民和西班牙文化遗产、每年举办的国际热气球节以及沙漠地貌而闻名。",
       "example_en": "We spent a week exploring the art galleries and adobe architecture of Albuquerque.",
       "example_cn": "我们花了一周时间探索阿尔伯克基的艺术画廊和泥砖建筑。"
     }
-  ],
-  "comparison": []
+  ]
 }

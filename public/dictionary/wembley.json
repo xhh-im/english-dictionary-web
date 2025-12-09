@@ -3,36 +3,36 @@
   "pronunciation": "wem·blē",
   "concise_definition": "n. 温布利（英国伦敦地名，以温布利球场闻名）",
   "forms": {
-    "proper_noun": true
+    "plural": "Wembleys"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A district in northwest London, England, internationally renowned for Wembley Stadium, the national stadium of England and a major venue for football matches, concerts, and large-scale events.",
-      "explanation_cn": "英格兰伦敦西北部的一个地区，因温布利球场而闻名于世，该球场是英格兰的国家体育场，也是足球比赛、音乐会和大型活动的重要举办地。",
+      "explanation_en": "A district in northwest London, England, internationally renowned for Wembley Stadium, a major venue for football matches, concerts, and large-scale public events.",
+      "explanation_cn": "英格兰伦敦西北部的一个地区，因温布利球场而闻名于世，是足球比赛、音乐会和大型公共活动的主要举办地。",
       "example_en": "The final of the FA Cup is traditionally held at Wembley.",
-      "example_cn": "足总杯决赛传统上在温布利球场举行。"
+      "example_cn": "足总杯决赛传统上在温布利举行。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A symbolic reference to Wembley Stadium itself, often used in sports journalism and popular culture to represent the pinnacle of English football achievement.",
-      "explanation_cn": "常用于体育新闻和流行文化中，作为温布利球场本身的象征，代表英格兰足球成就的巅峰。",
-      "example_en": "Every young English player dreams of playing at Wembley.",
-      "example_cn": "每个年轻的英格兰球员都梦想着在温布利球场踢球。"
+      "explanation_en": "A symbolic reference to English football culture and national sporting pride, often used metonymically to represent the England national football team or major English sporting events.",
+      "explanation_cn": "作为英格兰足球文化与国家体育自豪感的象征，常被用作英格兰国家队或重大英国体育赛事的代称。",
+      "example_en": "After 55 years, England finally returned to Wembley to win a major tournament.",
+      "example_cn": "经过55年，英格兰队终于重返温布利，赢得了一项重大赛事。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "stadium",
-      "analysis": "“Stadium”（体育场）是一个通用名词，泛指任何用于体育比赛或大型集会的露天或室内设施。而 “Wembley” 是一个专有名词，特指位于伦敦的这座具有历史和文化象征意义的国家体育场，承载着独特的民族情感与体育传统。"
+      "analysis": "“Stadium”（体育场）是一个通用名词，泛指任何用于体育比赛或大型集会的建筑设施。而 “Wembley” 是一个专有名词，特指位于伦敦的这座标志性体育场，承载着深厚的历史与文化意义，远超普通体育场的物理属性。"
     },
     {
-      "word_to_compare": "campus",
-      "analysis": "“Campus”（校园）通常指大学或教育机构的建筑群及其周边区域，强调教育和学术功能。而 “Wembley” 是一个以体育和娱乐为核心的城市地标，其功能和文化意义与校园截然不同。"
+      "word_to_compare": "london",
+      "analysis": "“London”（伦敦）是英国的首都和一座大型城市，涵盖数百个区域和地标。而 “Wembley” 仅是伦敦的一个具体区域，虽然因球场而具有国际知名度，但其地理范围和功能远小于伦敦本身。"
     },
     {
-      "word_to_compare": "arena",
-      "analysis": "“Arena”（竞技场）多指室内或半封闭的多功能表演与比赛场地，如篮球馆或演唱会场地。而 Wembley 是一个大型露天体育场，专为足球设计，容量更大，历史更悠久，具有国家级象征意义，其文化内涵远超一般意义上的 “arena”。"
+      "word_to_compare": "camp nou",
+      "analysis": "“Camp Nou”（诺坎普球场）是西班牙巴塞罗那足球俱乐部的主场，是欧洲著名的足球圣地之一，与温布利齐名。两者都是具有文化象征意义的球场，但 “Wembley” 更多代表英格兰国家队和国家级赛事，而 “Camp Nou” 则与俱乐部文化（如巴塞罗那）紧密相连。"
     }
   ]
 }

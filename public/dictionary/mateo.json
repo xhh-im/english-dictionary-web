@@ -1,41 +1,45 @@
 {
   "word": "mateo",
   "pronunciation": "muh·tee·oh",
-  "concise_definition": "n. (人名) 马特奥（西班牙语/意大利语名，英语中常作 Matthew 的变体）",
+  "concise_definition": "n. 马特奥（人名）",
   "forms": {
-    "variant_forms": [
-      "Matteo",
-      "Matthew"
+    "variant_spelling": [
+      "Mateo",
+      "Matteo"
+    ],
+    "feminine_form": [
+      "Matea",
+      "Mattea"
     ]
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A masculine given name of Spanish and Italian origin, derived from the Hebrew name 'Mattityahu', meaning 'gift of God'. Commonly used in Spanish-speaking countries and Italy, and often anglicized as Matthew in English contexts.",
-      "explanation_cn": "源自希伯来语 'Mattityahu' 的男性名字，意为 '上帝的礼物'，在西班牙语和意大利语国家广泛使用，在英语语境中常被音译为 Matthew。",
-      "example_en": "Mateo is a talented young musician who recently won a national competition.",
-      "example_cn": "马特奥是一位才华横溢的年轻音乐家，最近赢得了一项全国性比赛。"
+      "explanation_en": "A masculine given name of Spanish and Italian origin, derived from the Hebrew name 'Matityahu', meaning 'gift of God'. Commonly used in Spanish-speaking countries and Italy.",
+      "explanation_cn": "源自希伯来语名字 'Matityahu' 的男性名，意为“上帝的礼物”，在西班牙语国家和意大利广泛使用。",
+      "example_en": "Mateo is a talented young musician who just released his first album.",
+      "example_cn": "马特奥是一位才华横溢的年轻音乐家，刚刚发布了他的首张专辑。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A proper noun used as a surname in some cultures, particularly in Latin American and Southern European regions, often indicating familial lineage or regional heritage.",
-      "explanation_cn": "在某些文化中用作姓氏，尤其在拉丁美洲和南欧地区，常表示家族传承或地域渊源。",
-      "example_en": "The artist Mateo Rivera is known for his vibrant murals in Mexico City.",
-      "example_cn": "艺术家马特奥·里维拉以他在墨西哥城创作的鲜艳壁画而闻名。"
+      "explanation_en": "A surname in some cultures, particularly in Latin American and Southern European regions, often indicating ancestral ties to the given name.",
+      "explanation_cn": "在某些文化中作为姓氏使用，尤其在拉丁美洲和南欧地区，通常表示与教名“马特奥”的家族渊源。",
+      "example_en": "The artist Mateo López is known for his abstract sculptures.",
+      "example_cn": "艺术家马特奥·洛佩兹以他的抽象雕塑而闻名。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "Matthew",
-      "analysis": "“Matthew” 是英语中与 “Mateo” 对应的常见形式，两者同源，均源自希伯来语 'Mattityahu'。区别在于语言文化背景：“Matthew” 用于英语国家，发音为 /ˈmæθju/；“Mateo” 保留了西班牙语/意大利语发音 /maˈte.o/，拼写和语音更具拉丁语特征。"
+      "analysis": "“Matthew” 是英语中与 “Mateo” 同源的对应形式，均源自希伯来语 'Matityahu'。'Matthew' 更常见于英语国家，发音和拼写更符合英语习惯；而 'Mateo' 保留了西班牙语或意大利语的发音特征，更具地域文化色彩。"
     },
     {
       "word_to_compare": "Matteo",
-      "analysis": "“Matteo” 是 “Mateo” 的意大利语标准拼写形式，发音相同，但拼写中双写 't' 是意大利语正字法的体现。在英语语境中，两者常被混用，但 “Matteo” 更常用于强调意大利血统或文化背景。"
+      "analysis": "“Matteo” 是意大利语拼写形式，与 “Mateo” 意义完全相同，但发音略有不同：意大利语中双 't' 发清晰的爆破音，而西班牙语中单 't' 更轻柔。两者在文化语境上分别代表意大利与西班牙语系的命名传统。"
     },
     {
-      "word_to_compare": "Theodore",
-      "analysis": "“Theodore”（西奥多）同样是源自希腊语的男性名字，意为 '上帝的礼物'（theos + doron），与 Mateo 在语义上相近，但词源不同。Mateo 源自希伯来语，Theodore 源自希腊语，两者虽含义相似，但文化分布和语言演变路径不同。"
+      "word_to_compare": "Theo",
+      "analysis": "“Theo” 是希腊语名字 'Theodoros' 的缩写，意为“神的礼物”，与 ‘Mateo’ 在语义上相近，但词源不同。‘Theo’ 更短促现代，常作为独立名使用；而 ‘Mateo’ 是完整形式，历史和宗教背景更深厚。"
     }
   ]
 }

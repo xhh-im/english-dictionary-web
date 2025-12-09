@@ -2,10 +2,6 @@
   "word": "basically",
   "pronunciation": "bey·sik·lee",
   "concise_definition": "adv. 基本上, 根本上, 简而言之",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
   "definitions": [
     {
       "pos": "adverb",
@@ -24,7 +20,7 @@
     {
       "pos": "adverb",
       "explanation_en": "Used informally to mean 'almost' or 'nearly', especially in spoken English to approximate a statement.",
-      "explanation_cn": "在口语中非正式地表示‘几乎’或‘差不多’，用于近似表达某种说法。",
+      "explanation_cn": "在口语中非正式地表示‘几乎’或‘差不多’，用于对陈述进行近似表达。",
       "example_en": "I’ve basically seen every episode of that show.",
       "example_cn": "我差不多把那部剧的每一集都看过了。"
     }
@@ -32,15 +28,15 @@
   "comparison": [
     {
       "word_to_compare": "essentially",
-      "analysis": "“Essentially”（本质上）与 “basically” 非常接近，都用于强调核心本质，但 “essentially” 更正式、更精确，常用于学术或专业语境；而 “basically” 更口语化，有时带有简化甚至敷衍的语气。"
+      "analysis": "“Essentially”（本质上）更正式，强调事物的内在本质或真实性质，常用于学术或严谨语境。而 “basically” 更口语化，常用于日常对话中简化表达，有时带有模糊或弱化细节的语气。"
     },
     {
       "word_to_compare": "primarily",
-      "analysis": "“Primarily”（主要地）强调优先性或重要性排序，指在多个因素中第一个或最重要的一个；而 “basically” 更关注事物的根本性质，不强调排序，而是聚焦于最基础的层面。"
+      "analysis": "“Primarily”（主要地）强调优先性或重要性排序，指多个因素中第一个或最重要的一个。而 “basically” 不强调排序，而是聚焦于最基础、最核心的层面，可能忽略次要因素。"
     },
     {
       "word_to_compare": "generally",
-      "analysis": "“Generally”（通常地）指在大多数情况下成立，强调普遍性或常规性；而 “basically” 更关注事物的内在本质或简化后的核心，不一定涉及频率或普遍性。"
+      "analysis": "“Generally”（通常地）指在大多数情况下成立，强调普遍性或常规趋势。而 “basically” 更关注事物的根本属性，即使在例外情况下，其核心仍成立。例如：‘Generally, he’s late’（他通常迟到）vs. ‘Basically, he’s unreliable’（他本质上不可靠）。"
     }
   ]
 }

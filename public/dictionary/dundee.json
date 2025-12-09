@@ -10,32 +10,29 @@
       "pos": "noun",
       "explanation_en": "A city in eastern Scotland, located on the north bank of the Firth of Tay, known for its historical significance in jute manufacturing, marine research, and as the birthplace of the Dundee cake.",
       "explanation_cn": "位于苏格兰东部、泰河湾北岸的一座城市，以历史上著名的黄麻制造业、海洋研究以及邓迪蛋糕的发源地而闻名。",
-      "example_en": "Dundee is home to the V&A Dundee, Scotland's first design museum.",
-      "example_cn": "邓迪是苏格兰首家设计博物馆——V&A邓迪的所在地。"
+      "example_en": "Dundee is home to the V&A Museum of Design, one of Scotland’s most visited cultural attractions.",
+      "example_cn": "邓迪是维多利亚与阿尔伯特设计博物馆的所在地，这是苏格兰最受欢迎的文化景点之一。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A type of sweet, citrus-flavored cake traditionally made with chopped dried fruits and candied peel, often containing almonds on top; named after the city of Dundee.",
-      "explanation_cn": "一种传统的甜点蛋糕，以柑橘风味、切碎的干果和糖渍果皮制成，顶部常点缀杏仁片，因苏格兰城市邓迪而得名。",
-      "example_en": "She baked a rich Dundee cake for Christmas, just like her grandmother used to make.",
-      "example_cn": "她为圣诞节烤了一个浓郁的邓迪蛋糕，就像她祖母以前做的那样。"
+      "explanation_en": "A type of sweet, citrus-flavored cake traditionally made with chopped candied peel and embedded with almonds, originating from the city of Dundee in Scotland.",
+      "explanation_cn": "一种源自苏格兰邓迪市的甜点蛋糕，传统上用切碎的糖渍果皮和嵌入的杏仁制成，带有柑橘风味。",
+      "example_en": "She baked a traditional Dundee cake for Christmas, just like her grandmother used to make.",
+      "example_cn": "她为圣诞节烤了一个传统的邓迪蛋糕，就像她祖母过去常做的那样。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "city",
-      "analysis": "“City”（城市）是一个通用名词，泛指任何人口密集、具有行政或经济中心功能的都市区域。而 “Dundee” 是一个专有名词，特指苏格兰的这座特定城市，具有唯一性和文化标识性。"
+      "word_to_compare": "Edinburgh",
+      "analysis": "“Edinburgh”（爱丁堡）是苏格兰的首府，以历史建筑、艺术节和政治中心著称；而 “Dundee” 是苏格兰第四大城市，更以工业遗产、设计和食品文化（如邓迪蛋糕）闻名。两者都是苏格兰重要城市，但功能与文化定位不同。"
+    },
+    {
+      "word_to_compare": "Glasgow",
+      "analysis": "“Glasgow”（格拉斯哥）是苏格兰最大的城市，以工业革命时期的造船业、现代艺术和音乐场景闻名；而 “Dundee” 规模较小，更专注于设计、教育和食品传统，城市气质更宁静、更具地方特色。"
     },
     {
       "word_to_compare": "cake",
-      "explanation_en": "“Cake”（蛋糕）是泛指所有类型的甜点烘焙食品，而 “Dundee” 作为名词时特指一种源自苏格兰邓迪市的、具有特定配方和装饰风格的柑橘干果蛋糕，具有地域文化属性。",
-      "explanation_cn": "“Cake” 是泛指所有类型的甜点烘焙食品，而 “Dundee” 作为名词时特指一种源自苏格兰邓迪市的、具有特定配方和装饰风格的柑橘干果蛋糕，具有地域文化属性。",
-      "example_en": "She prefers a Dundee cake over a sponge cake because of its intense fruit flavor.",
-      "example_cn": "她更喜欢邓迪蛋糕而不是海绵蛋糕，因为它的水果风味更浓郁。"
-    },
-    {
-      "word_to_compare": "place",
-      "analysis": "“Place”（地方）是一个极其宽泛的词，可指任何地理位置或场所。而 “Dundee” 是一个具体、命名的地点，承载着历史、工业和饮食文化等多重身份，其指代意义远比泛称的 “place” 更丰富和精确。"
+      "analysis": "“Cake”（蛋糕）是泛指所有甜点类烘焙食品，而 “Dundee” 作为专有名词特指一种源自苏格兰邓迪市的特定类型蛋糕，具有明确的地域文化属性。因此，当说 “Dundee” 时，它不是普通蛋糕，而是承载地方传统的专属名称。"
     }
   ]
 }

@@ -8,11 +8,10 @@
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A surname of English origin, most notably associated with David Moyes, a professional football manager and former player.",
-      "explanation_cn": "一个源自英语的姓氏，最著名的是与职业足球教练兼前球员大卫·莫耶斯（David Moyes）相关。",
-      "example_en": "David Moyes was appointed manager of Manchester United after Sir Alex Ferguson retired.",
-      "example_cn": "亚历克斯·弗格森爵士退休后，大卫·莫耶斯被任命为曼联主教练。"
+      "explanation_en": "A surname of English origin, commonly associated with individuals in sports, particularly football (soccer), such as David Moyes, a well-known English football manager and former player.",
+      "explanation_cn": "一个源自英语的姓氏，常与体育界人士相关，尤其是足球领域，例如著名英格兰足球教练兼前球员大卫·莫耶斯。",
+      "example_en": "David Moyes was appointed as the new manager of Manchester United in 2013.",
+      "example_cn": "2013年，大卫·莫耶斯被任命为曼联的新任主教练。"
     }
-  ],
-  "comparison": []
+  ]
 }

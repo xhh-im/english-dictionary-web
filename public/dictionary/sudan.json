@@ -9,23 +9,30 @@
     {
       "pos": "noun",
       "explanation_en": "A country in northeastern Africa, bordered by Egypt to the north, the Red Sea to the east, Eritrea and Ethiopia to the southeast, South Sudan to the south, the Central African Republic to the southwest, Chad to the west, and Libya to the northwest. It was the largest country in Africa until South Sudan seceded in 2011.",
-      "explanation_cn": "位于非洲东北部的国家，北邻埃及，东接红海，东南与厄立特里亚和埃塞俄比亚接壤，南邻南苏丹，西南与中非共和国交界，西接乍得，西北与利比亚相连。2011年南苏丹独立前，它是非洲面积最大的国家。",
-      "example_en": "The humanitarian crisis in Sudan has displaced millions of people across the region.",
-      "example_cn": "苏丹的人道主义危机已导致该地区数百万人流离失所。"
+      "explanation_cn": "位于非洲东北部的国家，北邻埃及，东接红海，东南与厄立特里亚和埃塞俄比亚接壤，南邻南苏丹，西南与中非共和国交界，西接乍得，西北与利比亚相连。2011年南苏丹独立前，曾是非洲面积最大的国家。",
+      "example_en": "The conflict in Sudan has displaced millions of people and created a severe humanitarian crisis.",
+      "example_cn": "苏丹的冲突已导致数百万人流离失所，并引发了严重的人道主义危机。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "Historically, the term 'Sudan' also referred to a broader geographic region in Africa south of the Sahara Desert, known as the 'Sudan region', characterized by savannas and semi-arid climates.",
+      "explanation_cn": "历史上，'Sudan' 一词也泛指撒哈拉沙漠以南的广大地理区域，称为'苏丹地区'，以稀树草原和半干旱气候为特征。",
+      "example_en": "The ancient kingdoms of Kush and Nubia flourished in the Sudan region along the Nile River.",
+      "example_cn": "库施和努比亚等古王国曾在尼罗河沿岸的苏丹地区繁荣发展。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "south sudan",
-      "analysis": "“South Sudan”（南苏丹）是2011年从苏丹独立出来的国家，两者曾同属一个国家。苏丹以阿拉伯语和伊斯兰文化为主，而南苏丹以非洲本土语言和基督教/传统信仰为主，文化、民族构成和政治历史均有显著差异。"
+      "word_to_compare": "South Sudan",
+      "analysis": "“South Sudan”（南苏丹）是2011年从苏丹独立出来的国家，两者曾同属一个国家。苏丹以阿拉伯语和伊斯兰文化为主，而南苏丹以非洲本土语言和基督教、传统信仰为主，民族、宗教和政治结构差异显著。"
     },
     {
-      "word_to_compare": "sudanese",
-      "analysis": "“Sudanese” 是形容词，意为“苏丹的”或“苏丹人的”，也可作名词指苏丹人。而 “Sudan” 是专有名词，仅指国家本身。例如：Sudanese cuisine（苏丹菜），a Sudanese citizen（苏丹公民）。"
+      "word_to_compare": "Sahel",
+      "analysis": "“Sahel”（萨赫勒）是撒哈拉沙漠以南的一条过渡性干旱地带，横跨多个非洲国家，包括苏丹西部。苏丹的西部地区属于萨赫勒地带，但“Sahel”是一个生态地理概念，不是国家名称，而“Sudan”是明确的政治实体。"
     },
     {
-      "word_to_compare": "sahel",
-      "analysis": "“Sahel”（萨赫勒）是横跨非洲的一片半干旱过渡地带，包括苏丹西部在内的多个国家。它是一个地理区域概念，而非国家。苏丹是萨赫勒地区的重要组成部分，但萨赫勒不等于苏丹，范围更广，涵盖马里、尼日尔、乍得等国。"
+      "word_to_compare": "Nubia",
+      "analysis": "“Nubia”（努比亚）是古代文明区域，位于今苏丹北部和埃及南部，是苏丹历史的重要组成部分。Nubia 是文化历史区域，而 Sudan 是现代主权国家，两者在时空范围和政治属性上不同。"
     }
   ]
 }

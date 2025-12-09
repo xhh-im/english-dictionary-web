@@ -8,38 +8,31 @@
   "definitions": [
     {
       "pos": "interjection",
-      "explanation_en": "An exclamation used to express relief after a difficult, tiring, or stressful situation has ended.",
-      "explanation_cn": "用于表达在经历困难、疲惫或紧张的情况结束后如释重负的感叹词。",
-      "example_en": "Phew! I'm glad that presentation is over.",
-      "example_cn": "唉呀！总算讲完这个演讲了。"
+      "explanation_en": "An exclamation used to express relief, exhaustion, or surprise, often after a difficult, stressful, or surprising event.",
+      "explanation_cn": "用作感叹词，表示松了一口气、疲惫或惊讶，通常在经历困难、紧张或令人意外的事情之后发出。",
+      "example_en": "Phew! I'm so glad that presentation is over.",
+      "example_cn": "唉呀！总算松了口气，那个演讲终于结束了。"
     },
     {
       "pos": "interjection",
-      "explanation_en": "An exclamation used to express surprise, disbelief, or mild disgust, often in response to something unpleasant or overwhelming.",
-      "explanation_cn": "用于表达惊讶、难以置信或轻微的厌恶，常用于应对令人不快或令人窒息的事物。",
-      "example_en": "Phew! That smell is awful!",
-      "example_cn": "哎呀！这味道太难闻了！"
-    },
-    {
-      "pos": "interjection",
-      "explanation_en": "An exclamation mimicking the sound of a long, audible exhale, often used to convey exhaustion or a sense of release.",
-      "explanation_cn": "模仿长时间呼气声音的感叹词，常用于表达精疲力尽或情绪释放的感觉。",
-      "example_en": "Phew... I didn't think I'd make it through that hike.",
-      "example_cn": "呼……我真没想到能撑完那次徒步。"
+      "explanation_en": "An exclamation used to convey a sense of disbelief or mild disapproval, often in response to something unpleasant or overwhelming.",
+      "explanation_cn": "用作感叹词，表达 disbelief（难以置信）或轻微的不满，常用于回应令人不快或令人不堪的事物。",
+      "example_en": "Phew, this smell is unbearable!",
+      "example_cn": "哎呀，这味道真受不了！"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "whew",
-      "analysis": "“Whew” 与 “phew” 几乎完全同义，都是模仿呼气声的感叹词，常可互换使用。主要区别在于拼写和轻微的语音差异：“whew” 更强调唇部闭合后的气流声，常用于美式英语；“phew” 更常见于英式英语，发音略轻柔。两者在语义和语用上无实质区别。"
-    },
-    {
-      "word_to_compare": "ah",
-      "analysis": "“Ah” 是一个更通用的感叹词，可表达多种情绪，如领悟、安慰、痛苦或惊讶，但不特指呼气或释放压力。而 “phew” 有明确的生理动作关联——长呼一口气，情绪焦点更集中于“解脱”或“不适的结束”。"
+      "analysis": "“Whew” 与 “phew” 几乎完全同义，常可互换使用，都表示松一口气或疲惫的感叹。两者发音略有不同（“whew” 更强调唇音），但语义和语用完全一致，主要区别在于个人习惯或地域口音。"
     },
     {
       "word_to_compare": "wow",
-      "analysis": "“Wow” 表达的是惊叹、赞赏或震惊，通常是正面或中性情绪；而 “phew” 多用于负面情境后的缓解，情绪基调是轻松、疲惫或不适后的释放，两者情感方向相反。"
+      "analysis": "“Wow” 表达的是惊讶、赞叹或钦佩，通常是正面情绪，如看到壮观景象时的惊叹。而 “phew” 更多与压力释放、疲惫或不适相关，情绪基调偏中性或负面，二者情感色彩截然不同。"
+    },
+    {
+      "word_to_compare": "ah",
+      "analysis": "“Ah” 是一个更通用的感叹词，可表达多种情绪，如领悟（Ah, I see!）、疼痛（Ah! That hurts!）或放松（Ah, finally!）。它比 “phew” 更宽泛，缺乏后者特有的“喘息式释放”含义，语义不够精确。"
     }
   ]
 }

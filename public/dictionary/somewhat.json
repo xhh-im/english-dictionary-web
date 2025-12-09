@@ -2,38 +2,34 @@
   "word": "somewhat",
   "pronunciation": "suhm·wot",
   "concise_definition": "adv. 有点, 有些, 在某种程度上",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
   "definitions": [
     {
       "pos": "adverb",
-      "explanation_en": "To a modest or limited degree; indicating a partial or moderate extent, often used to soften the intensity of an adjective or verb.",
-      "explanation_cn": "以一种轻微或有限的程度，表示某种程度上的部分性或适度性，常用于弱化形容词或动词的强度。",
-      "example_en": "I'm somewhat tired after the long meeting.",
-      "example_cn": "开完这场漫长的会议后，我有点累了。"
+      "explanation_en": "To a modest or limited extent; indicating a partial degree of something, often softening the intensity of an adjective or adverb.",
+      "explanation_cn": "指以有限或适度的程度，表示某事物在某种程度上成立，常用于弱化形容词或副词的强度。",
+      "example_en": "The movie was somewhat boring, but the acting was excellent.",
+      "example_cn": "这部电影有点无聊，但演技很棒。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "Used to express uncertainty or hesitation about the extent of something, often implying that the statement is not fully true or complete.",
-      "explanation_cn": "用于表达对某事程度的不确定或犹豫，常暗示该陈述并非完全成立或彻底属实。",
-      "example_en": "The plan is somewhat flawed, but we can still make it work.",
-      "example_cn": "这个计划有些缺陷，但我们仍能使其运作。"
+      "explanation_en": "Used to express hesitation or uncertainty, suggesting that something is true but not entirely or fully.",
+      "explanation_cn": "用于表达犹豫或不确定，暗示某事在某种程度上为真，但并非完全或彻底如此。",
+      "example_en": "I somewhat agree with your point, but I still have reservations.",
+      "example_cn": "我部分同意你的观点，但我仍有一些疑虑。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "a little",
-      "analysis": "“A little” 与 “somewhat” 都表示轻微的程度，但 “a little” 更口语化、更直接，常用于修饰不可数名词（如 a little water）或动词；而 “somewhat” 更正式，通常修饰形容词或副词，语气更含蓄、更书面化。"
+      "analysis": "“A little”（一点）与 “somewhat” 都表示少量或轻微的程度，但 “a little” 更口语化、更直接，常用于修饰不可数名词（如 a little water）或形容词（a little tired）；而 “somewhat” 更正式，语气更含蓄，多用于书面语或强调程度的克制表达。"
     },
     {
       "word_to_compare": "rather",
-      "analysis": "“Rather” 表示的程度通常比 “somewhat” 更强，有时甚至带有轻微的负面或惊讶语气（如 rather boring）。而 “somewhat” 始终保持中性或温和的语气，强调适度而非强烈。"
+      "analysis": "“Rather”（相当）通常表达比 “somewhat” 更强的程度，有时甚至带有轻微的负面或惊讶语气（如 rather strange）。而 “somewhat” 始终保持中性或温和的语气，不强调极端性。"
     },
     {
       "word_to_compare": "to some extent",
-      "analysis": "“To some extent” 是 “somewhat” 的更正式、更完整的表达形式，两者在语义上高度重合，但 “to some extent” 更常用于句首或句尾，结构更复杂，适合学术或正式语境；而 “somewhat” 更简洁，常用于句中修饰形容词。"
+      "analysis": "“To some extent”（在某种程度上）是 “somewhat” 的短语对应形式，语义几乎完全相同，但结构更长、更正式，常用于学术或正式写作中。两者可互换，但 “somewhat” 更简洁，适合口语和紧凑表达。"
     }
   ]
 }

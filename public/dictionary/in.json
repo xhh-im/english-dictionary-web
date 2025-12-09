@@ -1,67 +1,63 @@
 {
   "word": "in",
   "pronunciation": "in",
-  "concise_definition": "prep. 在...里, 在...内; adv. 在内, 进入; adj. 在野的, 当权的",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
+  "concise_definition": "prep. 在…里面, 在…期间, 在…状态中; adv. 在内, 进入, 在家, 当权",
   "definitions": [
     {
       "pos": "preposition",
-      "explanation_en": "Indicating location or position within the limits or boundaries of something, whether physical, abstract, or metaphorical.",
-      "explanation_cn": "表示位于某物的内部或范围之内，可以是物理空间、抽象概念或隐喻性的范围。",
+      "explanation_en": "Indicating location or position within the limits or boundaries of something, whether physical or abstract.",
+      "explanation_cn": "表示某物位于另一个物体或范围的内部，可以是物理空间，也可以是抽象概念（如组织、状态）。",
       "example_en": "She is in the kitchen preparing dinner.",
       "example_cn": "她正在厨房里准备晚餐。"
     },
     {
       "pos": "preposition",
-      "explanation_en": "Indicating a state of being part of a group, system, or condition, such as a political party, a language, or a mood.",
-      "explanation_cn": "表示属于某个群体、系统或状态，如政党、语言或情绪。",
-      "example_en": "He is in the Democratic Party.",
-      "example_cn": "他是民主党成员。"
+      "explanation_en": "Indicating a period of time during which something occurs, often referring to a future or general time frame.",
+      "explanation_cn": "表示某事发生的时间段，常用于指未来或泛指的时间范围。",
+      "example_en": "We’ll meet in the afternoon.",
+      "example_cn": "我们下午见面。"
+    },
+    {
+      "pos": "preposition",
+      "explanation_en": "Indicating a state, condition, or mode of being, such as clothing, emotion, or political affiliation.",
+      "explanation_cn": "表示某种状态、状况或方式，如穿着、情绪或政治立场。",
+      "example_en": "He’s in a good mood today.",
+      "example_cn": "他今天心情很好。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "Indicating movement or entry into a place, or a state of being inside or not outside.",
-      "explanation_cn": "表示进入某地，或处于内部而非外部的状态。",
-      "example_en": "The guests are all in now; let's start the party.",
-      "example_cn": "客人都进来了，我们开始派对吧。"
+      "explanation_en": "Indicating movement or direction toward the inside of a place or system.",
+      "explanation_cn": "表示向某物或某系统的内部移动或进入。",
+      "example_en": "Please come in and sit down.",
+      "example_cn": "请进来坐下。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "Used to describe something that is currently popular, fashionable, or trending.",
-      "explanation_cn": "用于描述当前流行、时尚或受追捧的事物。",
-      "example_en": "Bright neon colors are in this season.",
-      "example_cn": "今年季节流行鲜艳的霓虹色。"
+      "explanation_en": "Referring to being at home or within a particular place, often used in informal contexts.",
+      "explanation_cn": "指在家或在某个特定场所内，常用于非正式语境。",
+      "example_en": "I’m not in right now; can I call you back?",
+      "example_cn": "我现在不在家，能回头给你回电话吗？"
     },
     {
-      "pos": "adjective",
-      "explanation_en": "Referring to the political party or group that currently holds power or control in a government or organization.",
-      "explanation_cn": "指当前在政府或组织中掌权的政党或团体。",
-      "example_en": "The in party has introduced new tax reforms.",
-      "example_cn": "执政党已推出新的税收改革。"
-    },
-    {
-      "pos": "adjective",
-      "explanation_en": "Referring to someone who is accepted, popular, or part of a favored group.",
-      "explanation_cn": "指被接受、受欢迎或属于受青睐群体的人。",
-      "example_en": "She's in with the right people at the company.",
-      "example_cn": "她在公司里和对的人关系很好。"
+      "pos": "adverb",
+      "explanation_en": "Used to describe being in a position of power, control, or influence, especially in politics or organizations.",
+      "explanation_cn": "用于描述处于权力、控制或影响力之中的状态，尤指政治或组织中的执政地位。",
+      "example_en": "The Democrats are in this term, but the Republicans may win next election.",
+      "example_cn": "本届民主党执政，但共和党可能在下届选举中获胜。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "into",
-      "analysis": "“Into” 强调从外部进入内部的动作或转变过程，具有方向性，常与动词搭配表示移动或变化（如 walk into, transform into）。而 “in” 更侧重于静态的位置或状态，不强调动作过程。"
+      "analysis": "“Into” 强调从外部进入内部的动作或转变过程，具有方向性和动态性，如 “walk into the room”。而 “in” 通常表示静态的位置或状态，如 “in the room”。两者不可互换，因为 “in” 不包含运动含义。"
     },
     {
       "word_to_compare": "on",
-      "analysis": "“On” 表示接触表面或处于某物之上（如 on the table），而 “in” 表示被包围或包含在内部（如 in the box）。两者在空间关系上形成对比：‘on’ 是表面接触，‘in’ 是内部包含。"
+      "analysis": "“On” 表示接触表面或附着在某物之上，如 “on the table”；而 “in” 表示被包围或包含在内部，如 “in the box”。两者在空间关系上形成对比：‘on’ 是表面接触，‘in’ 是内部包含。"
     },
     {
-      "word_to_compare": "within",
-      "analysis": "“Within” 更正式，强调在某个界限、范围或时间之内，常用于抽象或精确的语境（如 within limits, within an hour）。而 “in” 更口语化、通用，可涵盖物理、抽象和时间等多种含义，但精确性较低。"
+      "word_to_compare": "at",
+      "analysis": "“At” 用于表示一个具体的点或位置，如 “at the door” 或 “at 5 p.m.”，强调精确的地点或时间；而 “in” 更强调范围、区域或时间段内的存在，如 “in the city” 或 “in the morning”。‘at’ 更精确，‘in’ 更宽泛。"
     }
   ]
 }

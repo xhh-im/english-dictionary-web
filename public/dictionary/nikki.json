@@ -3,25 +3,22 @@
   "pronunciation": "nik·ee",
   "concise_definition": "n. (专有名词) 尼基（女性名）",
   "forms": {
-    "variant_spelling": [
-      "Nikki",
-      "Nicky"
-    ]
+    "plural": "nikkis"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A feminine given name, often a diminutive or variant of Nicole or Nicholas, commonly used in English-speaking countries.",
-      "explanation_cn": "一个女性名，通常是 Nicole 或 Nicholas 的昵称或变体，常见于英语国家。",
-      "example_en": "Nikki is studying psychology at university.",
-      "example_cn": "尼基正在大学学习心理学。"
+      "explanation_en": "A feminine given name, often a diminutive or variant of names such as Nicole, Nichole, or Nicolete, commonly used in English-speaking countries.",
+      "explanation_cn": "一个女性名，通常是 Nicole、Nichole 或 Nicolete 等名字的昵称或变体，常见于英语国家。",
+      "example_en": "Nikki is studying architecture at university.",
+      "example_cn": "尼基正在大学学习建筑学。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A proper noun used as a brand name, stage name, or pseudonym in entertainment, fashion, or digital media.",
-      "explanation_cn": "用作娱乐、时尚或数字媒体中的品牌名、艺名或化名的专有名词。",
-      "example_en": "Nikki Minaj is a globally renowned rapper and singer.",
-      "example_cn": "尼基·米娜吉是一位全球知名的说唱歌手。"
+      "explanation_en": "A proper noun used as a brand name, stage name, or fictional character name, often chosen for its modern, energetic, or catchy sound.",
+      "explanation_cn": "用作品牌名、艺名或虚构角色名的专有名词，常因其现代、充满活力或朗朗上口的发音而被选用。",
+      "example_en": "Nikki Sixx is the bassist of the rock band Mötley Crüe.",
+      "example_cn": "尼基·西克斯是摇滚乐队“摩特利·克鲁”的贝斯手。"
     }
   ],
   "comparison": [
@@ -31,11 +28,11 @@
     },
     {
       "word_to_compare": "Nicky",
-      "analysis": "“Nicky” 是 “Nikki” 的另一种拼写变体，常用于男性名 Nicholas 的昵称，但在女性中也偶有使用。与 “Nikki” 相比，“Nicky” 更偏向中性或男性化，而 “Nikki” 在当代英语中几乎专用于女性。"
+      "analysis": "“Nicky” 与 “Nikki” 同为 Nicole 的昵称变体，但 “Nicky” 更常用于男性名字（如 Nicholas 的昵称），而 “Nikki” 几乎专用于女性，性别指向更明确。"
     },
     {
-      "word_to_compare": "name",
-      "analysis": "“Name” 是泛指任何称呼或标识，而 “Nikki” 是一个具体的专有名词，承载文化、性别和语境含义。它不仅是语言符号，还关联着个人身份、公众形象或品牌认知。"
+      "word_to_compare": "Nina",
+      "analysis": "“Nina” 是另一个常见的女性名字，源自西班牙语、俄语或希伯来语，含义多样（如“小家伙”或“恩典”）。与 “Nikki” 相比，它发音更柔和，文化背景更广泛，但不具备 “Nikki” 那种强烈的现代流行文化联想。"
     }
   ]
 }

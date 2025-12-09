@@ -1,38 +1,38 @@
 {
   "word": "fukushima",
   "pronunciation": "foo·koo·shee·mah",
-  "concise_definition": "n. 福岛（日本地名），福岛核事故",
+  "concise_definition": "n. 福岛（日本地名），尤指福岛第一核电站事故",
   "forms": {
-    "proper_noun": true
+    "proper_noun": "Fukushima"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A city in Fukushima Prefecture, eastern Japan, known for its agricultural production and historical significance, but internationally recognized primarily for the 2011 nuclear disaster at the Fukushima Daiichi Nuclear Power Plant.",
-      "explanation_cn": "日本东部福岛县的一座城市，以农业生产与历史意义著称，但因2011年福岛第一核电站核灾难而广为人知。",
-      "example_en": "The evacuation zones around Fukushima still restrict access to certain areas due to lingering radiation.",
-      "example_cn": "由于残留辐射，福岛周边的疏散区仍限制进入某些区域。"
+      "explanation_en": "A city in Fukushima Prefecture, eastern Japan, known internationally primarily due to the 2011 nuclear disaster at the Fukushima Daiichi Nuclear Power Plant following a massive earthquake and tsunami.",
+      "explanation_cn": "日本东部福岛县的一座城市，因2011年大地震和海啸引发的福岛第一核电站核灾难而广为人知。",
+      "example_en": "The evacuation zones around Fukushima remain partially restricted due to lingering radiation concerns.",
+      "example_cn": "由于残留的辐射风险，福岛周边的疏散区仍部分限制进入。"
     },
     {
       "pos": "noun",
-      "explanation_en": "The 2011 nuclear accident at the Fukushima Daiichi Nuclear Power Plant, triggered by a massive earthquake and tsunami, which led to meltdowns in three reactors and the release of radioactive materials into the environment.",
-      "explanation_cn": "2011年由强烈地震和海啸引发的福岛第一核电站核事故，导致三座反应堆熔毁，并向环境中释放了放射性物质。",
-      "example_en": "The Fukushima disaster prompted global reassessments of nuclear energy safety policies.",
-      "example_cn": "福岛核事故促使全球重新评估核能安全政策。"
+      "explanation_en": "A symbol or shorthand reference to the catastrophic failure of nuclear safety systems, the long-term environmental impact of radioactive contamination, and the global debate over nuclear energy policy.",
+      "explanation_cn": "指核安全系统灾难性失效的象征，代表放射性污染的长期环境影响，以及全球关于核能政策的激烈争论。",
+      "example_en": "Fukushima has become a rallying point for anti-nuclear movements worldwide.",
+      "example_cn": "福岛已成为全球反核运动的标志性事件。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "chernobyl",
-      "analysis": "“Chernobyl”（切尔诺贝利）指1986年发生在乌克兰的核事故，是历史上最严重的核灾难之一。与“Fukushima”类似，两者均为重大核泄漏事件，但 Chernobyl 由人为操作失误和设计缺陷引发，而 Fukushima 由自然灾害（地震/海啸）触发。Chernobyl 的放射性扩散更集中于欧洲，而 Fukushima 的影响主要集中在太平洋区域。"
+      "analysis": "“Chernobyl”（切尔诺贝利）指1986年发生在乌克兰的核事故，是历史上最严重的核灾难之一。与“Fukushima”类似，两者都代表了核能失控的极端后果，但 Chernobyl 是由人为操作失误和设计缺陷导致，而 Fukushima 是由自然灾害引发的连锁反应，因此后者更常被用于讨论自然灾害与基础设施安全的关联。"
     },
     {
-      "word_to_compare": "three_mile_island",
-      "analysis": "“Three Mile Island”（三哩岛）是1979年发生在美国宾夕法尼亚州的一次部分堆芯熔毁事故，是美国历史上最严重的核事故。与 Fukushima 相比，三哩岛事故的放射性释放量极低，未造成直接人员伤亡或大规模疏散，公众影响较小。Fukushima 则因规模更大、环境影响更广，成为全球核能安全的转折点。"
+      "word_to_compare": "three mile island",
+      "analysis": "“Three Mile Island”（三哩岛）是1979年发生在美国宾夕法尼亚州的一次部分堆芯熔毁事故，虽未造成直接死亡，但引发了公众对核电安全的广泛担忧。与 Fukushima 相比，三哩岛事故的辐射泄漏量小得多，影响范围有限，因此 Fukushima 更具全球性象征意义，常被用作核能风险的现代案例。"
     },
     {
-      "word_to_compare": "radiation",
-      "analysis": "“Radiation”（辐射）是物理现象，泛指能量以波或粒子形式传播，包括电离辐射和非电离辐射。而 “Fukushima” 是一个具体事件或地点，是辐射泄漏的来源之一。辐射是 Fukushima 事故的后果，而非事件本身。"
+      "word_to_compare": "disaster",
+      "analysis": "“Disaster”（灾难）是泛指重大破坏性事件的通用词，而 “Fukushima” 是一个专有名词，特指一场具体的、具有历史和政治意义的核事故。使用 “Fukushima” 时，人们不仅指事件本身，还隐含了对技术、监管、环境和人类责任的深层反思，其语义负载远超普通名词。"
     }
   ]
 }

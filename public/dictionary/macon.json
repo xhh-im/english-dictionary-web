@@ -8,11 +8,10 @@
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A city in central Georgia, United States, known for its historic architecture, music heritage, and as the birthplace of several notable musicians including Little Richard and Otis Redding.",
-      "explanation_cn": "美国佐治亚州中部的一座城市，以其历史建筑、音乐传统而闻名，也是多位著名音乐人（如小理查德和奥蒂斯·雷丁）的故乡。",
-      "example_en": "We visited Macon last summer and toured the Allman Brothers Band Museum.",
-      "example_cn": "去年夏天我们去了马孔，参观了奥尔曼兄弟乐队博物馆。"
+      "explanation_en": "A city in the state of Georgia, United States, known for its historic architecture, educational institutions, and as the birthplace of the famous musician Ray Charles.",
+      "explanation_cn": "美国佐治亚州的一个城市，以其历史建筑、教育机构以及著名音乐家雷·查尔斯的故乡而闻名。",
+      "example_en": "Macon is home to the Allman Brothers Band Museum at the Big House.",
+      "example_cn": "马孔是奥尔曼兄弟乐队博物馆（Big House）的所在地。"
     }
-  ],
-  "comparison": []
+  ]
 }

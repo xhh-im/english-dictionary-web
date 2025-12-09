@@ -4,32 +4,32 @@
   "concise_definition": "n. 克尔斯滕（女性名）",
   "forms": {
     "variant_spelling": [
+      "Kirsten",
       "Kirstin",
-      "Kirstyn",
       "Kerstin"
     ]
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A feminine given name of Germanic origin, derived from the name Christiana or Christina, meaning 'follower of Christ'. It is commonly used in Scandinavian countries, Germany, and the Netherlands.",
-      "explanation_cn": "源自日耳曼语的女性名，由 Christiana 或 Christina 演变而来，意为‘基督的追随者’。在斯堪的纳维亚国家、德国和荷兰广泛使用。",
+      "explanation_en": "A feminine given name of Scandinavian origin, derived from the name Christiana or Kirsti, meaning 'follower of Christ'. It is commonly used in Denmark, Norway, and Germany.",
+      "explanation_cn": "源自斯堪的纳维亚的女性名字，由 Christana 或 Kirsti 演变而来，意为‘基督的追随者’。在丹麦、挪威和德国广泛使用。",
       "example_en": "Kirsten is a talented photographer who recently exhibited her work in Berlin.",
-      "example_cn": "克尔斯滕是一位才华横溢的摄影师，最近在柏林举办了个人作品展。"
+      "example_cn": "克尔斯滕是一位才华横溢的摄影师，最近在柏林举办了她的作品展览。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "Christina",
-      "analysis": "“Christina” 是更广泛使用的基督教名字，源自拉丁语 Christianus，意为‘基督的’。而 “Kirsten” 是其在北欧语言中的变体，发音和拼写更具地域特色，更常用于丹麦、挪威和瑞典。两者语义相同，但文化分布不同。"
+      "word_to_compare": "christine",
+      "analysis": "“Christine”（克里斯汀）是源自拉丁语 Christiana 的女性名字，与 “Kirsten” 同源，都意为‘基督的追随者’。但 “Christine” 更常见于法语、英语国家，发音更柔和；而 “Kirsten” 带有明显的北欧语音特征，拼写和发音更具地域性。"
     },
     {
-      "word_to_compare": "Kerstin",
-      "analysis": "“Kerstin” 是 “Kirsten” 的另一种拼写形式，主要在德国和东欧地区使用。两者发音几乎相同，但 “Kerstin” 更强调德语拼写习惯，而 “Kirsten” 更接近斯堪的纳维亚语的拼写规范。"
+      "word_to_compare": "karen",
+      "analysis": "“Karen”（凯伦）是另一个北欧起源的女性名字，源自 Karen，是 Katherine 的变体，意为‘纯洁’。虽然两者都是北欧常见名，但 “Kirsten” 与基督教信仰直接关联，而 “Karen” 则无宗教含义。此外，近年来 “Karen” 在英语网络文化中被赋予了负面刻板印象，而 “Kirsten” 仍保持中性或正面的命名含义。"
     },
     {
-      "word_to_compare": "Christine",
-      "analysis": "“Christine” 是法语和英语中常见的变体，发音更柔和，拼写更接近拉丁语源。与 “Kirsten” 相比，它在英语国家更普遍，而 “Kirsten” 则带有明显的北欧文化印记，语义相同但地域偏好不同。"
+      "word_to_compare": "kristin",
+      "analysis": "“Kristin” 是 “Kirsten” 的一种常见拼写变体，尤其在瑞典和美国使用较多。两者发音几乎相同，语义完全一致。区别仅在于拼写习惯：“Kirsten” 更偏向丹麦和挪威，“Kristin” 更常见于瑞典和英语国家。"
     }
   ]
 }

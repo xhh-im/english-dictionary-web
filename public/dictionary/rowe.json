@@ -8,11 +8,10 @@
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A surname of English origin, historically derived from the Old French word 'rou' meaning 'red', often used to denote someone with red hair or a ruddy complexion.",
-      "explanation_cn": "源自英语的姓氏，历史上由古法语单词 'rou'（意为红色）演变而来，常用于指代头发呈红色或面色红润的人。",
+      "explanation_en": "A surname of English origin, often derived from a topographic name for someone who lived near a row of trees or a linear feature, or from a variant of the name 'Row' or 'Roe'.",
+      "explanation_cn": "源自英语的姓氏，通常为地名姓氏，指居住在一行树木或线性地貌附近的人，或为 'Row' 或 'Roe' 的变体。",
       "example_en": "John Rowe is a well-known historian specializing in medieval England.",
-      "example_cn": "约翰·罗是研究中世纪英格兰的著名历史学家。"
+      "example_cn": "约翰·罗是研究中世纪英格兰的知名历史学家。"
     }
-  ],
-  "comparison": []
+  ]
 }

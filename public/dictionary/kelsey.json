@@ -1,7 +1,7 @@
 {
   "word": "kelsey",
   "pronunciation": "kel·see",
-  "concise_definition": "n. （人名）凯尔西（常见英文女性名）",
+  "concise_definition": "n. 人名，凯尔西（女性名）",
   "forms": {
     "variant_spellings": [
       "Kelsie",
@@ -12,31 +12,24 @@
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A feminine given name of English origin, often considered a variant of 'Kelsie' or derived from place names such as 'Kelsall' or 'Kelsey' in England. It is commonly used in modern Western cultures and carries connotations of elegance and individuality.",
-      "explanation_cn": "一个源自英语的女性名，常被视为 'Kelsie' 的变体，或源于英格兰的地名如 'Kelsall' 或 'Kelsey'。在现代西方文化中广泛使用，带有优雅与个性的联想。",
-      "example_en": "Kelsey graduated with honors in environmental science last year.",
-      "example_cn": "凯尔西去年以优异成绩毕业于环境科学专业。"
-    },
-    {
-      "pos": "noun",
-      "explanation_en": "A surname of English origin, historically associated with places named Kelsey in Lincolnshire or Cambridgeshire, meaning 'Ceol's island' or 'Ceol's piece of land' (from Old English 'Ceol' + 'lēah').",
-      "explanation_cn": "一个源自英格兰的姓氏，历史上与林肯郡或剑桥郡名为 Kelsey 的地方相关，意为 'Ceol 的岛屿' 或 'Ceol 的土地'（源自古英语 'Ceol' + 'lēah'）。",
-      "example_en": "Dr. Kelsey published groundbreaking research on climate patterns in the 1980s.",
-      "example_cn": "凯尔西博士在20世纪80年代发表了关于气候模式的开创性研究。"
+      "explanation_en": "A feminine given name of English origin, often considered a variant of 'Kelsie' or derived from place names such as Kelsey in Lincolnshire, England. It is commonly used in modern Western cultures and carries connotations of strength and individuality.",
+      "explanation_cn": "一个源自英语的女性名，常被视为 'Kelsie' 的变体，或源于英格兰林肯郡的地名 Kelsey。在现代西方文化中广泛使用，常带有坚强与个性的寓意。",
+      "example_en": "Kelsey is a talented photographer who recently exhibited her work in New York.",
+      "example_cn": "凯尔西是一位才华横溢的摄影师，最近在纽约展出了她的作品。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "Kelsie",
-      "analysis": "“Kelsie” 是 “Kelsey” 最常见的拼写变体，发音几乎相同，但 “Kelsie” 更常被用作女性名，带有更柔和、现代的语感；而 “Kelsey” 作为姓氏和名字都更常见，语义范围更广，且在20世纪后期作为女性名的流行度更高。"
+      "analysis": "“Kelsie” 是 “Kelsey” 的常见拼写变体，发音相同，语义完全一致。两者都作为女性名字使用，区别仅在于拼写风格，其中 “Kelsie” 更常用于北美地区，而 “Kelsey” 更为通用。"
+    },
+    {
+      "word_to_compare": "Kelsey (surname)",
+      "analysis": "作为姓氏时，Kelsey 源自英格兰的地名，意为“凯尔西之地”，与作为人名的用法同源。作为姓氏时，它不具有性别指向，而作为名字时则几乎专用于女性。"
     },
     {
       "word_to_compare": "Chelsea",
-      "analysis": "“Chelsea” 是另一个流行的英语女性名，源自伦敦的地名，意为“码头”或“港口”。与 “Kelsey” 相比，它更具城市感和时尚感，而 “Kelsey” 则更偏向自然、质朴的英伦乡村意象。两者均为现代常用名，但文化联想不同。"
-    },
-    {
-      "word_to_compare": "Kelsey (place name)",
-      "analysis": "作为地名的 ‘Kelsey’（如英格兰的村庄）与作为人名的 ‘Kelsey’ 有共同词源，但作为人名时已完全脱离地理指涉，成为独立的身份标识。地名强调历史与地域，人名则强调个人身份与文化传承。"
+      "analysis": "“Chelsea” 是另一个流行的英语女性名，发音和拼写与 “Kelsey” 不同，但两者在现代文化中常被归为相似风格的名字——简洁、现代、带有都市感。然而，Chelsea 源自伦敦地名，而 Kelsey 源自林肯郡，语源不同。"
     }
   ]
 }

@@ -10,36 +10,36 @@
       "pos": "adverb",
       "explanation_en": "Moving or extending forward in space or time; used to indicate progression, advancement, or emergence from a hidden or previous state.",
       "explanation_cn": "表示在空间或时间上向前移动或延伸；用于指示进展、推进或从隐藏或先前状态中显现出来。",
-      "example_en": "The magician pulled a rabbit forth from the hat.",
-      "example_cn": "魔术师从帽子里变出了一只兔子。"
+      "example_en": "Step forth and introduce yourself to the audience.",
+      "example_cn": "上前一步，向观众做自我介绍。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "Used in phrases like 'bring forth' or 'speak forth' to mean to produce, reveal, or express something formally or emphatically.",
-      "explanation_cn": "用于短语如 'bring forth' 或 'speak forth'，表示正式或强调地提出、揭示或表达某事物。",
-      "example_en": "She brought forth a compelling argument during the debate.",
-      "example_cn": "她在辩论中提出了一个令人信服的论点。"
+      "explanation_en": "Used in phrases like 'bring forth' or 'call forth' to mean producing or revealing something previously hidden or unspoken.",
+      "explanation_cn": "用于短语如 'bring forth' 或 'call forth'，表示产生或揭示之前被隐藏或未表达的事物。",
+      "example_en": "The lawyer brought forth new evidence that changed the outcome of the trial.",
+      "example_cn": "律师提出了新的证据，改变了审判的结果。"
     },
     {
       "pos": "adverb",
       "explanation_en": "In the phrase 'from forth', an archaic or poetic variant of 'from', often found in classical literature.",
       "explanation_cn": "在短语 'from forth' 中，是 'from' 的古语或诗意变体，常见于古典文学中。",
-      "example_en": "From forth the fatal loins of these two foes, a pair of star-crossed lovers take their life.",
-      "example_cn": "从这两家敌对的血脉中，诞生了一对命运多舛的恋人。"
+      "example_en": "From forth the fatal loins of these two foes, a pair of star-cross'd lovers take their life.",
+      "example_cn": "从这两家仇敌的致命血脉中，诞生了一对命途多舛的恋人。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "forward",
-      "analysis": "“Forward” (向前) 是更常用、更通用的副词，用于描述物理或抽象意义上的前进方向，如 “move forward” 或 “look forward”。而 “forth” 更具文学性或正式性，常用于固定搭配（如 bring forth, set forth），且多用于从封闭或隐藏状态中显现的语境。"
+      "analysis": "“Forward” (向前) 是更常用、更通用的方位副词，强调物理或抽象意义上的前进方向，如 “move forward”。“Forth” 更具文学性或正式感，常用于固定搭配（如 step forth, bring forth），并隐含从内到外、从隐藏到显现的动态过程，语义更丰富。"
     },
     {
       "word_to_compare": "out",
-      "analysis": "“Out” (出来) 强调从内部到外部的移动，如 “come out” 或 “take out”，侧重于位置的改变。而 “forth” 不仅包含“出来”的含义，还隐含“向前推进”或“正式提出”的语义，语义范围更广，语体更正式。"
+      "analysis": "“Out” (出来) 强调从内部到外部的脱离或暴露，如 “come out”。“Forth” 虽然也有“出来”的意思，但更侧重于有目的、有方向的向前推进，而非单纯的脱离。例如 “step forth” 暗含勇气与主动性，而 “step out” 可能只是离开房间。"
     },
     {
-      "word_to_compare": "onward",
-      "analysis": "“Onward” (继续向前) 强调持续的前进，常用于旅程或进程的延续，如 “onward to victory”。它侧重时间或过程的延续性，而 “forth” 更强调动作的起点或从静止到运动的转变，常与动词搭配构成固定表达。"
+      "word_to_compare": "ahead",
+      "analysis": "“Ahead” (在前面) 指空间或时间上的前方位置，常用于表示未来或前方的目标，如 “look ahead”。“Forth” 则强调动作的进行过程，是动态的移动，而非静态的位置。例如 “go forth” 是出发行动，而 “go ahead” 是允许继续或领先。"
     }
   ]
 }

@@ -1,18 +1,17 @@
 {
   "word": "trevor",
-  "pronunciation": "truh·vur",
-  "concise_definition": "n. 特雷弗（人名）",
+  "pronunciation": "truh·vohr",
+  "concise_definition": "n. 人名：特雷弗（男性名）",
   "forms": {
     "plural": "Trevors"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A masculine given name of English origin, derived from the Welsh name 'Trefor', meaning 'from the large settlement' or 'settlement of the great one'. Commonly used in the UK, Ireland, and Commonwealth countries.",
-      "explanation_cn": "一个源自英语的男性名字，由威尔士语名字 'Trefor' 演变而来，意为 '来自大聚居地' 或 '伟人之居'。常见于英国、爱尔兰及英联邦国家。",
-      "example_en": "Trevor Noah is a well-known South African comedian and television host.",
-      "example_cn": "特雷弗·诺亚是一位著名的南非喜剧演员和电视主持人。"
+      "explanation_en": "A masculine given name of English origin, derived from the Welsh name 'Trefor', meaning 'from the large settlement' or 'from the homestead'. It is commonly used in English-speaking countries and has no inherent meaning beyond its use as a personal identifier.",
+      "explanation_cn": "一个源自英语的男性名字，来源于威尔士语名字 'Trefor'，意为“来自大聚居地”或“来自家园”。该名字在英语国家中广泛使用，其本身并无超出作为人名之外的固有含义。",
+      "example_en": "Trevor is the project manager at our new office in Manchester.",
+      "example_cn": "特雷弗是我们位于曼彻斯特新办公室的项目经理。"
     }
-  ],
-  "comparison": []
+  ]
 }

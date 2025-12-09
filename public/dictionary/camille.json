@@ -3,40 +3,36 @@
   "pronunciation": "kam·eel",
   "concise_definition": "n. 卡米耶（人名）",
   "forms": {
-    "variant_spelling": [
-      "Camille",
-      "Camill",
-      "Kamille"
-    ]
+    "plural": "camilles"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A French given name, traditionally feminine, derived from the Latin name 'Camillus', meaning 'attendant at a religious ceremony'. It is commonly used in French-speaking countries and has been popularized by notable figures in art and literature.",
-      "explanation_cn": "一个法语女性名，源自拉丁语名 'Camillus'，意为‘宗教仪式的侍者’。在法语国家广泛使用，并因艺术与文学中的知名人物而广为人知。",
-      "example_en": "Camille Pissarro was a prominent Impressionist painter known for his landscapes and rural scenes.",
-      "example_cn": "卡米耶·毕沙罗是一位著名的印象派画家，以风景和乡村场景画作闻名。"
+      "explanation_en": "A French given name, commonly used for women, derived from the Latin name Camillus, meaning 'attendant at a religious ceremony'. It is often associated with elegance, artistry, and cultural refinement.",
+      "explanation_cn": "一个法语女性名，源自拉丁语名 Camillus，意为“宗教仪式的侍者”。常与优雅、艺术性和文化修养相联系。",
+      "example_en": "Camille Pissarro was a renowned Impressionist painter known for his landscapes and urban scenes.",
+      "example_cn": "卡米耶·毕沙罗是一位著名的印象派画家，以其风景画和城市场景而闻名。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A surname used by individuals across various cultures, often associated with artistic, literary, or scientific contributions.",
-      "explanation_cn": "作为姓氏，被不同文化背景的人使用，常与艺术、文学或科学领域的贡献相关联。",
-      "example_en": "Camille Saint-Saëns composed some of the most enduring works in the classical repertoire, including 'The Carnival of the Animals'.",
-      "example_cn": "卡米耶·圣-桑创作了古典音乐中一些最经久不衰的作品，包括《动物狂欢节》。"
+      "explanation_en": "A proper noun used as a surname or first name in various cultures, sometimes appearing in literature, film, or music as a symbol of grace, mystery, or emotional depth.",
+      "explanation_cn": "在多种文化中用作姓氏或名字，有时在文学、电影或音乐中作为优雅、神秘或情感深度的象征出现。",
+      "example_en": "In the novel, the character Camille embodies quiet strength and resilience in the face of adversity.",
+      "example_cn": "在这部小说中，角色卡米耶在逆境中展现出宁静的力量与韧性。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "Camilla",
-      "analysis": "“Camilla” 是 “Camille” 的另一种拼写形式，主要在英语国家使用，尤其在英国皇室中较为知名（如卡米拉王后）。两者同源，但 “Camilla” 更偏向英语发音和拼写习惯，而 “Camille” 保留了法语的优雅发音和文化语境。"
+      "word_to_compare": "camilla",
+      "analysis": "“Camilla” 是 “Camille” 的另一种拼写形式，主要在英语国家使用，发音略有不同（/kəˈmɪlə/），更偏向传统或贵族化印象。而 “Camille” 更具法语风情，常与艺术、现代感和独立女性形象关联。"
     },
     {
-      "word_to_compare": "Camillus",
-      "analysis": "“Camillus” 是 “Camille” 的拉丁语原形，作为古罗马的男性名字，意为‘神庙侍者’。现代人名 ‘Camille’ 是其性别中性化和法语化的演变形式，已不再用于指代古代宗教角色，而成为独立的现代人名。"
+      "word_to_compare": "simone",
+      "analysis": "“Simone”（西蒙娜）同样是法语女性名，常与知识分子、女权主义者或艺术家联系（如西蒙娜·德·波伏娃）。与 “Camille” 相比，”Simone“ 更强调思想深度与社会批判，而 “Camille” 更侧重审美、感性与内在优雅。"
     },
     {
-      "word_to_compare": "Kamille",
-      "analysis": "“Kamille” 是 ‘Camille’ 的变体拼写，常见于现代流行文化或非传统命名中，常用于强调独特性或视觉辨识度。发音与 ‘Camille’ 相同，但拼写上的 ‘K’ 使其更具当代感，多见于美国流行音乐或社交媒体中的艺名。"
+      "word_to_compare": "claire",
+      "analysis": "“Claire”（克莱尔）意为“明亮、清晰”，常传达纯净、理性与简洁的意象。而 “Camille” 虽然也优雅，但带有更多历史厚重感与艺术神秘色彩，情感层次更丰富，不似 “Claire” 那般直白清新。"
     }
   ]
 }

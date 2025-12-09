@@ -1,11 +1,7 @@
 {
   "word": "both",
   "pronunciation": "bohth",
-  "concise_definition": "adj./pron. 两者都, 两个都",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
+  "concise_definition": "adj. 两者都, pron. 两者, adv. 两者都",
   "definitions": [
     {
       "pos": "determiner",
@@ -16,15 +12,15 @@
     },
     {
       "pos": "pronoun",
-      "explanation_en": "Used to replace two previously mentioned items or people, emphasizing that neither is excluded.",
-      "explanation_cn": "用于替代前文提到的两个事物或人，强调两者均未被排除。",
+      "explanation_en": "Used to refer to two people or things previously mentioned or easily identified, meaning 'the two of them' or 'the two of those'.",
+      "explanation_cn": "用于指代前文已提及或容易识别的两个人或事物，意为‘两者’或‘那两个’。",
       "example_en": "I tried both, but I liked the red one better.",
       "example_cn": "我试了两个，但我更喜欢红色的那个。"
     },
     {
-      "pos": "conjunction",
-      "explanation_en": "Used with 'and' to connect two equal elements, indicating that both are true or applicable.",
-      "explanation_cn": "与 'and' 连用，连接两个并列成分，表示两者都成立或适用。",
+      "pos": "adverb",
+      "explanation_en": "Used to emphasize that two things or actions are true or happen simultaneously.",
+      "explanation_cn": "用于强调两个事物或动作同时成立或发生。",
       "example_en": "She is both intelligent and hardworking.",
       "example_cn": "她既聪明又勤奋。"
     }
@@ -32,7 +28,7 @@
   "comparison": [
     {
       "word_to_compare": "all",
-      "analysis": "“All”（全部）用于三个或三个以上的人或事物，表示整体包含；而 “both” 仅限于两个对象。例如，“All students passed” 指所有学生（三人以上），而 “Both students passed” 仅指两个学生。"
+      "analysis": "“All”（全部）用于指三个或三个以上的人或事物，强调整体性；而 “both” 仅用于两个，强调两者并列。例如，“All students passed” 指所有学生（三人以上），而 “Both students passed” 仅指两个学生。"
     },
     {
       "word_to_compare": "either",
@@ -40,7 +36,7 @@
     },
     {
       "word_to_compare": "neither",
-      "analysis": "“Neither”（两者都不）是 “both” 的否定对应词，表示两个都不包含。例如，“Both answers are correct” 与 “Neither answer is wrong” 意义相反，前者肯定两者，后者否定两者。"
+      "analysis": "“Neither”（两者都不）是否定形式，表示两个都不成立；而 “both” 是肯定形式，表示两个都成立。两者构成对立语义。例如，“Neither answer is correct” 与 “Both answers are correct” 意思完全相反。"
     }
   ]
 }

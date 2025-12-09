@@ -3,40 +3,36 @@
   "pronunciation": "loo·sill",
   "concise_definition": "n. (专有名词) 露西尔（女性名）",
   "forms": {
-    "variant_spellings": [
-      "Lucy",
-      "Lucia",
-      "Luciana"
-    ]
+    "plural": "lucilles"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A feminine given name of Latin origin, derived from 'lux' meaning 'light'. It is often associated with qualities such as brightness, clarity, and grace.",
-      "explanation_cn": "源自拉丁语 'lux'（光）的女性名字，常与光明、清晰和优雅等品质相关联。",
-      "example_en": "Lucille Ball was a pioneering American comedienne and television star.",
-      "example_cn": "露西尔·鲍尔是一位开创性的美国喜剧女演员和电视明星。"
+      "explanation_en": "A feminine given name of French origin, derived from the Latin name 'Lucilla', a diminutive of 'Lucia', meaning 'light' or 'illumination'. Often associated with elegance and historical prominence.",
+      "explanation_cn": "源自法语的女性名，由拉丁语名 'Lucilla' 演变而来，是 'Lucia' 的指小形式，意为‘光’或‘光明’。常与优雅和历史上的显赫人物相关联。",
+      "example_en": "Lucille Ball was a pioneering American comedienne and television icon.",
+      "example_cn": "露西尔·鲍尔是一位开创性的美国喜剧女演员和电视偶像。"
     },
     {
       "pos": "noun",
-      "explanation_en": "Used as a proper noun to refer to specific individuals, places, or cultural references, such as famous people or fictional characters bearing the name.",
-      "explanation_cn": "作为专有名词，用于指代以该名字命名的具体人物、地点或文化引用，如著名人物或虚构角色。",
-      "example_en": "The jazz club was named 'Lucille's' in honor of the legendary blues singer B.B. King's guitar, which he called Lucille.",
-      "example_cn": "这家爵士俱乐部以‘Lucille’命名，以纪念传奇蓝调歌手B.B.金将他的吉他命名为‘Lucille’。"
+      "explanation_en": "A proper noun used to refer to specific notable individuals, such as Lucille Ball or Lucille Clifton, often carrying cultural or artistic significance.",
+      "explanation_cn": "用作专有名词，指代特定的知名人物，如露西尔·鲍尔或露西尔·克利夫顿，通常具有文化或艺术上的重要意义。",
+      "example_en": "The award was named in honor of Lucille Clifton, the celebrated poet and writer.",
+      "example_cn": "该奖项以著名诗人兼作家露西尔·克利夫顿的名字命名，以示纪念。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "lucy",
-      "analysis": "“Lucy” 是 “Lucille” 的常见缩略或变体形式，更简短、口语化，常用于日常称呼。而 “Lucille” 更显古典、优雅，多用于20世纪上半叶的命名传统，带有更强的正式感和历史感。"
-    },
-    {
       "word_to_compare": "lucia",
-      "analysis": "“Lucia” 是 “Lucille” 的意大利语和斯堪的纳维亚语形式，发音更柔和，常与宗教传统（如圣露西亚节）相关联。而 “Lucille” 是法语化英语形式，更强调个人气质而非文化或宗教象征。"
+      "analysis": "“Lucia” 是 “Lucille” 的词源基础，两者都源自拉丁语 'lux'（光），但 “Lucia” 更常见于意大利语和斯堪的纳维亚国家，发音更接近 ‘loo-CHEE-ah’，而 “Lucille” 是法语化形式，更常用于英语国家，带有更柔和、优雅的语感。"
     },
     {
-      "word_to_compare": "luminous",
-      "analysis": "“Luminous”（发光的）是与 “Lucille” 同源的形容词，直接源自拉丁语 'lux'，用于描述物理或隐喻意义上的光明。而 “Lucille” 作为人名，是该词根的人格化体现，承载文化与个性意义，而非描述属性。"
+      "word_to_compare": "lillian",
+      "analysis": "“Lillian” 是另一个源自拉丁语 ‘lilium’（百合花）的女性名字，象征纯洁与美丽，与 “Lucille” 在音韵上相似，但语义来源不同。后者强调‘光明’，前者强调‘花卉’，文化联想也不同。"
+    },
+    {
+      "word_to_compare": "lucy",
+      "analysis": "“Lucy” 是 ‘Lucia’ 或 ‘Lucille’ 的昵称形式，更口语化、亲切，常用于日常语境。而 “Lucille” 更正式、复古，常用于20世纪早期的命名传统，带有经典好莱坞时代的韵味。"
     }
   ]
 }

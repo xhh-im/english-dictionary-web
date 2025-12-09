@@ -1,9 +1,9 @@
 {
   "word": "purdue",
-  "pronunciation": "pərˈdü",
-  "concise_definition": "n. 普渡大学（美国印第安纳州的一所著名公立研究型大学）",
+  "pronunciation": "pər·dü",
+  "concise_definition": "n. 普渡大学（美国知名公立研究型大学）",
   "forms": {
-    "proper_noun": true
+    "plural": "Purdues"
   },
   "definitions": [
     {
@@ -15,24 +15,24 @@
     },
     {
       "pos": "noun",
-      "explanation_en": "The name 'Purdue' is also used to refer to the university's community, culture, and traditions, including its alumni network, sports teams (the Boilermakers), and academic reputation.",
-      "explanation_cn": "“普渡”一词也常用于指代该大学的社群、文化与传统，包括其校友网络、运动队（锅炉工队）以及学术声誉。",
-      "example_en": "Purdue has a strong alumni presence in Silicon Valley.",
-      "example_cn": "普渡大学的校友在硅谷有着强大的影响力。"
+      "explanation_en": "Sometimes used informally to refer to the culture, alumni network, or reputation associated with Purdue University, especially in STEM fields.",
+      "explanation_cn": "有时非正式地指与普渡大学相关的文化、校友网络或声誉，尤其在STEM（科学、技术、工程和数学）领域。",
+      "example_en": "He’s got that Purdue grit — always solving problems with precision and determination.",
+      "example_cn": "他身上有那种普渡精神——总是以精准和决心解决问题。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "mit",
-      "analysis": "“MIT”（麻省理工学院）与“Purdue”均为美国顶尖理工院校，但 MIT 更侧重于前沿科技与创新研究，学术氛围更密集、更具颠覆性；而 Purdue 以扎实的工程教育、广泛的农业与航空项目著称，更强调实践应用与产业合作。"
+      "analysis": "“MIT”（麻省理工学院）与“Purdue”都是美国顶尖的理工类大学，但MIT更侧重于前沿科技创新与创业文化，位于波士顿都市圈，资源更集中于高科技与人工智能领域；而Purdue以扎实的工程教育、大规模的本科培养和农业航空传统著称，更具“实用主义”和“中西部踏实”风格。"
     },
     {
       "word_to_compare": "stanford",
-      "analysis": "“Stanford”（斯坦福大学）位于硅谷中心，以创业文化、科技孵化和跨学科研究闻名；而 Purdue 虽然也有强大的技术转化能力，但其文化更偏向传统工科教育与公共使命，校园规模更大、更注重大众化高等教育。"
+      "analysis": "“Stanford”（斯坦福大学）位于硅谷中心，以创业精神、风险投资联动和互联网科技闻名，其文化更偏向创新与商业化；而“Purdue”虽也有技术转化能力，但整体氛围更学术、低调，强调工程实践与国家工业支持，较少被媒体聚焦，却在工程界享有极高声誉。"
     },
     {
-      "word_to_compare": "caltech",
-      "analysis": "“Caltech”（加州理工学院）规模极小，专注于基础科学与尖端研究，师生比极低；而 Purdue 是大型综合性大学，拥有超过 40,000 名学生，学科覆盖面广，尤其在工程、农业和航空领域具有全国性影响力。"
+      "word_to_compare": "berkeley",
+      "analysis": "“Berkeley”（加州大学伯克利分校）以自由思想、社会运动和基础科学研究著称，学术氛围更激进开放；而“Purdue”则以严谨、纪律性强、注重工程应用和国家项目合作为特色，较少参与政治争议，更专注于技术落地与人才培养。"
     }
   ]
 }

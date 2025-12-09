@@ -3,7 +3,7 @@
   "pronunciation": "dɔːrˈset",
   "concise_definition": "n. 多塞特（英国英格兰西南部的一个郡）",
   "forms": {
-    "proper_noun": true
+    "plural": "Dorsets"
   },
   "definitions": [
     {
@@ -24,15 +24,15 @@
   "comparison": [
     {
       "word_to_compare": "county",
-      "analysis": "“County”（郡）是一个通用行政地理单位，适用于英国、美国等多个国家；而 “Dorset” 是一个具体的地名，特指英格兰西南部的这个郡，属于专有名词，具有唯一性和文化独特性。"
+      "analysis": "“County”（郡）是一个行政地理单位，泛指英国、美国等国家的次级行政区划。而 “Dorset” 是一个具体的郡名，是 “county” 的一个实例。使用 “Dorset” 时，特指英格兰西南部的这个地区，具有文化、历史和地理上的独特性。"
     },
     {
       "word_to_compare": "shire",
-      "analysis": "“Shire” 是英国传统上对郡的旧称（如 Hampshire、Yorkshire），常用于历史语境；“Dorset” 本身即为郡名，虽历史上曾称 Dorsetshire，但现代标准名称已简化为 Dorset，两者是同一地理实体的不同命名形式。"
+      "analysis": "“Shire” 是英国传统上对郡的旧称，常用于地名后缀（如 Hampshire、Yorkshire），与 “county” 同义。Dorset 本身不带 “-shire” 后缀，但其历史身份与 shire 相同。现代英语中，Dorset 更常被称为 county，而 shire 多用于文学或历史语境。"
     },
     {
       "word_to_compare": "breed",
-      "analysis": "“Breed”（品种）是泛指动植物的培育类型，如“Golden Retriever”或“Holstein cow”；而 “Dorset” 作为羊的品种名称，是专有名词，特指源自多塞特郡的绵羊品种，其命名直接关联地理来源。"
+      "analysis": "“Breed”（品种）泛指动植物经过人工选育形成的具有稳定特征的类型，如狗、牛、羊的品种。而 “Dorset” 作为动物品种名称时，特指这种绵羊，是 “breed” 的一个具体名称。因此，Dorset 是 breed 的一个实例，而非同义词。"
     }
   ]
 }

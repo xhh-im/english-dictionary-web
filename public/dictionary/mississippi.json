@@ -3,36 +3,36 @@
   "pronunciation": "mis·si·sip·i",
   "concise_definition": "n. 密西西比河, 密西西比州",
   "forms": {
-    "proper_noun": true
+    "plural": "Mississippis"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A major river in the United States, flowing from northern Minnesota to the Gulf of Mexico, forming part of the boundary between several states and serving as a vital transportation and ecological corridor.",
-      "explanation_cn": "美国一条主要河流，发源于明尼苏达州北部，注入墨西哥湾，构成多个州的边界，是重要的交通与生态通道。",
-      "example_en": "The Mississippi River is the second-longest river in North America.",
-      "example_cn": "密西西比河是北美洲第二长的河流。"
+      "explanation_en": "The Mississippi River, a major river in the United States that flows from northern Minnesota to the Gulf of Mexico, forming a vital transportation and ecological corridor.",
+      "explanation_cn": "美国一条主要河流，发源于明尼苏达州北部，注入墨西哥湾，是重要的交通与生态通道。",
+      "example_en": "The Mississippi River has played a central role in American history and literature.",
+      "example_cn": "密西西比河在美国历史和文学中扮演了核心角色。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A state in the southeastern region of the United States, bordered by the Mississippi River to the west, known for its rich musical heritage, particularly blues and gospel, and its historical significance in the Civil Rights Movement.",
-      "explanation_cn": "美国东南部的一个州，西临密西西比河，以其丰富的音乐传统（尤其是蓝调和福音音乐）以及在民权运动中的历史重要性而闻名。",
-      "example_en": "Jackson is the capital city of Mississippi.",
-      "example_cn": "杰克逊是密西西比州的首府。"
+      "explanation_en": "The state of Mississippi, located in the southeastern region of the United States, known for its rich musical heritage, particularly blues, and its historical significance in the Civil Rights Movement.",
+      "explanation_cn": "美国东南部的一个州，以其丰富的音乐传统（尤其是蓝调音乐）和在民权运动中的历史意义而闻名。",
+      "example_en": "She was born and raised in Mississippi, where the soul of American music still echoes through the cotton fields.",
+      "example_cn": "她出生并成长于密西西比州，那里美国音乐的灵魂仍在棉田间回响。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "missouri",
-      "analysis": "“Missouri”（密苏里州）是美国中西部的一个州，与密西西比河相邻但不以其命名，其名称源于原住民语言，意为“木独木舟的人”。密苏里河是密西西比河的主要支流，两者地理上紧密相关，但“Mississippi”作为地名更常指代河流本身或其所在的州，而“Missouri”主要指州名。"
+      "analysis": "“Missouri”（密苏里州）是美国中西部的一个州，与密西西比州相邻，但地理、文化和历史背景不同。密苏里州以圣路易斯和堪萨斯城为经济中心，而密西西比州更侧重于南部农业传统与蓝调文化。两条河流——密苏里河与密西西比河——共同构成美国最大的水系，但“Missouri”作为地名通常指州而非河流。"
     },
     {
       "word_to_compare": "ohio",
-      "analysis": "“Ohio”（俄亥俄州）是美国中西部的一个州，其名称源自原住民语言，意为“美丽的河流”。俄亥俄河是密西西比河的重要支流，但“Ohio”本身不指代河流主体，而“Mississippi”既是河流名称又是州名，具有双重地理指涉，语义覆盖更广。"
+      "analysis": "“Ohio”（俄亥俄州）是美国中西部的一个州，其名称源自印第安语，意为“美丽的河流”，与密西西比州同属美国东部内陆地区，但俄亥俄州工业基础更强，文化上更接近五大湖地区，而密西西比州则代表典型的美国南方文化。两者虽均为州名，但地理、经济与文化特征差异显著。"
     },
     {
-      "word_to_compare": "delaware",
-      "analysis": "“Delaware”（特拉华州）是美国最小的州之一，以河流和原住民部落命名，但其名称仅用于州名和河流，不具“Mississippi”那样作为国家核心地理标志的广泛文化象征意义。密西西比河在美国历史、文学和音乐中具有标志性地位，而特拉华则无此影响力。"
+      "word_to_compare": "arizona",
+      "analysis": "“Arizona”（亚利桑那州）位于美国西南部，以沙漠地貌、大峡谷和干旱气候著称，与密西西比州的湿润南方平原形成鲜明对比。密西西比州以河流、棉花种植和音乐传统为标志，而亚利桑那州则以自然景观和旅游业闻名。两者在自然环境、人口构成和历史发展路径上截然不同。"
     }
   ]
 }

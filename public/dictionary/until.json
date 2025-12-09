@@ -1,45 +1,42 @@
 {
   "word": "until",
-  "pronunciation": "un·til",
+  "pronunciation": "uhn·til",
   "concise_definition": "prep./conj. 直到, 到...为止",
-  "forms": {
-    "none": ""
-  },
   "definitions": [
     {
       "pos": "preposition",
-      "explanation_en": "Indicating the time or event up to which something continues or remains true, with the implication that a change occurs at or after that point.",
-      "explanation_cn": "表示某事持续到某个时间点或事件发生为止，暗示在此时间点或事件之后情况将发生变化。",
-      "example_en": "We waited until midnight for the results.",
-      "example_cn": "我们一直等到午夜才等到结果。"
+      "explanation_en": "Indicating the time or point at which a situation, action, or state stops or changes; used to mark the end point of a duration.",
+      "explanation_cn": "表示某一情况、动作或状态停止或发生变化的时间点或时刻；用于标记一段持续时间的终点。",
+      "example_en": "We waited until midnight before leaving.",
+      "example_cn": "我们一直等到午夜才离开。"
     },
     {
       "pos": "conjunction",
-      "explanation_en": "Connecting two clauses to show that the action or state in the first clause continues up to the point when the second clause occurs, often implying a condition or limit.",
-      "explanation_cn": "连接两个分句，表示前一分句的动作或状态持续到后一分句所述事件发生为止，常隐含一种条件或界限。",
-      "example_en": "You can't leave until you finish your homework.",
-      "example_cn": "你必须做完作业才能离开。"
+      "explanation_en": "Connecting two clauses to show that the action or condition in the first clause continues up to the point described in the second clause.",
+      "explanation_cn": "连接两个分句，表示前一分句中的动作或条件持续到后一分句所描述的时间点为止。",
+      "example_en": "She didn't realize her mistake until he pointed it out.",
+      "example_cn": "直到他指出来，她才意识到自己的错误。"
     },
     {
       "pos": "preposition",
-      "explanation_en": "Used to express a condition that must be met before an action can occur, especially in negative constructions.",
-      "explanation_cn": "用于表达某动作发生前必须满足的条件，尤其在否定结构中。",
-      "example_en": "I won't believe it until I see it with my own eyes.",
-      "example_cn": "除非我亲眼看到，否则我不会相信。"
+      "explanation_en": "Used in negative contexts to emphasize that something will not happen or is not true before a specified time or condition is met.",
+      "explanation_cn": "用于否定语境中，强调某事在指定时间或条件满足之前不会发生或不成立。",
+      "example_en": "Don't open the door until I call you.",
+      "example_cn": "在我叫你之前，不要开门。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "till",
-      "analysis": "“Till” 是 “until” 的非正式变体，语义和用法几乎完全相同，常用于口语和文学中。两者可互换，但 “until” 更正式，更常用于书面语和强调时间终点的语境中。"
+      "analysis": "“Till” 是 “until” 的非正式变体，两者在大多数情况下可以互换使用，语义完全相同。但 “till” 更口语化，常用于日常对话；而 “until” 更正式，适用于书面语和正式场合。注意：‘til’ 是一种非标准的缩写形式，不应在正式写作中使用。"
     },
     {
       "word_to_compare": "by",
-      "analysis": "“By” 表示截止时间，强调动作必须在某个时间点之前完成，但不强调持续到该点为止。例如 “I’ll finish by 5 p.m.” 意为“我将在5点前完成”，而 “I’ll work until 5 p.m.” 强调工作持续到5点才停止。两者在时间表达上有本质区别：一个是截止点，一个是持续终点。"
+      "analysis": "“By” 表示“在...之前”或“不迟于”，强调动作必须在某个时间点前完成，但不关心具体何时发生。例如 “I’ll finish by 5 p.m.” 意为“我将在下午5点前完成”，可能在4点就完成了。而 “until” 强调动作持续到那个时间点为止，之后才停止，具有明确的终点含义。"
     },
     {
       "word_to_compare": "as long as",
-      "analysis": "“As long as” 表示条件性持续，强调在某个条件成立期间持续发生，不必然指向一个明确的终点。例如 “You can stay as long as you want.” 意为“你想待多久就待多久”，而 “until” 明确指出一个终止点。因此 “as long as” 更侧重条件，而 “until” 更侧重时间界限。"
+      "analysis": "“As long as” 表示“只要”，强调条件的持续性，而非时间的终点。例如 “You can stay here as long as you’re quiet.” 意为“只要你安静，就可以一直待在这儿”。而 “until” 关注的是一个明确的终止点，不涉及条件的维持，而是时间的截止。"
     }
   ]
 }

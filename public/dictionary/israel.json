@@ -1,9 +1,9 @@
 {
   "word": "israel",
-  "pronunciation": "iz·rā·əl",
+  "pronunciation": "iz·reel",
   "concise_definition": "n. 以色列（国家）",
   "forms": {
-    "proper_noun": true
+    "proper_noun": "Israel"
   },
   "definitions": [
     {
@@ -15,24 +15,24 @@
     },
     {
       "pos": "noun",
-      "explanation_en": "In biblical context, the name given to the patriarch Jacob after he wrestled with an angel, symbolizing his struggle and triumph with God; the name later became the collective term for the descendants of Jacob, the Israelites.",
-      "explanation_cn": "在圣经语境中，指先祖雅各与天使角力后所得的名字，象征他与上帝的搏斗与得胜；此后成为雅各后裔——以色列人的统称。",
-      "example_en": "The twelve tribes of Israel trace their lineage back to the twelve sons of Jacob, who was renamed Israel.",
-      "example_cn": "以色列的十二支派可追溯至雅各的十二个儿子，雅各后来被改名为以色列。"
+      "explanation_en": "In biblical and historical contexts, the term refers to the ancient kingdom established by the Israelites, descended from Jacob (also called Israel), encompassing the territories of the twelve tribes of Israel.",
+      "explanation_cn": "在圣经和历史语境中，该词指由以色列人（雅各的后裔，雅各亦称以色列）建立的古代王国，涵盖以色列十二支派的领土。",
+      "example_en": "The ancient Kingdom of Israel split into two after the death of King Solomon.",
+      "example_cn": "所罗门王去世后，古代以色列王国分裂为两个部分。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "judea",
-      "analysis": "“Judea”（犹太地）是古罗马时期对以色列南部地区（以耶路撒冷为中心）的行政称谓，主要指犹太人聚居区，是“以色列”在特定历史阶段的地理子集。而 “Israel” 既可指古代统一王国，也可指现代国家，涵盖范围更广，历史维度更深。"
-    },
-    {
       "word_to_compare": "palestine",
-      "analysis": "“Palestine”（巴勒斯坦）是罗马帝国时期对包括今以色列、加沙和约旦河西岸在内的地区的命名，后成为阿拉伯人和巴勒斯坦民族主义的地理与政治标识。两者在现代语境中常因领土与主权争议而形成对立，但“Israel”强调犹太民族国家身份，而“Palestine”强调巴勒斯坦阿拉伯人的民族与领土诉求。"
+      "analysis": "“Palestine”（巴勒斯坦）通常指地理区域，涵盖现今以色列、约旦河西岸和加沙地带，历史上曾是罗马帝国对这一地区的命名。现代语境中，它常被用来指代巴勒斯坦人民争取建立的国家。与 “Israel” 相比，两者在领土主张、民族身份和政治立场上存在根本性分歧，但地理上高度重叠。"
     },
     {
-      "word_to_compare": "zion",
-      "analysis": "“Zion”（锡安）原指耶路撒冷的一座山丘，后引申为犹太民族的精神家园和复国理想的象征，常用于宗教或文学语境。它是一个象征性概念，而 “Israel” 是一个现实存在的国家实体。两者相关，但“Zion”更抽象、更具象征意义。"
+      "word_to_compare": "jordan",
+      "analysis": "“Jordan”（约旦）是位于以色列东侧的邻国，主要为阿拉伯国家，与以色列共享部分边界。虽然两国在历史上同属更广泛的黎凡特地区，但约旦的主体民族为阿拉伯人，官方宗教为伊斯兰教，与以色列的犹太民族和国家性质形成鲜明对比。"
+    },
+    {
+      "word_to_compare": "lebanon",
+      "analysis": "“Lebanon”（黎巴嫩）位于以色列北部，是一个多宗教、多教派共存的国家，历史上与以色列有复杂的政治和军事关系。与以色列相比，黎巴嫩没有以单一民族或宗教为基础的国家认同，其政治结构更依赖教派分权，而以色列则以犹太民族自决为核心建国理念。"
     }
   ]
 }

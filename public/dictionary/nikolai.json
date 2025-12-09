@@ -5,38 +5,37 @@
   "forms": {
     "variant_spellings": [
       "Nikolay",
-      "Nicholas",
-      "Nikola"
+      "Nicholas"
     ]
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A masculine given name of Slavic origin, derived from the Greek name Nikolaos, meaning 'victory of the people'. It is widely used in Russia, Ukraine, Serbia, and other Eastern European countries.",
-      "explanation_cn": "源自希腊语 Nikolaos 的斯拉夫语男性名，意为‘人民的胜利’，广泛用于俄罗斯、乌克兰、塞尔维亚及其他东欧国家。",
-      "example_en": "Nikolai Rimsky-Korsakov was a renowned Russian composer known for his orchestral works.",
-      "example_cn": "尼古拉·里姆斯基-科萨科夫是一位以管弦乐作品闻名的俄罗斯作曲家。"
+      "explanation_en": "A masculine given name of Slavic origin, derived from the Greek name Nikolaos, meaning 'victory of the people'. It is commonly used in Russia, Ukraine, Serbia, and other Eastern European countries.",
+      "explanation_cn": "源自希腊语 Nikolaos 的斯拉夫语男性名字，意为‘人民的胜利’，广泛用于俄罗斯、乌克兰、塞尔维亚及其他东欧国家。",
+      "example_en": "Nikolai Petrov is a renowned Russian pianist known for his interpretations of Tchaikovsky.",
+      "example_cn": "尼古拉·彼得罗夫是一位以演绎柴可夫斯基作品而闻名的俄罗斯钢琴家。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A historical or cultural reference to notable figures bearing the name, such as Tsar Nicholas II of Russia, often evoking associations with imperial legacy, revolution, or religious tradition.",
-      "explanation_cn": "指历史上或文化中以该名字闻名的人物，如俄国沙皇尼古拉二世，常让人联想到帝国遗产、革命或宗教传统。",
+      "explanation_en": "A historical reference to several Russian tsars, most notably Tsar Nicholas II, the last emperor of Russia, whose reign ended with the Russian Revolution in 1917.",
+      "explanation_cn": "常指历史上的几位俄国沙皇，尤其是末代沙皇尼古拉二世，其统治在1917年俄国革命后终结。",
       "example_en": "The fall of Nikolai II marked the end of over 300 years of Romanov rule in Russia.",
-      "example_cn": "尼古拉二世的退位标志着俄罗斯罗曼诺夫王朝三百多年统治的终结。"
+      "example_cn": "尼古拉二世的倒台标志着罗曼诺夫王朝在俄国长达三百多年的统治结束。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "Nicholas",
-      "analysis": "“Nicholas” 是 “Nikolai” 的英语和西欧形式，拼写和发音不同，但词源相同。在英语语境中更常见，如圣尼古拉（Santa Claus 的原型）；而 “Nikolai” 更具斯拉夫文化特色，常用于俄罗斯文学、历史和艺术语境中。"
-    },
-    {
-      "word_to_compare": "Nikolay",
-      "analysis": "“Nikolay” 是 “Nikolai” 在俄语转写中的另一种拼写形式，两者在俄语中发音完全相同，仅因拉丁字母转写标准不同而产生差异。在学术文献中，“Nikolay” 更常用于现代俄语正字法转写，而 “Nikolai” 更常见于历史或文学语境。"
+      "analysis": "“Nicholas” 是 “Nikolai” 的英语形式，源自相同的希腊语词根，但在英语国家更常用。而 “Nikolai” 是斯拉夫语地区的标准拼写，发音更接近原音，文化语境上更具东欧特色。两者为同一名字的不同语言变体。"
     },
     {
       "word_to_compare": "Nikita",
-      "analysis": "“Nikita” 是另一个常见的斯拉夫男性名，意为‘胜利者’，与 “Nikolai” 有相似的词根（来自希腊语 nikē，意为‘胜利’），但语义重心不同：Nikita 更强调个人的胜利，而 Nikolai 强调‘人民的胜利’。两者在文化使用上无重叠，属于不同命名传统。"
+      "analysis": "“Nikita” 是另一个常见的斯拉夫男性名字，意为‘胜利者’，与 “Nikolai” 同源但语义略有不同。虽然两者都含 ‘胜利’ 之意，但 “Nikita” 更常用于现代俄罗斯流行文化中，而 “Nikolai” 常与贵族、历史人物或古典艺术背景关联。"
+    },
+    {
+      "word_to_compare": "Alexander",
+      "analysis": "“Alexander” 是另一个在斯拉夫世界广泛使用的男性名字，意为‘人类的保护者’。与 “Nikolai” 相比，它更强调领导力与保护者的形象，常与军事或政治领袖相关（如亚历山大大帝），而 “Nikolai” 更多与宗教、艺术或皇室传统联系。"
     }
   ]
 }

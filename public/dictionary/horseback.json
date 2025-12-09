@@ -3,38 +3,36 @@
   "pronunciation": "hors·bak",
   "concise_definition": "n. 骑马, 骑在马背上",
   "forms": {
-    "compound_forms": [
-      "on horseback"
-    ]
+    "no_plural_form": true
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "The act or practice of riding a horse, typically referring to the position or state of being seated on a horse's back.",
-      "explanation_cn": "指骑马的行为或实践，通常指坐在马背上的姿势或状态。",
-      "example_en": "She learned to ride on horseback as a child in the countryside.",
-      "example_cn": "她小时候在乡下学会了骑马。"
+      "explanation_en": "The act or practice of riding a horse, typically referring to the position or experience of being seated on a horse's back.",
+      "explanation_cn": "指骑马的行为或实践，通常指坐在马背上的姿势或体验。",
+      "example_en": "She learned to ride at a young age and now enjoys horseback riding every weekend.",
+      "example_cn": "她从小就学会了骑马，现在每个周末都享受骑马的乐趣。"
     },
     {
-      "pos": "noun",
-      "explanation_en": "A mode of transportation or activity involving riding a horse, often used in contexts such as travel, sport, or military operations.",
-      "explanation_cn": "一种涉及骑马的交通方式或活动，常用于旅行、运动或军事行动等语境中。",
-      "example_en": "The cavalry charged into battle on horseback.",
-      "example_cn": "骑兵骑着马冲向战场。"
+      "pos": "adjective",
+      "explanation_en": "Used to describe something related to or performed while riding a horse, such as equipment, activities, or styles.",
+      "explanation_cn": "用于描述与骑马相关或在骑马时进行的事物，如装备、活动或风格。",
+      "example_en": "Horseback riding lessons are popular among children in rural areas.",
+      "example_cn": "在农村地区，骑马课程在儿童中很受欢迎。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "riding",
-      "analysis": "“Riding”（骑乘）是一个更广泛的术语，泛指骑任何动物或交通工具（如自行车、摩托车），而 “horseback” 专指骑马，语义更具体。当说 “on horseback” 时，强调的是骑马这一特定形式，而非泛指骑乘行为。"
+      "analysis": "“Riding” (骑乘) 是一个更广泛的术语，泛指骑任何动物或交通工具，如骑自行车、骑摩托车。而 “horseback” 特指骑马，是 “riding” 的一种具体形式，语义更精确、更局限。"
     },
     {
-      "word_to_compare": "mount",
-      "analysis": "“Mount” 可作动词（骑上马）或名词（马匹），作为名词时指“坐骑”，强调的是马本身，而非骑马的状态。而 “horseback” 不指马，而是指人骑在马背上的位置或方式。例如：He mounted his horse（他骑上马） vs. He rode into town on horseback（他骑着马进城）。"
+      "word_to_compare": "mounted",
+      "analysis": "“Mounted” (骑在……上的) 是动词 “mount” 的过去分词，常作形容词使用，强调“已上马”的状态，多用于军事或正式语境，如 mounted police（骑警）。而 “horseback” 更侧重于描述活动本身或日常语境中的骑马行为，语气更自然、口语化。"
     },
     {
-      "word_to_compare": "saddle",
-      "analysis": "“Saddle”（马鞍）是骑马时使用的装备，是实现骑马的工具，而 “horseback” 描述的是骑乘的状态或方式。两者属于不同范畴：一个是物体，一个是动作或情境。说 “on the saddle” 指的是坐在马鞍上，但 “on horseback” 强调的是骑在马背上的整体行为。"
+      "word_to_compare": "equestrian",
+      "analysis": "“Equestrian” (骑术的/骑马的) 是一个更正式、学术化的词汇，常用于描述与马术运动、马匹训练或骑马文化相关的专业领域，如 equestrian competition（马术比赛）。而 “horseback” 更通俗，多用于日常表达，如 horseback riding，不带有专业色彩。"
     }
   ]
 }

@@ -9,30 +9,37 @@
     {
       "pos": "conjunction",
       "explanation_en": "Used to introduce two or more alternatives or possibilities, often in indirect questions or when expressing uncertainty between options.",
-      "explanation_cn": "用于引入两个或多个替代选项，常用于间接疑问句中，表达对不同可能性的不确定性。",
+      "explanation_cn": "用于引出两个或多个替代选项，常用于间接疑问句中，表达对不同可能性的不确定性。",
       "example_en": "I'm not sure whether she will come to the party.",
       "example_cn": "我不确定她是否会来参加聚会。"
     },
     {
       "pos": "conjunction",
-      "explanation_en": "Used with 'or not' to emphasize that a choice or outcome is irrelevant or does not affect the main statement; often introduces a condition that holds true regardless of the alternative.",
-      "explanation_cn": "与 'or not' 连用，强调无论哪种选择或结果如何，主句的陈述均成立；常用于表达‘无论是否’的条件关系。",
+      "explanation_en": "Used with 'or not' to emphasize that a choice or outcome is irrelevant or does not affect the main statement.",
+      "explanation_cn": "与 'or not' 连用，强调选择或结果无关紧要，不影响主要陈述。",
       "example_en": "We'll go hiking whether it rains or not.",
-      "example_cn": "无论下不下雨，我们都去徒步。"
+      "example_cn": "不管下不下雨，我们都去徒步。"
+    },
+    {
+      "pos": "conjunction",
+      "explanation_en": "Used in expressions like 'whether...or...' to indicate that two or more alternatives are equally acceptable or valid.",
+      "explanation_cn": "用于 'whether...or...' 结构中，表示两个或多个替代方案同样可接受或有效。",
+      "example_en": "He will support you whether you win or lose.",
+      "example_cn": "无论你输赢，他都会支持你。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "if",
-      "analysis": "“If”（如果）主要用于引导条件状语从句，表达假设性前提，通常不用于直接引出两个对等选项。而 “whether” 专门用于表达‘是否’的二选一关系，且可与 ‘or not’ 连用，这是 “if” 所不能的。例如：I wonder whether he’s coming（正确） vs. I wonder if he’s coming or not（不自然）。"
+      "analysis": "“If” (如果) 主要用于条件句，表示假设或前提条件，如 “If it rains, we’ll stay home.” 而 “whether” 用于表达选择或不确定性，不构成条件关系。在间接疑问句中，两者有时可互换，但 “whether” 更正式，且必须与 “or not” 搭配时不能用 “if” 替代。"
     },
     {
       "word_to_compare": "either",
-      "analysis": "“Either”（两者之一）是代词或限定词，用于指两个选项中的一个，常与 “or” 搭配（e.g., either A or B）。而 “whether” 是连词，用于引导从句，表达选择的不确定性。两者语法功能不同：一个是词项选择，一个是语义选择的引导词。"
+      "analysis": "“Either” (两者之一) 是一个限定词或代词，用于指两个选项中的一个，如 “Either option is fine.” 它本身不是连词，不能引导从句。而 “whether” 是连词，用于引导包含选择的宾语从句或主语从句，如 “I don’t know whether to go or stay.” 两者语义相关，但语法功能不同。"
     },
     {
       "word_to_compare": "that",
-      "analysis": "“That”（那）用于引导陈述性从句，表达确定的事实，而 “whether” 引导的是不确定或有选择性的内容。例如：I know that he is right（我知道他是对的） vs. I don't know whether he is right（我不知道他是否对）。两者在语义确定性上形成鲜明对比。"
+      "analysis": "“That” (那) 常用于引导陈述性从句，表达确定的事实，如 “I believe that he is right.” 而 “whether” 引导的是不确定或有选择性的从句，表达疑问或两难。两者在从句引导功能上形成鲜明对比：一个表达确定性，一个表达不确定性。"
     }
   ]
 }

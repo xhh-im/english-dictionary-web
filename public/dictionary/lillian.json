@@ -1,42 +1,42 @@
 {
   "word": "lillian",
-  "pronunciation": "lih·lyan",
+  "pronunciation": "li·lyan",
   "concise_definition": "n. 莉莉安（女性名）",
   "forms": {
     "variant_spellings": [
       "Liliane",
-      "Lillianne",
-      "Liliana"
+      "Lilian",
+      "Lilliana"
     ]
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A feminine given name of Latin origin, derived from the word 'lilium,' meaning 'lily,' symbolizing purity, innocence, and grace.",
-      "explanation_cn": "源自拉丁语 'lilium'（百合花）的女性名字，象征纯洁、天真与优雅。",
+      "explanation_en": "A feminine given name of Latin origin, often associated with the word 'lilium' meaning 'lily', symbolizing purity, grace, and beauty.",
+      "explanation_cn": "源自拉丁语的女性名字，常与 'lilium'（百合花）相关联，象征纯洁、优雅与美丽。",
       "example_en": "Lillian was known for her kindness and quiet strength throughout the neighborhood.",
-      "example_cn": "莉莉安在邻里间以她的仁慈与沉静的坚韧而闻名。"
+      "example_cn": "莉莉安以她温和的善良与沉静的力量闻名于整个社区。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A proper noun used as a personal identifier, often associated with historical or cultural figures such as Lillian Gish, the pioneering American silent film actress.",
-      "explanation_cn": "作为个人身份标识的专有名词，常与历史或文化人物相关，如美国无声电影先驱女演员莉莉安·吉什。",
-      "example_en": "The film festival honored Lillian Gish for her groundbreaking contributions to cinema.",
-      "example_cn": "电影节向莉莉安·吉什致敬，表彰她对电影艺术的开创性贡献。"
+      "explanation_en": "A proper noun used as a personal name, historically popular in English-speaking countries during the late 19th and early 20th centuries.",
+      "explanation_cn": "作为人名使用的专有名词，在19世纪末至20世纪初的英语国家中曾广泛流行。",
+      "example_en": "Lillian Gish was one of the earliest and most influential actresses in American silent film.",
+      "example_cn": "莉莉安·吉什是美国无声电影时代最早且最具影响力的女演员之一。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "Lily",
-      "analysis": "“Lily”（莉莉）是直接以花卉命名的名字，更侧重于自然意象和象征意义，常用于表达清新与纯洁；而 “Lillian” 是 “Lily” 的衍生形式，带有更古典、优雅的语感，常用于20世纪初的英语国家，具有更强的历史和文化厚重感。"
+      "word_to_compare": "lily",
+      "analysis": "“Lily”（百合花）是植物名称，直接指代花朵，象征纯洁与高贵；而 “Lillian” 是人名，虽源于 “lilium”，但作为名字使用时承载的是人格特质与文化记忆，而非自然物本身。"
     },
     {
-      "word_to_compare": "Liliana",
-      "analysis": "“Liliana” 是 “Lillian” 的西班牙语/意大利语变体，拼写和发音更具罗曼语系特征，常在拉丁文化中使用，语调更柔和、浪漫；而 “Lillian” 更偏向英语传统，发音更简洁、稳重。"
+      "word_to_compare": "lilian",
+      "analysis": "“Lilian” 是 “Lillian” 的一种变体拼写，两者发音几乎相同，语义和文化背景完全一致，仅在拼写上略有差异，常见于不同地区或家族传统中的偏好。"
     },
     {
-      "word_to_compare": "Lillian",
-      "analysis": "作为专有名词，'Lillian' 本身不具备普通名词的语义功能，因此无法与普通名词如 'flower' 或 'virtue' 进行语义比较。其唯一语义功能是作为人名使用，区别于其他具有通用含义的词汇。"
+      "word_to_compare": "lucy",
+      "analysis": "“Lucy” 源自拉丁语 “lux”（光），象征光明与智慧；而 “Lillian” 源自 “lilium”（百合），强调纯洁与柔美。两者虽均为传统女性名字，但意象来源与文化联想截然不同。"
     }
   ]
 }

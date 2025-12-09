@@ -1,18 +1,17 @@
 {
   "word": "reece",
   "pronunciation": "rees",
-  "concise_definition": "n. (姓氏) 里斯",
+  "concise_definition": "n. （姓氏）里斯",
   "forms": {
-    "plural": "Reeses"
+    "plural": "Reeces"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A surname of Irish and Scottish origin, often derived from the Gaelic name 'Ó Raghallaigh', meaning 'descendant of Raghallach', a personal name possibly meaning 'valiant' or 'brave'.",
-      "explanation_cn": "源自爱尔兰和苏格兰的姓氏，通常由盖尔语名字 'Ó Raghallaigh' 演变而来，意为 'Raghallach 的后裔'，而 Raghallach 可能意为 '勇敢的' 或 '英勇的'。",
-      "example_en": "John Rees is a well-known historian specializing in medieval Wales.",
-      "example_cn": "约翰·里斯是一位专攻中世纪威尔士的历史学家。"
+      "explanation_en": "A surname of English origin, often used as a family name; historically derived from a place name or occupational designation.",
+      "explanation_cn": "源自英语的姓氏，常作为家族名称使用；历史上可能源于地名或职业称谓。",
+      "example_en": "John Rees is a well-known historian specializing in medieval Europe.",
+      "example_cn": "约翰·里斯是一位专攻中世纪欧洲的历史学家。"
     }
-  ],
-  "comparison": []
+  ]
 }

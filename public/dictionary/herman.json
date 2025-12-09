@@ -1,45 +1,38 @@
 {
   "word": "herman",
-  "pronunciation": "hur·muhn",
-  "concise_definition": "n. 人名：赫尔曼（德语、荷兰语、英语姓氏）",
+  "pronunciation": "hur·mahn",
+  "concise_definition": "n. 赫尔曼（人名）",
   "forms": {
-    "variant_spellings": [
-      "Hermann",
-      "Hermano"
-    ],
-    "feminine_form": [
-      "Hermine",
-      "Hermana"
-    ]
+    "plural": "hermans"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A proper noun used as a surname or given name in Germanic, Dutch, and English-speaking cultures, derived from the Old High German name 'Heriman', meaning 'army man' or 'warrior'.",
-      "explanation_cn": "在日耳曼、荷兰和英语文化中用作姓氏或名字的专有名词，源自古高地德语名字 'Heriman'，意为‘军队之人’或‘战士’。",
+      "explanation_en": "A proper noun used as a given name or surname, primarily of Germanic origin, meaning 'army man' or 'warrior'. It is commonly found in German, Dutch, and Scandinavian cultures.",
+      "explanation_cn": "一个源自日耳曼语系的专有名词，用作人名或姓氏，意为‘军队之人’或‘战士’，常见于德国、荷兰和斯堪的纳维亚文化中。",
       "example_en": "Herman Melville was the American author of Moby-Dick.",
       "example_cn": "赫尔曼·梅尔维尔是《白鲸》的美国作者。"
     },
     {
       "pos": "noun",
-      "explanation_en": "In some contexts, a colloquial or affectionate form of address for a man, particularly in Dutch or Afrikaans-speaking regions, equivalent to 'buddy' or 'mate'.",
-      "explanation_cn": "在某些语境中，特别是在荷兰语或南非荷兰语地区，作为对男性的亲切称呼，相当于‘伙计’或‘朋友’。",
-      "example_en": "Hey Herman, pass me that wrench, will you?",
-      "example_cn": "嘿，赫尔曼，把那把扳手递给我好吗？"
+      "explanation_en": "A surname adopted by families across Europe and the Americas, often indicating ancestral ties to regions where the name originated, such as Germany or the Netherlands.",
+      "explanation_cn": "一种被欧洲及美洲家庭采用的姓氏，通常表明其祖先与该名称起源地（如德国或荷兰）有血缘联系。",
+      "example_en": "The Herman family has lived in Wisconsin for over a century.",
+      "example_cn": "赫尔曼家族在威斯康星州已居住超过一个世纪。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "Hermann",
-      "analysis": "“Hermann” 是 “Herman” 的德语拼写变体，更常见于德国及德语区，保留了更传统的拼写形式。两者在语义和起源上完全相同，但 “Hermann” 在文学和历史人物中更常出现（如 Hermann Hesse），而 “Herman” 更常用于英语国家的现代用法。"
+      "word_to_compare": "hermann",
+      "analysis": "“Hermann” 是 “Herman” 的德语拼写形式，带有双 n，更接近原始德语发音。两者含义完全相同，均为人名，但 “Hermann” 在德语国家更常见，而 “Herman” 在英语国家更普遍。"
     },
     {
-      "word_to_compare": "Hermano",
-      "analysis": "“Hermano” 是西班牙语中‘兄弟’的意思，与作为人名的 “Herman” 无词源关联，仅因发音相似而可能被混淆。在西班牙语语境中，它是一个普通名词，而非专有名词。"
+      "word_to_compare": "harman",
+      "analysis": "“Harman” 是一个发音相似但拼写不同的姓氏，可能源于古英语或希伯来语，意为‘勇敢的守护者’或‘上帝的恩赐’，与 ‘Herman’ 无词源关联，属于不同语系的独立姓氏。"
     },
     {
-      "word_to_compare": "Harman",
-      "analysis": "“Harman” 是一个相似发音的姓氏，但其词源来自古英语 'hearm'（噪音）或古高地德语 'hari'（军队）与 'man' 的组合，与 “Herman” 的 ‘army man’ 含义略有不同。两者虽在英语中可能被误拼或混用，但属于不同姓氏家族。"
+      "word_to_compare": "hermano",
+      "analysis": "“Hermano” 是西班牙语中‘兄弟’的意思，与 ‘Herman’ 在拼写上相似，但语义和词源完全不同。‘Hermano’ 来自拉丁语 ‘frater’，而 ‘Herman’ 来自古高地德语 ‘heri’（军队）和 ‘man’（人）。两者仅为形近词，无实际关联。"
     }
   ]
 }

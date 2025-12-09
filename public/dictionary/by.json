@@ -1,22 +1,22 @@
 {
   "word": "by",
   "pronunciation": "baɪ",
-  "concise_definition": "prep. 被, 通过, 在...旁边, 不迟于, 由...所著",
+  "concise_definition": "prep. 被, 通过, 在...旁边, 不迟于, 由...所制",
   "forms": {
     "no_plural_or_conjugation": true
   },
   "definitions": [
     {
       "pos": "preposition",
-      "explanation_en": "Used to indicate the agent or performer of an action in passive constructions, typically following a form of the verb 'to be'.",
-      "explanation_cn": "用于被动语态中，表示动作的执行者或施动者，通常跟在 'to be' 的某种形式之后。",
+      "explanation_en": "Used to indicate the agent or performer of an action in passive constructions, showing who or what is responsible for the action.",
+      "explanation_cn": "用于被动语态中，表示动作的执行者或责任人，说明是谁或什么完成了该动作。",
       "example_en": "The book was written by Mark Twain.",
       "example_cn": "这本书是由马克·吐温写的。"
     },
     {
       "pos": "preposition",
-      "explanation_en": "Used to indicate the means, method, or instrument by which something is accomplished.",
-      "explanation_cn": "表示完成某事所使用的方式、方法或工具。",
+      "explanation_en": "Used to indicate the means, method, or instrument through which something is accomplished.",
+      "explanation_cn": "表示完成某事所使用的方式、手段或工具。",
       "example_en": "She traveled to Paris by train.",
       "example_cn": "她乘火车去巴黎。"
     },
@@ -24,8 +24,8 @@
       "pos": "preposition",
       "explanation_en": "Used to indicate proximity or location near something or someone.",
       "explanation_cn": "表示在某物或某人旁边、附近。",
-      "example_en": "There was a small café by the river.",
-      "example_cn": "河边有一家小咖啡馆。"
+      "example_en": "There's a café by the park.",
+      "example_cn": "公园旁边有一家咖啡馆。"
     },
     {
       "pos": "preposition",
@@ -36,31 +36,31 @@
     },
     {
       "pos": "preposition",
-      "explanation_en": "Used to indicate the source or origin of something, especially in the context of authorship, creation, or design.",
-      "explanation_cn": "表示某物的来源或出处，尤其用于指作者、创作者或设计者。",
+      "explanation_en": "Used to indicate the creator, origin, or source of a work, especially in art, literature, or design.",
+      "explanation_cn": "表示作品的创作者、来源或出处，常用于艺术、文学或设计领域。",
       "example_en": "This painting is by Picasso.",
       "example_cn": "这幅画是毕加索的作品。"
     },
     {
       "pos": "preposition",
-      "explanation_en": "Used to indicate a standard or criterion for judgment or evaluation.",
-      "explanation_cn": "表示判断或评价的标准或依据。",
-      "example_en": "By modern standards, this house is quite small.",
-      "example_cn": "以现代标准来看，这所房子相当小。"
+      "explanation_en": "Used to express a standard of measurement or comparison, often in phrases like 'by far', 'by accident', or 'by chance'.",
+      "explanation_cn": "用于表达衡量标准或比较方式，常见于短语如 'by far'（远比）、'by accident'（偶然地）、'by chance'（碰巧）。",
+      "example_en": "She is by far the best candidate for the job.",
+      "example_cn": "她是这份工作的最佳人选，远胜于其他人。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "with",
-      "analysis": "“With”（和...一起）强调伴随关系或工具的使用，但不用于被动语态。例如：I cut the paper with scissors.（我用剪刀剪纸。）而 “by” 在被动语态中专指动作执行者，如：The paper was cut by the scissors.（纸被剪刀剪了。）此外，“with” 也可表示情感或状态，如：She was angry with him.，而 “by” 无此用法。"
+      "analysis": "“With”（和...一起）强调伴随关系或工具的使用，但不用于被动语态。例如：I cut the paper with scissors（我用剪刀剪纸）。而 “by” 在被动语态中专指动作执行者，如：The paper was cut by scissors。此外，“with” 可表示情感或状态（如 angry with），而 “by” 无此用法。"
     },
     {
       "word_to_compare": "through",
-      "analysis": "“Through”（通过）强调穿过空间、时间或过程，常用于表示经历或贯穿性动作，如：We walked through the forest.（我们穿过森林。）而 “by” 表示方式时更侧重于手段或媒介，如：I sent the message by email.（我通过电子邮件发送了信息。）“Through” 更具过程性，“by” 更具工具性。"
+      "analysis": "“Through”（通过）强调从内部穿过或经历一个过程，常用于空间或抽象过程，如：We got through the tunnel（我们穿过了隧道）或 I learned through experience（我通过经验学会）。而 “by” 强调手段或方式，不涉及路径或过程的内部，如：I sent the message by email（我通过电子邮件发送了信息）。"
     },
     {
       "word_to_compare": "at",
-      "analysis": "“At”（在...地点/时间）用于表示具体的点状位置或时间，如：at the station, at 5 p.m.。而 “by” 表示位置时强调邻近性（by the window），表示时间时强调截止点（by tomorrow），不表示精确时刻。两者在空间和时间表达上存在精确性与模糊性的区别。"
+      "analysis": "“At”（在...地点/时间）用于表示具体的地点或时间点，如：at the station, at 5 p.m.。而 “by” 表示接近或截止时间，如：by the station（在车站附近），by 5 p.m.（不迟于下午5点）。两者在时间表达上常被混淆，但 “by” 有截止含义，而 “at” 是精确时刻。"
     }
   ]
 }

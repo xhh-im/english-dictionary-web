@@ -1,42 +1,31 @@
 {
   "word": "hayley",
-  "pronunciation": "hā·lē",
-  "concise_definition": "n. 人名：海莉（女性名）",
+  "pronunciation": "hey·lee",
+  "concise_definition": "n. 人名，海莉（女性名）",
   "forms": {
-    "variant_spellings": [
-      "Hayley",
-      "Haley",
-      "Hayley"
-    ]
+    "plural": "hayleys"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A feminine given name of English origin, often derived from the surname Hayley, which itself comes from a place name meaning 'hay clearing' or 'meadow with hay'.",
-      "explanation_cn": "一个源自英语的女性名字，通常由姓氏 Hayley 演变而来，而该姓氏源自地名，意为‘割草的空地’或‘长满干草的草地’。",
+      "explanation_en": "A given name, typically feminine, of English origin, often used as a variant spelling of 'Hayley' or 'Haley'. It is commonly associated with modern Western naming trends and may carry connotations of friendliness and approachability.",
+      "explanation_cn": "一个女性名，源自英语，常作为 'Hayley' 或 'Haley' 的变体拼写，多用于现代西方命名习惯，常带有亲切、平易近人的联想。",
       "example_en": "Hayley Williams is the lead singer of the band Paramore.",
       "example_cn": "海莉·威廉姆斯是乐队 Paramore 的主唱。"
-    },
-    {
-      "pos": "noun",
-      "explanation_en": "A modern popular given name used in English-speaking countries, often associated with qualities such as creativity, independence, and approachability.",
-      "explanation_cn": "在英语国家中广泛使用的现代女性名字，常与创造力、独立性和亲和力等特质相关联。",
-      "example_en": "Many parents choose Hayley for its soft sound and friendly connotations.",
-      "example_cn": "许多父母选择‘海莉’这个名字，因其发音柔和且带有亲切的含义。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "Haley",
-      "analysis": "“Haley” 是 “Hayley” 的常见拼写变体，发音相同，但拼写上省略了第二个 “y”。两者在语义和使用上完全相同，仅存在拼写偏好差异，常见于美国英语中。"
+      "analysis": "“Haley” 是 “Hayley” 最常见的拼写变体，两者发音完全相同，仅在拼写上存在细微差异。在英语国家中，两者均作为女性名字使用，无明显语义区别，选择通常取决于家庭偏好或地域习惯。"
     },
     {
-      "word_to_compare": "Hazel",
-      "analysis": "“Hazel” 是另一个女性名字，源自英语单词 ‘hazel’（榛子色），通常指眼睛的颜色或植物名称，与 ‘Hayley’ 在词源和含义上无关联。‘Hazel’ 更强调自然元素，而 ‘Hayley’ 与地理和农业背景相关。"
+      "word_to_compare": "Hayley (as a surname)",
+      "analysis": "虽然 “Hayley” 主要作为人名使用，但它在少数情况下也可作为姓氏，此时与作为名字的用法无本质区别，仅语境不同。作为姓氏时，它可能源于地名（如英国的 Hayley 村庄），而作为名字则多为现代创造。"
     },
     {
-      "word_to_compare": "Layla",
-      "analysis": "“Layla” 是一个阿拉伯语起源的女性名字，意为‘夜晚’，具有异域文化色彩，与 ‘Hayley’ 的英语地名起源和现代流行风格形成对比。两者在音韵上相似，但文化背景和语义完全不同。"
+      "word_to_compare": "Hailey",
+      "analysis": "“Hailey” 是另一个常见拼写变体，与 “Hayley” 和 “Haley” 同源，发音一致。三者在流行文化中常被交替使用，尤其在影视和音乐领域，拼写差异通常反映个人或品牌风格，而非语言学上的区别。"
     }
   ]
 }

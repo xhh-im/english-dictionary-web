@@ -3,29 +3,36 @@
   "pronunciation": "oh·mahn",
   "concise_definition": "n. 阿曼（西亚国家）",
   "forms": {
-    "proper_noun": true
+    "proper_noun": "Oman"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "The Sultanate of Oman, a country located on the southeastern coast of the Arabian Peninsula in Western Asia, known for its rich history, traditional culture, and oil-based economy.",
-      "explanation_cn": "位于西亚阿拉伯半岛东南沿海的阿曼苏丹国，以其悠久的历史、传统文化和以石油为基础的经济而闻名。",
-      "example_en": "Oman is renowned for its ancient forts, desert landscapes, and welcoming hospitality.",
-      "example_cn": "阿曼以其古老的堡垒、沙漠景观和热情好客而著称。"
+      "explanation_en": "A sovereign country located on the southeastern coast of the Arabian Peninsula in Western Asia, known for its rich history, oil wealth, and traditional culture.",
+      "explanation_cn": "位于西亚阿拉伯半岛东南沿海的主权国家，以其悠久的历史、石油财富和传统文化而闻名。",
+      "example_en": "Oman has maintained a policy of neutrality in regional conflicts for decades.",
+      "example_cn": "几十年来，阿曼一直奉行地区冲突中的中立政策。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "The people or culture associated with the country of Oman; can refer to Omani citizens or the national identity.",
+      "explanation_cn": "与阿曼国家相关的人或文化；可指阿曼公民或国家认同。",
+      "example_en": "Omani architecture features intricate wooden screens and coral stone buildings.",
+      "example_cn": "阿曼建筑以精美的木雕屏风和珊瑚石建筑为特色。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "uae",
-      "analysis": "“UAE”（阿拉伯联合酋长国）与阿曼同处阿拉伯半岛，但政治体制不同：阿曼是世袭君主制苏丹国，而阿联酋是由七个酋长国组成的联邦制国家。阿曼相对更保守、低调，而阿联酋（如迪拜、阿布扎比）更国际化、现代化。"
+      "word_to_compare": "emirates",
+      "analysis": "“Emirates”（酋长国）是阿拉伯联合酋长国的组成部分，由七个酋长国组成，而“Oman”是一个独立的单一主权国家，不是联邦制结构。虽然两者地理位置相近且文化相似，但政治体制和国家结构不同。"
+    },
+    {
+      "word_to_compare": "saudi arabia",
+      "analysis": "“Saudi Arabia”（沙特阿拉伯）是阿曼的邻国，同为海湾国家，但沙特是君主专制政体，宗教影响力更强，而阿曼是世袭君主制，政策更趋温和与中立。两国在外交风格和国内治理上存在显著差异。"
     },
     {
       "word_to_compare": "yemen",
-      "analysis": "“Yemen”（也门）是阿曼的西部邻国，两国共享部分边境和文化传统，但也门长期处于政治动荡和人道危机中，而阿曼则保持相对稳定与中立的外交政策。"
-    },
-    {
-      "word_to_compare": "saudi_arabia",
-      "analysis": "“Saudi Arabia”（沙特阿拉伯）是阿曼的北部邻国，两国同为伊斯兰国家，但沙特以瓦哈比派伊斯兰教义为主导，社会规范更严格；阿曼则奉行温和的伊巴德派伊斯兰教，社会氛围更包容开放。"
+      "analysis": "“Yemen”（也门）位于阿曼西南部，历史上曾与阿曼有领土和文化联系，但现代也门长期处于政治动荡和内战中，而阿曼则保持了相对稳定与和平，因此两者在国家治理和国际形象上形成鲜明对比。"
     }
   ]
 }

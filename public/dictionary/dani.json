@@ -3,44 +3,36 @@
   "pronunciation": "dah·nee",
   "concise_definition": "n. （人名）达尼（常见于西班牙语、意大利语、葡萄牙语等语言中的男性名）",
   "forms": {
-    "variant_spelling": [
-      "Danie",
-      "Daniele",
-      "Daniël"
-    ],
-    "feminine_form": [
-      "Dana",
-      "Daniela"
-    ]
+    "plural": "danis"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A masculine given name of Spanish, Italian, Portuguese, and other Romance language origins, often a diminutive or short form of names like Daniel or Daniël, meaning 'God is my judge'.",
-      "explanation_cn": "西班牙语、意大利语、葡萄牙语等罗曼语族中常见的男性名字，通常是 Daniel 或 Daniël 的昵称或缩写形式，意为‘上帝是我的审判者’。",
-      "example_en": "Dani is a talented football player who scored the winning goal last night.",
-      "example_cn": "达尼是一位才华横溢的足球运动员，昨晚打进了制胜一球。"
+      "explanation_en": "A masculine given name used in Spanish, Italian, Portuguese, and other Romance languages, often a diminutive or variant of Daniel, meaning 'God is my judge'.",
+      "explanation_cn": "在西班牙语、意大利语、葡萄牙语等罗曼语族语言中使用的男性名字，常为 Daniel 的昵称或变体，意为‘上帝是我的审判者’。",
+      "example_en": "Dani is studying engineering at the university in Madrid.",
+      "example_cn": "达尼正在马德里的大学学习工程学。"
     },
     {
       "pos": "noun",
-      "explanation_en": "Used informally as a familiar or affectionate form of address for someone named Daniel or Daniela, especially in Spanish-speaking cultures.",
-      "explanation_cn": "在西班牙语文化中，常作为对名为 Daniel 或 Daniela 的人的亲切或非正式称呼。",
-      "example_en": "Hey Dani, are you coming to the party tonight?",
-      "example_cn": "嘿，达尼，你今晚来参加派对吗？"
+      "explanation_en": "A familiar or informal form of the name Daniel, commonly used in casual settings or among friends and family.",
+      "explanation_cn": "作为 Daniel 的非正式或亲昵称呼，常用于朋友、家人之间的日常交流中。",
+      "example_en": "Everyone calls him Dani, even though his full name is Daniel Rodríguez.",
+      "example_cn": "大家都叫他达尼，尽管他的全名是丹尼尔·罗德里格斯。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "Daniel",
-      "analysis": "“Daniel” 是完整的正式名字，源自希伯来语，意为‘上帝是我的审判者’，广泛用于英语、德语、法语等语言。而 “Dani” 是其在西班牙语、意大利语等语言中的常见缩略形式，更口语化、亲切，常用于日常交流。"
-    },
-    {
-      "word_to_compare": "Daniela",
-      "analysis": "“Daniela” 是 “Dani” 的女性对应形式，同样源自 Daniel，用于女性名字。虽然拼写和性别不同，但两者共享相同的词源和语义基础。在某些文化中，Dani 也可作为 Daniela 的昵称使用。"
+      "analysis": "“Daniel” 是正式的完整形式，常用于官方文件、正式场合或全名中，具有宗教和历史渊源（如《圣经》中的但以理）。“Dani” 是其口语化、简化的昵称形式，更显亲切随意，多用于非正式语境。"
     },
     {
       "word_to_compare": "Dan",
-      "analysis": "“Dan” 是英语中 Daniel 的常见缩写，发音为 /dæn/，更偏向英语语境。而 “Dani” 在发音和拼写上更接近拉丁语系语言的风格，常带有南欧或拉美文化色彩，语感更柔和、亲切。"
+      "analysis": "“Dan” 是英语中 Daniel 最常见的缩写形式，发音更短促，广泛用于英语国家。而 “Dani” 更常见于拉丁语系国家，且在某些文化中也可作为女性名字使用（如意大利语中 Dani 有时是 Daniela 的昵称），因此性别中立性更强。"
+    },
+    {
+      "word_to_compare": "Daniele",
+      "analysis": "“Daniele” 是意大利语和西班牙语中 Daniel 的完整形式，拼写和发音更接近原词，常用于正式场合。而 “Dani” 是其口语化缩略形式，更简洁、更口语化，常用于日常称呼。"
     }
   ]
 }

@@ -2,38 +2,34 @@
   "word": "cardiovascular",
   "pronunciation": "kahr·dee·oh·vas·kyoo·lər",
   "concise_definition": "adj. 心血管的, 心脏和血管的",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
   "definitions": [
     {
       "pos": "adjective",
-      "explanation_en": "Relating to the heart and blood vessels, especially in the context of their structure, function, or diseases; used to describe systems, conditions, or activities that affect the heart and circulatory system.",
-      "explanation_cn": "指与心脏和血管相关的，尤其在涉及其结构、功能或疾病时使用；用于描述影响心脏和循环系统的系统、状况或活动。",
-      "example_en": "Regular aerobic exercise is essential for maintaining good cardiovascular health.",
-      "example_cn": "规律的有氧运动对于维持良好的心血管健康至关重要。"
+      "explanation_en": "Relating to the heart and blood vessels, especially in the context of their structure, function, or diseases affecting them.",
+      "explanation_cn": "指与心脏和血管相关的，尤其在涉及它们的结构、功能或所患疾病时。",
+      "example_en": "Regular exercise is essential for maintaining good cardiovascular health.",
+      "example_cn": "规律锻炼对于维持良好的心血管健康至关重要。"
     },
     {
       "pos": "adjective",
-      "explanation_en": "Pertaining to the circulation of blood throughout the body, including the arteries, veins, and capillaries, and their role in delivering oxygen and nutrients to tissues.",
-      "explanation_cn": "指血液在全身的循环，包括动脉、静脉和毛细血管，及其在向组织输送氧气和营养物质中的作用。",
-      "example_en": "The study examined the cardiovascular effects of long-term high-salt diets.",
-      "example_cn": "这项研究考察了长期高盐饮食对心血管系统的影响。"
+      "explanation_en": "Used to describe medical conditions, procedures, or systems that involve the circulation of blood through the heart and vascular network.",
+      "explanation_cn": "用于描述涉及心脏和血管网络中血液循环的医学状况、程序或系统。",
+      "example_en": "The hospital has a state-of-the-art cardiovascular surgery unit.",
+      "example_cn": "这家医院拥有先进的心血管外科病房。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "circulatory",
-      "analysis": "“Circulatory”（循环的）更广泛地指整个血液循环系统，包括血液、淋巴系统及其流动机制，而 “cardiovascular” 专指心脏（cardio-）和血管（vascular）这两个核心组成部分。因此，所有心血管系统都属于循环系统，但循环系统还包括非心脏/血管的成分，如淋巴管。"
+      "analysis": "“Circulatory” (循环的) 指整个血液循环系统，包括心脏、血管和血液流动，范围更广，可涵盖淋巴系统等非血管部分。而 “cardiovascular” 专指心脏（cardio-）和血管（vascular），更精确地聚焦于心与血管的结合体，是 circulatory 系统的核心组成部分。"
     },
     {
-      "word_to_compare": "heart",
-      "analysis": "“Heart”（心脏）仅指那个具体的肌肉器官，而 “cardiovascular” 是一个更全面的术语，涵盖心脏及其连接的血管网络。例如，高血压是心血管疾病，而不仅仅是心脏疾病，因为它也涉及动脉硬化和血管阻力。"
+      "word_to_compare": "arterial",
+      "analysis": "“Arterial” (动脉的) 仅指动脉血管，是心血管系统的一部分，强调血液从心脏输出的高压管道。而 “cardiovascular” 包含动脉、静脉和毛细血管，以及心脏本身，范围更全面。动脉是心血管系统的组成部分，但不能代表整个系统。"
     },
     {
-      "word_to_compare": "vascular",
-      "analysis": "“Vascular”（血管的）仅指血管系统（动脉、静脉、毛细血管），不包括心脏。而 “cardiovascular” 是两者的结合，强调心脏与血管作为一个功能整体的相互作用。例如，糖尿病可能引起血管病变（vascular complication），但若同时影响心脏泵血功能，则属于心血管病变（cardiovascular complication）。"
+      "word_to_compare": "cardiac",
+      "analysis": "“Cardiac” (心脏的) 仅指心脏本身，不包括血管系统。例如，心肌梗死是 cardiac event，而高血压是 cardiovascular condition。因此，“cardiac” 是 “cardiovascular” 的子集，后者涵盖前者并扩展至血管系统。"
     }
   ]
 }

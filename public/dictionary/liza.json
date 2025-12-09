@@ -1,18 +1,17 @@
 {
   "word": "liza",
   "pronunciation": "lee·zuh",
-  "concise_definition": "n. (人名) 利萨（女性名，Liza 的变体）",
+  "concise_definition": "n. 丽莎（女性名）",
   "forms": {
     "plural": "Lizas"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A feminine given name, often a shortened form of Elizabeth or Lizabeth, used in various cultures as a personal identifier.",
-      "explanation_cn": "一个女性名，通常是 Elizabeth 或 Lizabeth 的缩写形式，用于多种文化中作为个人称呼。",
-      "example_en": "Liza joined the team last month and has already made a strong impression.",
-      "example_cn": "莉莎上个月加入团队，已经留下了深刻的印象。"
+      "explanation_en": "A feminine given name of Hebrew origin, commonly used in English-speaking countries, often a diminutive form of Elizabeth.",
+      "explanation_cn": "一个源自希伯来语的女性名字，常见于英语国家，通常是“Elizabeth”（伊丽莎白）的昵称或缩写形式。",
+      "example_en": "Liza is the lead singer in the band and writes most of their lyrics.",
+      "example_cn": "丽莎是这支乐队的主唱，创作了大部分歌词。"
     }
-  ],
-  "comparison": []
+  ]
 }

@@ -1,42 +1,41 @@
 {
   "word": "nadia",
   "pronunciation": "nay·dee·uh",
-  "concise_definition": "n. 纳迪亚（人名）",
+  "concise_definition": "n. 纳迪亚（女性名）",
   "forms": {
     "variant_spellings": [
-      "Nadia",
       "Nadya",
-      "Nadja"
+      "Nadia"
     ]
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A feminine given name of Slavic, Arabic, and Persian origin, commonly used in Eastern Europe, the Middle East, and among diaspora communities. It is often derived from the Slavic word 'nada' meaning 'hope', or from the Arabic 'nadiyya' meaning 'unique' or 'rare'.",
-      "explanation_cn": "一个源自斯拉夫语、阿拉伯语和波斯语的女性名字，广泛用于东欧、中东及侨民社区。它通常源自斯拉夫语 'nada'（希望）或阿拉伯语 'nadiyya'（独特、稀有）。",
-      "example_en": "Nadia Murad is a Nobel Peace Prize laureate and human rights activist who advocates for survivors of sexual violence.",
-      "example_cn": "纳迪亚·穆拉德是一位诺贝尔和平奖得主和人权活动家，致力于为性暴力幸存者发声。"
+      "explanation_en": "A feminine given name of Slavic origin, commonly used in Eastern Europe and among Russian, Ukrainian, and Bulgarian communities. It is derived from the Greek name 'Nadia', which itself is a diminutive of 'Nadежda' meaning 'hope'.",
+      "explanation_cn": "一个源自斯拉夫语的女性名，常见于东欧，尤其是俄罗斯、乌克兰和保加利亚等地区。它源自希腊语形式的 'Nadia'，而 'Nadia' 本身是 'Nadежda'（意为‘希望’）的昵称形式。",
+      "example_en": "Nadia was the first woman to win the Olympic gold medal in gymnastics for her country.",
+      "example_cn": "纳迪亚是该国第一位赢得体操奥运金牌的女性。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A proper noun used to refer to specific notable individuals, such as Nadia Comăneci, the Romanian gymnast who scored the first perfect 10 in Olympic history.",
-      "explanation_cn": "用作专有名词，指代特定的知名人物，例如罗马尼亚体操运动员纳迪亚·科马内奇，她是奥运历史上首位获得满分10分的运动员。",
-      "example_en": "Nadia Comăneci's flawless performance on the balance beam revolutionized women's gymnastics.",
-      "example_cn": "纳迪亚·科马内奇在平衡木上的完美表现彻底改变了女子体操。"
+      "explanation_en": "A proper noun used as a personal identifier in literature, media, and real life, often associated with grace, resilience, or intellectual strength due to notable bearers such as Nadia Comăneci.",
+      "explanation_cn": "作为文学、媒体和现实生活中的人名使用，常因著名人物如纳迪亚·科马内奇而与优雅、坚韧或智慧力量相关联。",
+      "example_en": "Like Nadia Comăneci, she performed with flawless precision and quiet determination.",
+      "example_cn": "她像纳迪亚·科马内奇一样，以无瑕的精准和沉静的毅力完成表演。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "Nadia",
-      "analysis": "作为专有名词，'Nadia' 本身不具备普通名词的语义功能，不能像 'hope' 或 'example' 那样作为通用概念使用。它仅作为人名存在，其意义完全依赖于文化语境和具体指代的人物。因此，它无法与其他普通名词进行语义上的直接比较。"
+      "analysis": "‘Nadia’ 本身是一个专有名词，作为人名使用，不具备普通名词的语义功能。它与其他常见名词（如 ‘hope’ 或 ‘joy’）不同，不能直接表示抽象概念，而是承载文化与历史意义的个体标识。因此，它无法与普通词汇进行语义比较，仅能与同源名称（如 Nadya）或文化象征人物进行关联分析。"
     },
     {
-      "word_to_compare": "Hope",
-      "analysis": "虽然 'Nadia' 在词源上可能源自表示 '希望' 的词（如斯拉夫语 'nada'），但作为人名，它已脱离原词的抽象含义，成为个体身份的标签。而 'hope' 是一个抽象名词，表示一种情感或心理状态，具有普遍性和可量化性。"
+      "word_to_compare": "hope",
+      "analysis": "虽然 ‘Nadia’ 的词源来自斯拉夫语 ‘Nadежda’（意为‘希望’），但作为人名使用时，它不再直接表达‘希望’这一抽象概念，而是作为承载该语义的文化符号。而 ‘hope’ 是一个独立的普通名词，可直接用于描述情感或心理状态，如 ‘She has hope for the future.’ 二者在语义功能上本质不同。"
     },
     {
-      "word_to_compare": "Name",
-      "analysis": "“Name”（名字）是表示称谓的通用类别词，而 'Nadia' 是该类别下的一个具体实例。'Name' 可以指任何人的称呼，而 'Nadia' 是一个特定的、具有文化历史背景的女性名字，承载着特定的语言和文化内涵。"
+      "word_to_compare": "Lena",
+      "analysis": "‘Lena’ 是另一个常见的女性名字，源自希腊语或德语，常与‘光明’或‘光辉’相关，而 ‘Nadia’ 则与‘希望’相关。两者均为专有名词，功能相似，但文化内涵和语源不同。‘Lena’ 更多出现在西欧和北欧，而 ‘Nadia’ 在东欧更普遍，反映了地域语言传统的差异。"
     }
   ]
 }

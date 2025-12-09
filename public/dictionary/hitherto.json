@@ -3,36 +3,36 @@
   "pronunciation": "hith·er·to",
   "concise_definition": "adv. 到目前为止, 至今",
   "forms": {
-    "no_variants": true
+    "none": "无变化形式"
   },
   "definitions": [
     {
       "pos": "adverb",
-      "explanation_en": "Up until now or until the time under consideration; used to refer to a period extending from some point in the past up to the present or to a specified earlier time.",
-      "explanation_cn": "指从过去某一时间点延续至今，或延续到所讨论的某个时间点之前的整个时期，用于强调迄今为止的状态或情况。",
-      "example_en": "Hitherto, the policy has been successful in reducing poverty.",
-      "example_cn": "到目前为止，这项政策在减少贫困方面一直很成功。"
+      "explanation_en": "Up until now or until a particular point in time; referring to all previous time up to the present or to a specified moment.",
+      "explanation_cn": "指到目前为止或到某个特定时间点为止，涵盖从过去直到现在或某一指定时刻的所有时间。",
+      "example_en": "Hitherto, the project has been funded entirely by private donations.",
+      "example_cn": "到目前为止，该项目完全由私人捐款资助。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "Often used in formal or legal contexts to contrast a previous state with a new development or change.",
-      "explanation_cn": "常用于正式或法律语境中，用于对比先前的状态与当前或即将发生的变化。",
-      "example_en": "Hitherto unpublished documents have now been released to the public.",
-      "example_cn": "此前从未公开的文件现已向公众发布。"
+      "explanation_en": "Used to contrast the past with a new or changing situation, often implying that something is now different.",
+      "explanation_cn": "用于对比过去与当前新出现或变化的情况，常暗示现在的情况已有所不同。",
+      "example_en": "Hitherto unseen technologies are now transforming daily life.",
+      "example_cn": "以往从未见过的技术如今正在改变日常生活。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "so far",
-      "analysis": "“So far” (到目前为止) 是更口语化、日常使用的表达，语气较轻松，常用于非正式对话中。而 “hitherto” 更正式、书面化，多用于学术、法律或历史叙述中，带有更强的庄重感和时间累积的意味。"
-    },
-    {
-      "word_to_compare": "until now",
-      "analysis": "“Until now” 与 “hitherto” 在语义上高度重叠，但 “until now” 更强调‘直到此刻为止’，有时隐含‘现在将发生变化’的转折意味。而 “hitherto” 更中性，仅陈述过去到现在的状态，不一定暗示即将改变。"
+      "analysis": "“So far”（到目前为止）是更口语化、更常用的表达，适用于日常对话和非正式写作，语气轻松；而 “hitherto” 更正式、书面化，常见于学术、法律或历史文本中，带有更强的庄重感和时间累积的意味。"
     },
     {
       "word_to_compare": "thus far",
-      "analysis": "“Thus far” 与 “hitherto” 同属正式用语，常可互换，但 “thus far” 更常见于现代英语，尤其在科技和商业语境中；“hitherto” 则略显古雅，多见于经典文献或高度正式的文体，使用频率更低，更具文学色彩。"
+      "analysis": "“Thus far” 与 “hitherto” 意义几乎完全相同，都属正式用语，常用于书面语。但 “thus far” 更常见于现代英语，而 “hitherto” 显得更古老、更文学化，使用频率较低，有时带有古典或修辞色彩。"
+    },
+    {
+      "word_to_compare": "up to now",
+      "analysis": "“Up to now” 与 “hitherto” 在语义上相近，但属于中性口语表达，结构更直白，适合普通交流；“hitherto” 则具有更强的语体正式性，常用于强调历史延续性或转折性，语气更凝练、更具权威感。"
     }
   ]
 }

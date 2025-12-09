@@ -12,37 +12,37 @@
     {
       "pos": "interjection",
       "explanation_en": "An exclamation used to express surprise, awe, or admiration, often in response to something impressive, unexpected, or overwhelming.",
-      "explanation_cn": "用于表达惊讶、敬畏或钦佩的感叹词，常用于面对令人印象深刻、出乎意料或令人震撼的事物时。",
-      "example_en": "Whoa! Did you see that skateboard trick?",
-      "example_cn": "哇！你看到那个滑板特技了吗？"
+      "explanation_cn": "用于表达惊讶、敬畏或钦佩的感叹词，通常在面对令人印象深刻、出乎意料或令人震撼的事物时使用。",
+      "example_en": "Whoa! Did you see that stunt? That was incredible!",
+      "example_cn": "哇！你看到那个特技了吗？太不可思议了！"
     },
     {
       "pos": "interjection",
-      "explanation_en": "A command or plea to stop, slow down, or pause, especially when someone is moving too fast or acting recklessly.",
-      "explanation_cn": "用于命令或请求停止、放慢或暂停，尤其在某人行动过快或行为鲁莽时。",
-      "example_en": "Whoa, whoa—let’s not make a decision until we’ve thought this through.",
-      "example_cn": "慢着，慢着——在我们仔细考虑之前，别做决定。"
+      "explanation_en": "A command or plea to stop, slow down, or pause, often used to halt momentum or prevent hasty action.",
+      "explanation_cn": "用于命令或请求停止、放慢或暂停的感叹词，常用于阻止某种势头或防止仓促行动。",
+      "example_en": "Whoa, whoa—let’s not make a decision until we’ve heard all the facts.",
+      "example_cn": "慢着，慢着——在听到所有事实之前，我们别做决定。"
     },
     {
       "pos": "interjection",
-      "explanation_en": "A casual expression of disbelief or skepticism, often used to signal that something seems too good (or bad) to be true.",
-      "explanation_cn": "一种非正式的表达，用于表示怀疑或难以置信，常暗示某事好（或坏）得令人难以相信。",
-      "example_en": "Whoa, you got promoted? That’s crazy!",
-      "example_cn": "哇，你升职了？这太不可思议了！"
+      "explanation_en": "A casual expression of disbelief or skepticism, often used humorously to react to an outrageous claim or situation.",
+      "explanation_cn": "一种随意的表达，用于表示难以置信或怀疑，常以幽默的方式回应荒谬的言论或情境。",
+      "example_en": "He says he won the lottery and quit his job yesterday? Whoa...",
+      "example_cn": "他说他中了彩票，昨天就辞职了？哇……"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "wow",
-      "analysis": "“Wow” 与 “whoa” 都用于表达惊叹，但 “wow” 更侧重于纯粹的赞美或兴奋，语气更积极；而 “whoa” 可以包含惊讶、警告或怀疑的复杂情绪，语气更丰富，有时甚至带有制止的意味。"
+      "analysis": "“Wow” 与 “whoa” 都用于表达惊叹，但 “wow” 更侧重于纯粹的赞美或兴奋，语气更积极、更外放；而 “whoa” 可以包含惊讶、恐惧、犹豫甚至警告的复杂情绪，语气更克制或带有停顿感。"
     },
     {
       "word_to_compare": "hey",
-      "analysis": "“Hey” 主要用于引起注意或打招呼，语气较随意，通常不表达情绪强度；而 “whoa” 明确传达强烈的情绪反应，如震惊、敬畏或制止，语义功能更具体、更情绪化。"
+      "analysis": "“Hey” 主要用于引起注意或打招呼，有时也可用于制止，但缺乏 “whoa” 所蕴含的强烈情绪色彩（如敬畏或震惊）。它更中性、更日常，而 “whoa” 具有更强的情感冲击力。"
     },
     {
-      "word_to_compare": "stop",
-      "analysis": "“Stop” 是一个明确的指令性动词，用于正式或强制性地要求终止行为；而 “whoa” 作为感叹词，语气更口语化、非正式，常用于轻松或紧急情境中，带有情感色彩而非纯粹命令。"
+      "word_to_compare": "hold on",
+      "analysis": "“Hold on” 是一个完整的短语，用于正式或礼貌地请求暂停，语气较理性；而 “whoa” 是一个口语化的感叹词，更情绪化、更直接，常用于非正式场合，传达即时的反应而非理性思考。"
     }
   ]
 }

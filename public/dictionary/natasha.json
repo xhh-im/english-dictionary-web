@@ -3,39 +3,36 @@
   "pronunciation": "nuh·tah·shuh",
   "concise_definition": "n. 娜塔莎（女性名）",
   "forms": {
-    "variant_spellings": [
-      "Natacha",
-      "Natascha"
-    ]
+    "plural": "natashas"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A feminine given name of Russian origin, derived from the name Natalia, meaning 'born on Christmas Day' or 'birthday of the Lord'. It is widely used in Slavic countries and has gained international recognition through literature, film, and popular culture.",
-      "explanation_cn": "源自俄语的女性名，由 Natalia 演变而来，意为‘圣诞节出生’或‘主的诞辰’。广泛用于斯拉夫国家，并因文学、电影和流行文化而获得国际知名度。",
-      "example_en": "Natasha Rostova is a central character in Leo Tolstoy's novel War and Peace.",
-      "example_cn": "娜塔莎·罗斯托娃是列夫·托尔斯泰小说《战争与和平》中的核心人物。"
+      "explanation_en": "A feminine given name of Russian origin, commonly used in Eastern Europe and among Russian-speaking communities; often associated with elegance, grace, and cultural richness.",
+      "explanation_cn": "源自俄语的女性名，常见于东欧及俄语社群，常与优雅、温婉及文化内涵相联系。",
+      "example_en": "Natasha Rostova is one of the most beloved characters in Leo Tolstoy’s War and Peace.",
+      "example_cn": "娜塔莎·罗斯托娃是列夫·托尔斯泰《战争与和平》中最受喜爱的角色之一。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A cultural archetype or stereotype associated with elegance, mystery, and romantic allure, often portrayed in Western media as a sophisticated Russian woman.",
-      "explanation_cn": "在西方媒体中常被塑造成一种文化刻板印象，代表优雅、神秘与浪漫魅力，通常表现为一位富有魅力的俄罗斯女性。",
-      "example_en": "In spy films, the character named Natasha often embodies the archetype of the seductive and intelligent femme fatale.",
-      "example_cn": "在间谍电影中，名为娜塔莎的角色常体现‘致命女郎’这一迷人而聪慧的刻板形象。"
+      "explanation_en": "A proper noun used as a personal identifier, sometimes adopted in Western cultures as a distinctive or exotic-sounding name.",
+      "explanation_cn": "作为个人身份标识的专有名词，有时在西方文化中被选用为具有异域风情或独特音韵的名字。",
+      "example_en": "She introduced herself as Natasha, with a smile that lit up the entire room.",
+      "example_cn": "她自我介绍叫娜塔莎，笑容点亮了整个房间。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "Natalia",
-      "analysis": "“Natalia” 是 “Natasha” 的正式原形，源自拉丁语 natalis（生日），含义相同，但更正式、更常见于官方文件和全名中。而 “Natasha” 是其在俄语中的昵称形式，更具亲昵感和文化特色，常用于日常交流和艺术创作中。"
+      "word_to_compare": "nathalie",
+      "analysis": "“Nathalie”（纳塔莉）是法语起源的女性名字，与 “Natasha” 同属斯拉夫/欧洲女性名体系，但发音更柔和，文化联想偏向西欧（如法国、比利时），而 “Natasha” 更强烈地关联俄罗斯传统与文学形象。"
     },
     {
-      "word_to_compare": "Nina",
-      "analysis": "“Nina” 是另一个常见的斯拉夫女性名字，常作为 Anna 或 Antonina 的昵称，发音简短、轻柔，带有天真或温柔的联想。而 “Natasha” 更具异域风情和戏剧性，常与复杂、深沉或神秘的性格联系在一起。"
+      "word_to_compare": "nina",
+      "analysis": "“Nina”（妮娜）是一个简短、国际化的女性名，广泛用于西班牙语、俄语和英语国家，常给人亲切、活泼的印象。相比之下，”Natasha“ 更具正式感和文学厚重感，常出现在古典或史诗语境中。"
     },
     {
-      "word_to_compare": "Irina",
-      "analysis": "“Irina” 同样是俄语女性名，源自希腊语 Eirene（和平），常与宁静、古典美相关联。相比之下，”Natasha“ 更常与激情、智慧和危险的吸引力联系，尤其在西方流行文化中被赋予更强的叙事张力。"
+      "word_to_compare": "elena",
+      "analysis": "“Elena”（叶莲娜）是希腊起源的女性名，在东欧同样流行，与 “Natasha” 一样具有古典气质，但 “Elena” 更强调光明与神圣的意象（源自希腊语 ‘helene’，意为‘光’），而 “Natasha” 源自 ‘Natalia’，意为‘诞生于圣诞节’，带有宗教与节庆色彩。"
     }
   ]
 }

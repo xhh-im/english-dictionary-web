@@ -1,38 +1,45 @@
 {
   "word": "panama",
   "pronunciation": "puh·nam·uh",
-  "concise_definition": "n. 巴拿马（国家名）, 巴拿马草帽",
+  "concise_definition": "n. 巴拿马（中美洲国家）；巴拿马草帽；巴拿马运河",
   "forms": {
     "proper_noun": true
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A country in Central America, bordered by Costa Rica to the west and Colombia to the southeast, known for the Panama Canal, which connects the Atlantic and Pacific Oceans.",
-      "explanation_cn": "位于中美洲的一个国家，西接哥斯达黎加，东南邻哥伦比亚，以连接大西洋与太平洋的巴拿马运河而闻名。",
-      "example_en": "The Panama Canal is one of the most important shipping routes in the world.",
-      "example_cn": "巴拿马运河是世界上最重要的航运通道之一。"
+      "explanation_en": "A country in Central America, bordered by Costa Rica to the west and Colombia to the southeast, known for the Panama Canal, its biodiversity, and its strategic location connecting the Atlantic and Pacific Oceans.",
+      "explanation_cn": "位于中美洲的一个国家，西接哥斯达黎加，东南邻哥伦比亚，以巴拿马运河、丰富的生物多样性和连接大西洋与太平洋的战略位置而闻名。",
+      "example_en": "Many international ships pass through the Panama Canal every day.",
+      "example_cn": "每天都有许多国际船只通过巴拿马运河。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A lightweight, wide-brimmed hat traditionally made from the woven fibers of the toquilla palm, originally associated with Panama but actually originating in Ecuador.",
-      "explanation_cn": "一种轻便、宽边的草帽，传统上由托基拉棕榈纤维编织而成，虽以巴拿马命名，但实际起源于厄瓜多尔。",
-      "example_en": "He wore a classic panama hat to protect himself from the sun during his tropical vacation.",
-      "example_cn": "他在热带度假时戴着一顶经典的巴拿马草帽来遮阳。"
+      "explanation_en": "A lightweight hat made from woven straw, traditionally associated with Panama but originally from Ecuador; commonly worn in warm climates for sun protection.",
+      "explanation_cn": "一种由编织草制成的轻便帽子，虽传统上与巴拿马相关，但实际起源于厄瓜多尔；常在温暖气候中佩戴以遮阳。",
+      "example_en": "He wore a classic panama hat to the tropical resort.",
+      "example_cn": "他戴着一顶经典的巴拿马草帽前往热带度假胜地。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "An artificial waterway in Panama that connects the Atlantic Ocean to the Pacific Ocean, significantly reducing travel time for ships by avoiding the longer route around South America.",
+      "explanation_cn": "位于巴拿马的一条人工水道，连接大西洋与太平洋，使船只避免绕行南美洲，大幅缩短航程。",
+      "example_en": "The expansion of the Panama Canal in 2016 allowed larger ships to pass through.",
+      "example_cn": "2016年巴拿马运河扩建后，更大的船只得以通行。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "canal",
-      "analysis": "“Canal”（运河）是一个通用名词，指人工开凿的水道，而 “Panama” 在此语境下特指巴拿马运河，是一个专有名词。两者不是同义词，但 “Panama” 常作为 “Panama Canal” 的简称使用，具有地理标识性。"
+      "analysis": "“Canal”（运河）是一个通用名词，泛指人工开凿的水道，如苏伊士运河、京杭大运河。而 “Panama” 作为专有名词，特指位于巴拿马的这条著名运河，具有地理和历史的唯一性。"
     },
     {
       "word_to_compare": "straw hat",
-      "analysis": "“Straw hat”（草帽）是泛指任何用草或类似材料编织的帽子，而 “panama” 是一种特定类型的草帽，以其精细编织、轻盈和优雅著称。所有巴拿马草帽都是草帽，但并非所有草帽都是巴拿马草帽。"
+      "analysis": "“Straw hat”（草帽）是泛指任何用草编成的帽子，而 “panama” 特指一种高质量、细密编织、帽型优雅的草帽，虽非产自巴拿马，但因历史贸易而得名，具有品牌化和文化象征意义。"
     },
     {
-      "word_to_compare": "costa rica",
-      "analysis": "“Costa Rica”（哥斯达黎加）是与巴拿马接壤的另一个中美洲国家，两者是地理邻国，但文化、语言和经济结构不同。它们是并列的国家名称，而非同义词，常在区域语境中被同时提及。"
+      "word_to_compare": "country",
+      "analysis": "“Country”（国家）是通用术语，指任何主权国家。而 “Panama” 是一个具体的国家名称，承载着独特的政治、经济和文化内涵，尤其因其运河而具有全球性战略地位，不能与其他国家简单互换。"
     }
   ]
 }

@@ -1,42 +1,38 @@
 {
   "word": "clara",
-  "pronunciation": "klair·uh",
+  "pronunciation": "klah·rah",
   "concise_definition": "n. 克拉拉（人名）",
   "forms": {
-    "variant_spelling": [
-      "Clara",
-      "Clare",
-      "Klara"
-    ]
+    "plural": "claras"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A feminine given name of Latin origin, derived from 'Clarus' meaning 'clear, bright, famous'. It has been used across European cultures and is associated with historical and cultural figures such as Saint Clare of Assisi.",
-      "explanation_cn": "源自拉丁语的女性名字，由 'Clarus'（意为‘清晰、明亮、著名’）演变而来，在欧洲文化中广泛使用，常与历史人物如阿西西的圣克拉拉相关联。",
-      "example_en": "Clara Barton founded the American Red Cross in 1881.",
-      "example_cn": "克拉拉·巴顿于1881年创立了美国红十字会。"
+      "explanation_en": "A feminine given name of Latin origin, derived from the name Clara, meaning 'clear' or 'bright'. Often used in Spanish, Italian, and Portuguese-speaking cultures.",
+      "explanation_cn": "源自拉丁语的女性名字，由 'Clara' 演变而来，意为‘清晰的’或‘明亮的’，常见于西班牙语、意大利语和葡萄牙语文化中。",
+      "example_en": "Clara was a brilliant pianist who performed at the Vienna Concert Hall.",
+      "example_cn": "克拉拉是一位才华横溢的钢琴家，曾在维也纳音乐厅演出。"
     },
     {
       "pos": "noun",
-      "explanation_en": "In music, 'Clara' may refer to Clara Schumann, a renowned 19th-century German pianist and composer, often celebrated for her virtuosity and contributions to Romantic-era repertoire.",
-      "explanation_cn": "在音乐领域，'Clara' 可指19世纪德国著名钢琴家兼作曲家克拉拉·舒曼，她以精湛的技艺和对浪漫主义时期音乐曲目的贡献而广受赞誉。",
-      "example_en": "Clara Schumann premiered many of Robert Schumann's piano works.",
-      "example_cn": "克拉拉·舒曼首演了罗伯特·舒曼的许多钢琴作品。"
+      "explanation_en": "A surname or family name in some European cultures, particularly in Germany and Eastern Europe, sometimes associated with historical or artistic families.",
+      "explanation_cn": "在某些欧洲文化中作为姓氏使用，尤其在德国和东欧，有时与历史或艺术家族相关联。",
+      "example_en": "The Clara family has been known for their contributions to classical music since the 18th century.",
+      "example_cn": "克拉拉家族自18世纪以来一直以对古典音乐的贡献而闻名。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "Clare",
-      "analysis": "“Clare” 是 “Clara” 的变体拼写，两者同源，均源自拉丁语 'clarus'，意为‘明亮的’。‘Clare’ 更常用于英语国家，且有时作为姓氏使用；而 ‘Clara’ 在欧洲大陆（如意大利、西班牙、德语区）更常见，且更常作为女性名字使用。"
+      "word_to_compare": "Clara",
+      "analysis": "‘Clara’ 是 ‘clara’ 的标准拼写形式，作为专有名词首字母大写，用于指代具体人物。‘clara’（小写）在非专有名词语境中可能被误用，但在语言学或词典编纂中，两者通常视为同一词的不同书写形式，无语义差异。"
     },
     {
       "word_to_compare": "Clarissa",
-      "analysis": "“Clarissa” 是 ‘Clara’ 的延长形式，带有更古典和文学化的色彩，常见于18世纪英国文学（如塞缪尔·理查逊的小说《克拉丽莎》）。它比 ‘Clara’ 更正式、更复杂，而 ‘Clara’ 更简洁、现代且国际化。"
+      "analysis": "‘Clarissa’ 是 ‘Clara’ 的延长形式，源自拉丁语 ‘clarus’，含义相近，但更显古典和正式，常用于文学作品中（如塞缪尔·理查逊的小说《克拉丽莎》）。‘Clara’ 更简洁现代，使用更广泛。"
     },
     {
-      "word_to_compare": "Lara",
-      "analysis": "“Lara” 是一个独立的名字，常被视为 ‘Larissa’ 的昵称，或受俄语文化影响（如《日瓦戈医生》中的角色 Lara）。虽然发音与 ‘Clara’ 相似，但语义和起源不同，‘Lara’ 无‘明亮’之意，且文化背景更偏向斯拉夫传统。"
+      "word_to_compare": "Clarke",
+      "analysis": "‘Clarke’ 是一个英语姓氏，源自 ‘clerk’（书记员），与 ‘Clara’ 在词源和语义上均无关联。尽管发音相似，但 ‘Clarke’ 是男性主导的姓氏，而 ‘Clara’ 是女性名字，二者不可混淆。"
     }
   ]
 }

@@ -3,36 +3,36 @@
   "pronunciation": "hahy·duh·bod",
   "concise_definition": "n. 海得拉巴（印度南部城市）",
   "forms": {
-    "proper_noun": true
+    "plural": "Hyderabads"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A major city in southern India, located in the state of Telangana, known for its rich history, cultural heritage, and as a hub for information technology and pharmaceutical industries.",
-      "explanation_cn": "印度南部泰伦加纳邦的主要城市，以其丰富的历史、文化遗产著称，同时也是信息技术和制药产业的重要中心。",
-      "example_en": "Hyderabad is famous for its biryani, pearls, and the historic Charminar monument.",
-      "example_cn": "海得拉巴以比尔亚尼米饭、珍珠和历史悠久的查尔米纳尔纪念碑而闻名。"
+      "explanation_en": "A major city in southern India, located in the state of Telangana, known for its rich history, architectural landmarks such as the Charminar and Golconda Fort, and as a center for IT and pharmaceutical industries.",
+      "explanation_cn": "印度南部泰伦加纳邦的主要城市，以其丰富的历史、标志性建筑如查尔米纳尔和高康达堡而闻名，同时也是信息技术和制药产业的重要中心。",
+      "example_en": "Hyderabad is famous for its biryani, a fragrant spiced rice dish with meat.",
+      "example_cn": "海得拉巴以其香料丰富的肉饭“比尔亚尼”而闻名。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A former princely state in India, ruled by the Nizams until 1948, which encompassed parts of present-day Telangana, Andhra Pradesh, and Maharashtra.",
-      "explanation_cn": "印度历史上一个由尼扎姆统治的土邦，1948年并入印度，其领土涵盖现今泰伦加纳邦、安得拉邦和马哈拉施特拉邦的部分地区。",
-      "example_en": "The Nizam of Hyderabad was once one of the wealthiest rulers in the world.",
-      "example_cn": "海得拉巴的尼扎姆曾是世界上最富有的统治者之一。"
+      "explanation_en": "A historical region and former princely state in India, ruled by the Nizams until 1948, which encompassed parts of present-day Telangana and Andhra Pradesh.",
+      "explanation_cn": "印度历史上一个曾由尼扎姆统治的土邦，直至1948年并入印度联邦，其领土涵盖现今泰伦加纳邦和安得拉邦的部分地区。",
+      "example_en": "The Nizam of Hyderabad was one of the wealthiest rulers in the world during the British Raj.",
+      "example_cn": "在英属印度时期，海得拉巴的尼扎姆是世界上最富有的统治者之一。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "bangalore",
-      "analysis": "“Bangalore”（班加罗尔）是印度卡纳塔克邦的首府，以科技产业和创业生态闻名，被称为“印度硅谷”。与海得拉巴相比，班加罗尔更侧重于软件和IT初创企业，而海得拉巴则在制药、传统手工艺和历史建筑方面更具特色。"
+      "analysis": "“Bangalore”（班加罗尔）是印度卡纳塔克邦的首府，以科技产业和“印度硅谷”著称，气候较凉爽，城市规划更现代化。而 “Hyderabad” 更强调历史文化遗产与传统美食，同时在IT领域也发展迅速，但城市风貌更具穆斯林与印度教融合的特色。"
     },
     {
       "word_to_compare": "mumbai",
-      "analysis": "“Mumbai”（孟买）是印度最大的城市和经济中心，是金融、电影（宝莱坞）和港口贸易的枢纽。与海得拉巴相比，孟买更具国际化和商业活力，而海得拉巴则保留了更多莫卧儿和伊斯兰文化传统，城市节奏相对缓慢。"
+      "analysis": "“Mumbai”（孟买）是印度最大的城市和经济中心，以电影产业（宝莱坞）、港口和金融枢纽闻名，文化多元且节奏极快。相比之下，”Hyderabad“ 更具历史沉淀感，城市扩张较有序，生活节奏相对舒缓，且以伊斯兰与南印度文化交融为显著特征。"
     },
     {
-      "word_to_compare": "chennai",
-      "analysis": "“Chennai”（金奈）是泰米尔纳德邦的首府，以南印度文化、古典音乐和汽车制造业著称。与海得拉巴相比，金奈的语言和文化更贴近泰米尔传统，而海得拉巴则融合了波斯、乌尔都语和泰卢固语文化，具有更鲜明的多元宗教与语言特征。"
+      "word_to_compare": "delhi",
+      "analysis": "“Delhi”（德里）是印度首都，政治与行政中心，拥有大量莫卧儿帝国和英国殖民时期的遗迹，城市结构分为旧德里与新德里。而 “Hyderabad” 虽然也有深厚历史，但其政治地位为邦首府，非国家中心，文化上更偏向南印度传统，而非北印度的莫卧儿主导风格。"
     }
   ]
 }

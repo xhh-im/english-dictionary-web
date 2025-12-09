@@ -1,38 +1,38 @@
 {
   "word": "gettysburg",
-  "pronunciation": "jet·is·bûrɡ",
+  "pronunciation": "jet·is·burg",
   "concise_definition": "n. 葛底斯堡（美国宾夕法尼亚州地名，以葛底斯堡战役和林肯演说闻名）",
   "forms": {
-    "proper_noun": true
+    "plural": "gettysburgs"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A town in Pennsylvania, USA, best known as the site of the Battle of Gettysburg (July 1–3, 1863), a turning point in the American Civil War, and the location where President Abraham Lincoln delivered the Gettysburg Address.",
-      "explanation_cn": "美国宾夕法尼亚州的一个小镇，因1863年7月1日至3日发生的葛底斯堡战役（美国内战的转折点）以及林肯总统在此发表的《葛底斯堡演说》而闻名于世。",
-      "example_en": "The Gettysburg Address remains one of the most powerful speeches in American history.",
-      "example_cn": "《葛底斯堡演说》仍是美国历史上最有力的演讲之一。"
+      "explanation_en": "A town in Pennsylvania, USA, renowned as the site of the Battle of Gettysburg (July 1–3, 1863), a pivotal turning point in the American Civil War, and the location where President Abraham Lincoln delivered the Gettysburg Address.",
+      "explanation_cn": "美国宾夕法尼亚州的一个小镇，因1863年7月1日至3日发生的葛底斯堡战役而闻名，这场战役是美国内战的转折点，同时也是亚伯拉罕·林肯总统发表《葛底斯堡演说》的地点。",
+      "example_en": "Visitors from around the world come to Gettysburg to walk the hallowed ground where history was made.",
+      "example_cn": "来自世界各地的游客来到葛底斯堡，漫步在这片缔造历史的神圣土地上。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A symbolic reference to the ideals of democracy, sacrifice, and national unity, often invoked in discussions of American civic values and historical memory.",
-      "explanation_cn": "作为民主、牺牲与国家统一理想的象征，常在讨论美国公民价值观与历史记忆时被引用。",
-      "example_en": "Visitors to Gettysburg often leave with a deeper understanding of what the nation was willing to sacrifice for freedom.",
-      "example_cn": "前往葛底斯堡的游客往往会对国家为自由所付出的牺牲有更深的理解。"
+      "explanation_en": "The famous speech delivered by President Abraham Lincoln on November 19, 1863, at the dedication of the Soldiers' National Cemetery in Gettysburg, emphasizing the principles of human equality and the purpose of the Civil War.",
+      "explanation_cn": "1863年11月19日，亚伯拉罕·林肯总统在葛底斯堡国家公墓落成典礼上发表的著名演说，强调了人类平等的原则和美国内战的意义。",
+      "example_en": "The Gettysburg Address is one of the most quoted speeches in American history.",
+      "example_cn": "《葛底斯堡演说》是美国历史上被引用最多的演讲之一。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "battlefield",
-      "analysis": "“Battlefield”（战场）泛指任何发生过战斗的地点，是一个通用术语，不特指某一场战役或其历史意义。而 “Gettysburg” 是一个专有名词，特指美国内战中具有决定性意义的战役及其深远的政治文化影响，承载着超越地理意义的历史象征。"
+      "analysis": "“Battlefield”（战场）泛指任何发生过战斗的地点，是一个通用术语，不特指某一场战役。而 “Gettysburg” 是一个专有名词，特指美国内战中具有决定性意义的那场战役及其相关历史遗产，承载着深厚的政治与文化象征意义。"
     },
     {
       "word_to_compare": "monument",
-      "analysis": "“Monument”（纪念碑）是为纪念某人或某事而建造的实体结构，如雕像或石碑。葛底斯堡本身不是纪念碑，但其战场和墓地内包含大量纪念碑。因此，“Gettysburg” 是一个承载多重纪念物的历史事件发生地，而“monument”只是其中的组成部分。"
+      "analysis": "“Monument”（纪念碑）指为纪念某人或某事而建造的实体结构，如雕像或石碑。葛底斯堡本身不是一座纪念碑，而是一个包含多个纪念碑、墓地和战场遗址的综合性历史地点。因此，葛底斯堡是事件发生的场所，而纪念碑是其纪念形式之一。"
     },
     {
-      "word_to_compare": "speech",
-      "analysis": "“Speech”（演讲）是口头表达的文本或行为，而 “Gettysburg” 是一个地点，因林肯在此发表著名演讲而获得历史地位。虽然两者常被关联，但“Gettysburg”是语境的容器，而“speech”是内容本身。"
+      "word_to_compare": "address",
+      "analysis": "“Address”（演说）是一个通用词，指任何形式的公开讲话。而 “Gettysburg Address” 是一个专有名词，特指林肯在葛底斯堡发表的那篇具有历史意义的演说。它之所以被单独命名，是因为其语言精炼、思想深刻，成为民主理念的典范文本。"
     }
   ]
 }

@@ -3,39 +3,28 @@
   "pronunciation": "al·fon·so",
   "concise_definition": "n. 阿方索（男性名）",
   "forms": {
-    "variant_spellings": [
-      "Alphonso",
-      "Alphonsus"
-    ]
+    "plural": "alfonsos"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A masculine given name of Germanic origin, derived from the elements 'adal' (noble) and 'funs' (ready), meaning 'noble and ready.' It has been historically used by royalty in Spain and Portugal.",
-      "explanation_cn": "源自日耳曼语的男性名字，由 'adal'（高贵）和 'funs'（准备就绪）组成，意为‘高贵而果敢’。历史上曾被西班牙和葡萄牙王室广泛使用。",
-      "example_en": "King Alfonso X of Castile was known as 'El Sabio' (the Wise) for his contributions to law, science, and literature.",
-      "example_cn": "卡斯蒂利亚的阿方索十世因其在法律、科学和文学方面的贡献而被称为‘智者阿方索’。"
+      "explanation_en": "A masculine given name of Spanish and Italian origin, historically associated with royalty in the Iberian Peninsula, particularly kings of Castile, León, and Portugal.",
+      "explanation_cn": "源自西班牙语和意大利语的男性名字，历史上与伊比利亚半岛的王室密切相关，尤其是卡斯蒂利亚、莱昂和葡萄牙的国王。",
+      "example_en": "King Alfonso X of Castile was known as 'El Sabio' for his contributions to law, science, and literature.",
+      "example_cn": "卡斯蒂利亚的阿方索十世因其在法律、科学和文学方面的贡献而被称为‘智者’。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A surname occasionally found in Spanish- and Italian-speaking regions, often indicating descent from someone named Alfonso.",
-      "explanation_cn": "偶尔作为姓氏出现在西班牙语和意大利语地区，通常表示某人是名为阿方索的祖先的后裔。",
-      "example_en": "The artist Alfonso Ruiz is known for his vibrant murals in Mexico City.",
-      "example_cn": "艺术家阿尔方索·鲁伊斯以其在墨西哥城的鲜艳壁画而闻名。"
+      "explanation_en": "A personal name used in modern contexts, often chosen for its cultural heritage or classical sound, particularly in Spanish-speaking countries.",
+      "explanation_cn": "在现代语境中使用的个人名字，常因其中的文化传承或古典音韵而在西班牙语国家中被选用。",
+      "example_en": "Alfonso, the young artist, painted a mural celebrating his ancestral roots in Andalusia.",
+      "example_cn": "年轻的艺术家阿方索创作了一幅壁画，以纪念他在安达卢西亚的祖先根源。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "alfredo",
-      "analysis": "“Alfredo” 是另一个源自日耳曼语的男性名字，由 'aelf'（精灵）和 'raed'（建议）组成，意为‘精灵的建议’。它在意大利和西班牙语文化中也很流行，但与 ‘Alfonso’ 在词源和历史使用上无直接关联。Alfonso 更常与王室和法律传统相关，而 Alfredo 更常与艺术和现代流行文化联系。"
-    },
-    {
-      "word_to_compare": "antonio",
-      "analysis": "“Antonio” 源自古罗马姓氏 Antonius，含义不明确，可能与‘无价’或‘对抗’有关。它在拉丁文化中极为普遍，但与 Alfonso 的日耳曼语根源不同。Alfonso 更具贵族和中世纪欧洲王室色彩，而 Antonio 更具平民化和宗教传统背景（如圣安东尼）。"
-    },
-    {
-      "word_to_compare": "fons",
-      "analysis": "“Fons” 是拉丁语，意为‘源泉’或‘喷泉’，在现代多用于地名或象征性表达。虽然 ‘Alfonso’ 的后半部分 ‘-fons’ 与之拼写相似，但二者无词源关联。‘Alfonso’ 中的 ‘-fons’ 实际源自日耳曼语 ‘funs’，意为‘准备就绪’，而非拉丁语的‘源泉’。"
+      "word_to_compare": "alfonso",
+      "analysis": "“Alfonso” 是一个专有名词，仅用于人名，不具备普通名词的语义功能。它与其他常见名词（如 “king” 或 “leader”）不同，不能泛指一类人，而特指历史上或现实中名为 Alfonso 的个体。因此，它没有真正的近义词，但可与同源名字如 “Alphonse”（法语形式）或 “Alfonso” 的变体（如 “Alfonso” 与 “Alfonso” 的昵称 “Fonso”）进行文化语境上的比较。"
     }
   ]
 }

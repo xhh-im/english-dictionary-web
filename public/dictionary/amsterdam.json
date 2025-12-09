@@ -3,36 +3,36 @@
   "pronunciation": "am·ster·dam",
   "concise_definition": "n. 阿姆斯特丹（荷兰首都）",
   "forms": {
-    "proper_noun": true
+    "plural": "Amsterdams"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "The capital and most populous city of the Netherlands, known for its historic canals, bicycle culture, liberal social policies, and rich artistic heritage including works by Rembrandt and Van Gogh.",
-      "explanation_cn": "荷兰的首都和最大城市，以其历史悠久的运河、自行车文化、开放的社会政策以及丰富的艺术遗产（包括伦勃朗和梵高的作品）而闻名。",
-      "example_en": "We spent a week exploring the museums and canals of Amsterdam.",
-      "example_cn": "我们花了一周时间探索阿姆斯特丹的博物馆和运河。"
+      "explanation_en": "The capital and most populous city of the Netherlands, known for its historic canals, bicycle-friendly infrastructure, liberal social policies, and rich cultural heritage including museums like the Rijksmuseum and Van Gogh Museum.",
+      "explanation_cn": "荷兰的首都和最大城市，以其历史悠久的运河、友好的自行车交通系统、开放的社会政策以及丰富的文化遗产而闻名，包括里克斯博物馆和梵高博物馆等。",
+      "example_en": "We spent three days exploring the canals and art galleries of Amsterdam.",
+      "example_cn": "我们花了三天时间探索阿姆斯特丹的运河和艺术画廊。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A symbol of tolerance, urban innovation, and cultural diversity in modern Europe, often referenced in global discussions on drug policy, LGBTQ+ rights, and sustainable urban planning.",
-      "explanation_cn": "现代欧洲宽容、城市创新与文化多元的象征，常在关于毒品政策、LGBTQ+权利和可持续城市规划的全球讨论中被提及。",
-      "example_en": "Amsterdam has long been a model for progressive urban design and social inclusion.",
-      "example_cn": "阿姆斯特丹长期以来一直是进步城市设计和社会包容的典范。"
+      "explanation_en": "A term sometimes used informally to refer to the distinctive urban culture, atmosphere, or lifestyle associated with the city, especially its tolerance, creativity, and progressive values.",
+      "explanation_cn": "有时非正式地用来指代与阿姆斯特丹这座城市相关的独特城市文化、氛围或生活方式，尤其是其包容性、创造力和进步价值观。",
+      "example_en": "The festival had an Amsterdam vibe—relaxed, artistic, and open-minded.",
+      "example_cn": "这个节日有一种阿姆斯特丹的氛围——轻松、艺术且思想开放。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "rotterdam",
-      "analysis": "“Rotterdam”（鹿特丹）是荷兰第二大城市，以现代建筑、欧洲最大港口和工业风貌著称，与阿姆斯特丹的历史风貌和文化氛围形成鲜明对比。阿姆斯特丹更强调艺术、运河与人文气质，而鹿特丹则代表后现代城市重建与物流枢纽功能。"
+      "analysis": "“Rotterdam”（鹿特丹）是荷兰第二大城市，以现代建筑、大型港口和工业风貌著称，与阿姆斯特丹的历史风貌和文化氛围形成鲜明对比。阿姆斯特丹更强调艺术、运河与人文气息，而鹿特丹则代表现代化与功能性。"
     },
     {
       "word_to_compare": "paris",
-      "analysis": "“Paris”（巴黎）同样是欧洲文化之都，但以浪漫主义、高级时尚和古典建筑闻名；阿姆斯特丹则更低调务实，以自行车交通、宽容政策和市民社会著称。两者虽均为旅游热点，但阿姆斯特丹的氛围更偏向自由开放与生活化，而非仪式化的美学。"
+      "analysis": "“Paris”（巴黎）同样是欧洲著名文化之都，以浪漫、时尚和经典建筑闻名，而阿姆斯特丹则以务实的开放性、自行车文化和平民化的生活节奏著称。两者虽均为艺术重镇，但阿姆斯特丹更显低调、包容与去中心化。"
     },
     {
       "word_to_compare": "venice",
-      "analysis": "“Venice”（威尼斯）与阿姆斯特丹同以运河网络闻名，但威尼斯的运河是自然水道与历史遗迹的结合，承载着中世纪贸易与艺术传统；阿姆斯特丹的运河则是17世纪人工规划的城市基础设施，体现的是城市治理与商业扩张的理性设计。前者是诗意的遗存，后者是功能性的遗产。"
+      "analysis": "“Venice”（威尼斯）与阿姆斯特丹一样以运河系统闻名，但威尼斯的运河是自然水道与历史遗迹的结合，承载着中世纪贸易传统；而阿姆斯特丹的运河是17世纪人工规划的城市工程，体现的是城市治理与市民生活的融合，更具现代城市规划的典范意义。"
     }
   ]
 }

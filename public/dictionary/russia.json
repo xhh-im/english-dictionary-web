@@ -15,24 +15,24 @@
     },
     {
       "pos": "noun",
-      "explanation_en": "The cultural, historical, and political entity associated with the Russian people, their language, traditions, and global influence, especially during the Soviet era and post-Soviet period.",
-      "explanation_cn": "与俄罗斯民族、语言、传统及其全球影响力相关联的文化、历史和政治实体，尤其指苏联时期及后苏联时期。",
-      "example_en": "Russian literature, from Tolstoy to Dostoevsky, has had a profound impact on world culture.",
-      "example_cn": "从托尔斯泰到陀思妥耶夫斯基的俄罗斯文学对世界文化产生了深远影响。"
+      "explanation_en": "A cultural and historical entity known for its rich literary tradition, classical music, ballet, and political influence on global affairs, especially during the Soviet era.",
+      "explanation_cn": "一个以其丰富的文学传统、古典音乐、芭蕾舞以及在苏联时期对全球事务的政治影响力而闻名的文化与历史实体。",
+      "example_en": "Tolstoy and Dostoevsky are two of Russia’s most celebrated literary figures.",
+      "example_cn": "托尔斯泰和陀思妥耶夫斯基是俄罗斯最负盛名的文学人物。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "soviet union",
-      "analysis": "“Soviet Union”（苏联）是1922年至1991年间由俄罗斯及其他加盟共和国组成的联邦制社会主义国家，而 “Russia” 是其最大且主导的组成部分。苏联解体后，俄罗斯继承了其国际地位和大部分领土，但政治体制和国家性质已完全不同。"
+      "analysis": "“Soviet Union”（苏联）是1922年至1991年间存在的联邦制社会主义国家，由俄罗斯苏维埃联邦社会主义共和国主导，包含多个加盟共和国。而 “Russia” 是苏联解体后继承其主要领土和国际地位的独立国家。两者在政治体制、领土范围和国际角色上均有显著区别。"
     },
     {
-      "word_to_compare": "russian federation",
-      "analysis": "“Russian Federation” 是俄罗斯的正式国名，与 “Russia” 在绝大多数语境下可互换使用，但前者更正式、更强调其宪法国家结构，后者是通用简称。在法律或外交文件中通常使用全称。"
+      "word_to_compare": "eastern europe",
+      "analysis": "“Eastern Europe”（东欧）是一个地理和文化区域概念，包括波兰、乌克兰、罗马尼亚等国家，而俄罗斯虽然地理上部分位于东欧，但其主体位于亚洲，且在历史、语言和政治上具有独特性，不能简单归类为东欧国家。"
     },
     {
-      "word_to_compare": "europe",
-      "analysis": "“Europe”（欧洲）是一个地理和文化大洲，包含数十个国家，而 “Russia” 虽然大部分领土位于亚洲，但其政治、经济和文化中心（如莫斯科、圣彼得堡）位于欧洲部分，因此常被视为欧洲国家之一。两者是包含与被包含的关系，而非同义词。"
+      "word_to_compare": "eurasia",
+      "analysis": "“Eurasia”（欧亚大陆）是欧洲与亚洲合并形成的地理概念，涵盖从大西洋到太平洋的广阔区域。俄罗斯是欧亚大陆上最大的国家，但 “Eurasia” 是一个地理术语，不具政治实体意义，而 “Russia” 是一个主权国家。"
     }
   ]
 }

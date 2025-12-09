@@ -1,18 +1,17 @@
 {
   "word": "greg",
   "pronunciation": "grehg",
-  "concise_definition": "n. (人名) 格雷格",
+  "concise_definition": "n. 格雷格（人名）",
   "forms": {
     "plural": "gregs"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A given name, commonly used as a masculine first name in English-speaking countries, often a diminutive form of Gregory.",
-      "explanation_cn": "一个常见的男性名，多用于英语国家，通常是 Gregory 的缩略形式。",
-      "example_en": "Greg is organizing the team meeting this afternoon.",
-      "example_cn": "格雷格今天下午正在组织团队会议。"
+      "explanation_en": "A proper noun used as a male given name, commonly of English origin, derived from the Greek name Gregorios, meaning 'watchful' or 'alert'.",
+      "explanation_cn": "用作男性名字的专有名词，常见于英语国家，源自希腊语名字 Gregorios，意为‘警觉的’或‘机敏的’。",
+      "example_en": "Greg is the team leader who always arrives early and stays late.",
+      "example_cn": "格雷格是团队负责人，总是早到晚走。"
     }
-  ],
-  "comparison": []
+  ]
 }

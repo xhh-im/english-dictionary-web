@@ -5,38 +5,38 @@
   "forms": {
     "variant_spellings": [
       "Evelyn",
-      "Evie",
-      "Eve"
+      "Evlyn",
+      "Eveline"
     ]
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A given name of English origin, traditionally used for women, derived from the medieval name 'Aveline', which itself may have roots in the Germanic element 'avi', meaning 'desired' or 'desired one'.",
-      "explanation_cn": "一个源自英语的女性名，起源于中世纪的名字 'Aveline'，可能源自日耳曼语词根 'avi'，意为‘被渴望的’或‘受喜爱的人’。",
+      "explanation_en": "A feminine given name of English origin, derived from the medieval name Aveline, which itself may have roots in the Germanic element 'avi', meaning 'desired' or 'little bird'. It has been used since the 12th century and experienced a resurgence in popularity in the 20th and 21st centuries.",
+      "explanation_cn": "一个源自英语的女性名，由中世纪名字 Aveline 演变而来，可能源于日耳曼语词根 'avi'，意为‘被渴望的’或‘小鸟’。自12世纪起被使用，并在20世纪和21世纪重新流行。",
       "example_en": "Evelyn is a talented pianist who performs internationally.",
       "example_cn": "埃弗琳是一位才华横溢的钢琴家，经常在国际上演出。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A surname occasionally used in English-speaking countries, often passed down through family lines and associated with historical or aristocratic lineage.",
-      "explanation_cn": "在英语国家中偶尔用作姓氏，通常代代相传，与历史或贵族血统相关联。",
-      "example_en": "The artist Evelyn De Morgan was known for her Pre-Raphaelite paintings.",
-      "example_cn": "艺术家埃弗琳·德·摩根以她的前拉斐尔派画作而闻名。"
+      "explanation_en": "A surname used by families of English and French descent, often associated with historical nobility or literary figures, such as Evelyn Waugh, the British novelist.",
+      "explanation_cn": "作为姓氏，用于英格兰和法国后裔家族，常与历史贵族或文学人物相关，例如英国小说家伊夫林·沃。",
+      "example_en": "Evelyn Waugh's novels are known for their sharp wit and social satire.",
+      "example_cn": "伊夫林·沃的小说以其尖锐的机智和社会讽刺著称。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "Evelyn",
-      "analysis": "作为专有名词，'Evelyn' 本身没有词义变化，其比较对象应为其他相似发音或来源的女性名字，如 'Aveline'、'Evalina' 或 'Evie'。这些名字共享相同的词源，但 'Evelyn' 是现代最广泛使用的拼写形式，且在20世纪后成为主流女性名，而 'Aveline' 则更显古雅。"
+      "analysis": "“Evelyn” 作为专有名词，本身不具备普通名词的语义范畴，因此无法与其他普通词汇进行语义比较。它是一个人名，其意义完全依赖于文化、历史和个体使用背景，而非语言学上的通用词义。"
     },
     {
-      "word_to_compare": "Eve",
-      "analysis": "‘Eve’ 是 'Evelyn' 的常见昵称，源自《圣经》中的夏娃（Eve），象征人类之母。它更简短、直接，常用于亲密场合，而 'Evelyn' 则更正式、完整，带有古典优雅的气质。两者虽有关联，但 'Evelyn' 的语义层次更丰富，包含历史与文化积淀。"
+      "word_to_compare": "Eveline",
+      "analysis": "“Eveline” 是 “Evelyn” 的一种变体拼写，主要在法语和爱尔兰语环境中使用，发音略有不同，语义和文化背景完全一致。两者是同一名字的不同书写形式，而非语义上的近义词。"
     },
     {
-      "word_to_compare": "Lyn",
-      "analysis": "‘Lyn’ 是 'Evelyn' 的后缀部分，有时被单独用作名字，但其本身无独立词源意义，仅作为音节成分。与 'Evelyn' 相比，'Lyn' 缺乏历史深度和语义完整性，多用于现代造名，不具备 'Evelyn' 所承载的文化传承。"
+      "word_to_compare": "Aveline",
+      "analysis": "“Aveline” 是 “Evelyn” 的原始中世纪形式，源自古法语，意为‘被渴望的’。虽然词源相同，但 “Aveline” 现代使用频率极低，多见于历史文献，而 “Evelyn” 已成为主流现代形式，二者属于同源词而非近义词。"
     }
   ]
 }

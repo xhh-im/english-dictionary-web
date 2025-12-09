@@ -1,38 +1,38 @@
 {
   "word": "geneva",
-  "pronunciation": "jə·neev·ə",
+  "pronunciation": "jə·nē·və",
   "concise_definition": "n. 日内瓦（瑞士城市）",
   "forms": {
-    "proper_noun": true
+    "plural": "Genevas"
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A city in southwestern Switzerland, located on the shores of Lake Geneva, known internationally as a hub for diplomacy, international organizations, and humanitarian efforts.",
-      "explanation_cn": "位于瑞士西南部、日内瓦湖畔的一座城市，因是外交、国际组织和人道主义事务的全球中心而闻名于世。",
-      "example_en": "The United Nations Office at Geneva hosts hundreds of international conferences each year.",
-      "example_cn": "联合国日内瓦办事处每年举办数百场国际会议。"
+      "explanation_en": "A city in southwestern Switzerland, located on the shores of Lake Geneva, known internationally as a center for diplomacy, humanitarian organizations, and global governance.",
+      "explanation_cn": "位于瑞士西南部、日内瓦湖畔的一座城市，因是国际外交、人道主义组织和全球治理的中心而闻名于世。",
+      "example_en": "The United Nations Office at Geneva hosts numerous international conferences and treaties.",
+      "example_cn": "联合国日内瓦办事处举办众多国际会议和条约签署活动。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A name used to refer to the Lake Geneva region, often associated with luxury, neutrality, and global governance.",
-      "explanation_cn": "常用于指代日内瓦湖地区，该地区常与奢华、中立和全球治理联系在一起。",
-      "example_en": "Many wealthy families own villas along the shores of Geneva.",
-      "example_cn": "许多富裕家庭在日内瓦湖畔拥有别墅。"
+      "explanation_en": "A brand or style name derived from the city, often associated with precision watchmaking, luxury goods, or high-quality craftsmanship.",
+      "explanation_cn": "源自该城市的品牌或风格名称，常与精密制表、奢侈品或高品质工艺相关联。",
+      "example_en": "She wore a Geneva-made watch that had been passed down through three generations.",
+      "example_cn": "她佩戴的是一块由日内瓦制造、传承了三代的腕表。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "bern",
-      "analysis": "“Bern”（伯尔尼）是瑞士的首都，是国家政治中心，而 “Geneva” 是国际外交中心。两者都是瑞士重要城市，但日内瓦更侧重于全球性机构（如联合国、红十字会），伯尔尼则集中于本国政府职能。"
+      "word_to_compare": "berne",
+      "analysis": "“Berne”（伯尔尼）是瑞士的首都，政治中心，而 “Geneva” 是国际外交与人道主义活动的中心。两者都是瑞士重要城市，但日内瓦更侧重于全球性组织与多边外交，伯尔尼则代表国家行政职能。"
     },
     {
       "word_to_compare": "zurich",
-      "analysis": "“Zurich”（苏黎世）是瑞士最大的城市和金融中心，以银行业和商业闻名；而 “Geneva” 更以国际组织、外交和人道主义工作著称。苏黎世代表经济实力，日内瓦代表全球治理。"
+      "analysis": "“Zurich”（苏黎世）是瑞士最大的城市和金融中心，以银行业和经济实力著称；而 “Geneva” 更强调国际组织、和平谈判与文化多样性。苏黎世偏向商业与资本，日内瓦偏向政治与人道。"
     },
     {
-      "word_to_compare": "the hague",
-      "analysis": "“The Hague”（海牙）是荷兰的行政首都，也是国际法院和国际刑事法院所在地，与日内瓦一样是国际法与外交重镇。但日内瓦的机构更广泛（涵盖卫生、劳工、难民等），而海牙更专注于司法与战争罪审判。"
+      "word_to_compare": "lausanne",
+      "analysis": "“Lausanne”（洛桑）是瑞士另一座国际城市，以体育组织（如国际奥委会总部）和教育闻名；而 “Geneva” 的国际影响力更广泛，涵盖联合国、红十字会、世界卫生组织等核心机构，其全球政治与人道角色更为突出。"
     }
   ]
 }

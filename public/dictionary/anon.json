@@ -3,36 +3,36 @@
   "pronunciation": "uh·non",
   "concise_definition": "adv. 不久, 很快, 马上",
   "forms": {
-    "archaic": true
+    "archaic_form": "anone"
   },
   "definitions": [
     {
       "pos": "adverb",
-      "explanation_en": "Soon; in a short time; used to indicate that something will happen shortly, often in a literary or formal context.",
-      "explanation_cn": "不久；很快；用于表示某事将在短时间内发生，常见于文学或正式语境中。",
-      "example_en": "He will return anon, after he has finished his errand.",
-      "example_cn": "他办完事就会很快回来。"
+      "explanation_en": "Used in archaic or literary contexts to mean 'soon' or 'in a short time'; often implies an imminent or impending action or event.",
+      "explanation_cn": "用于古语或文学语境中，意为‘不久’或‘很快’，常暗示某事即将发生或迫在眉睫。",
+      "example_en": "He shall return anon, with news of the king's decree.",
+      "example_cn": "他很快就会回来，带来国王的谕令。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "In a brief or fleeting moment; sometimes used poetically to suggest the transience of time or presence.",
-      "explanation_cn": "在短暂的一瞬之间；有时用于诗歌中，暗示时间或存在的转瞬即逝。",
-      "example_en": "The stars appeared anon, then vanished with the dawn.",
-      "example_cn": "星星稍纵即现，随即在黎明中消逝。"
+      "explanation_en": "In older usage, sometimes used to mean 'immediately' or 'without delay', especially in poetic or dramatic texts.",
+      "explanation_cn": "在较古老的用法中，有时意为‘立即’或‘毫不拖延’，尤其见于诗歌或戏剧文本中。",
+      "example_en": "Anon, the bell shall toll, and all shall gather in the hall.",
+      "example_cn": "钟声即将敲响，众人将齐聚大厅。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "soon",
-      "analysis": "“Soon” 是现代英语中最常用的表示“不久”的副词，语气中性、通用。而 “anon” 是古语或文学用语，带有古典、诗意或庄重的色彩，现代口语中几乎不再使用。"
+      "analysis": "“Soon” 是现代英语中最常用的表示‘不久’的词，语气中性、通用，适用于口语和书面语。而 “anon” 是古语或文学用语，带有浓厚的古典或诗意色彩，现代日常交流中几乎不再使用。"
     },
     {
       "word_to_compare": "immediately",
-      "analysis": "“Immediately” 强调毫无延迟、立刻发生，时间跨度极短。而 “anon” 表示的是一个较模糊的、稍后的时间点，可能几秒、几分钟或更久，语气更宽松、更富文学性。"
+      "analysis": "“Immediately” 强调‘立刻、毫不延迟’，时间跨度极短，具有强烈的紧迫感。而 “anon” 虽可译为‘马上’，但其时间范围更模糊，可能指几分钟到几小时，语气更柔和、更具文学性。"
     },
     {
       "word_to_compare": "presently",
-      "analysis": "“Presently” 在现代英语中常表示“不久后”（美式）或“目前”（英式），语义存在歧义。而 “anon” 始终明确表示“即将发生”，无歧义，但因过于古雅，仅用于刻意复古或文学模仿的语境中。"
+      "analysis": "“Presently” 在现代英语中多指‘不久之后’，但有时会被误解为‘目前’（尤其在美式英语中）。“Anon” 则无此歧义，始终指向未来，且带有古典韵律感，常用于莎士比亚或圣经体文本中。"
     }
   ]
 }

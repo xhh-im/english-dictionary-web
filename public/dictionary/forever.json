@@ -1,38 +1,42 @@
 {
   "word": "forever",
-  "pronunciation": "fuh·rev·er",
+  "pronunciation": "fuh·ruh·vuhr",
   "concise_definition": "adv. 永远, 永恒地",
-  "forms": {
-    "none": ""
-  },
   "definitions": [
     {
       "pos": "adverb",
-      "explanation_en": "For all time; without end or interruption, indicating a state or action that continues indefinitely into the future.",
-      "explanation_cn": "指持续不断、永不终止的时间状态，表示某种状态或行为将无限延续至未来。",
+      "explanation_en": "For all time; without end or interruption, indicating something that lasts indefinitely or eternally.",
+      "explanation_cn": "指持续所有时间，无止境或不间断，表示某事物将无限期或永恒地存在。",
       "example_en": "I will love you forever.",
       "example_cn": "我会永远爱你。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "In a manner that seems to last indefinitely, often used for emphasis in casual or emotional contexts, even when literal eternity is not intended.",
-      "explanation_cn": "用于强调某种状态似乎永无止境，常用于口语或情感表达中，即使并非真正指永恒。",
-      "example_en": "I've been waiting forever for the bus!",
-      "example_cn": "我等公交车都等了好久了！"
+      "explanation_en": "In a manner that suggests permanence or unchanging continuity, often used for emphasis in emotional or dramatic contexts.",
+      "explanation_cn": "以暗示永久性或不变持续性的方式使用，常用于情感或戏剧性语境中以加强语气。",
+      "example_en": "This moment will stay with me forever.",
+      "example_cn": "这一时刻将永远铭刻在我心中。"
+    },
+    {
+      "pos": "adverb",
+      "explanation_en": "Used informally to express extreme duration or impatience, as in 'I've been waiting forever.'",
+      "explanation_cn": "用于非正式语境中表达极长的时间或不耐烦，如‘我等了好久’。",
+      "example_en": "I've been stuck in traffic for forever!",
+      "example_cn": "我堵在路上都快等疯了！"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "always",
-      "analysis": "“Always”（总是）强调在所有时间或场合下都发生，侧重于频率或规律性，常用于描述重复性行为（如：I always brush my teeth before bed）。而 “forever” 更强调时间的无限延续性，常用于表达持久的情感或状态，带有更强的主观性和情感色彩。"
+      "analysis": "“Always”（总是）强调在所有时间或场合下都发生，侧重于重复性或规律性，如‘我总是早起’。而 ‘forever’ 更强调时间的无限延续，常用于表达永恒、持久的情感或状态，带有更强的文学性和情感色彩。"
     },
     {
       "word_to_compare": "eternally",
-      "analysis": "“Eternally”（永恒地）是更正式、更哲学化的词汇，常用于文学、宗教或庄严语境中，强调绝对的、超越时间的永恒（如：eternal love）。而 “forever” 更口语化、日常化，虽也表永恒，但语气更亲切、感性，适用范围更广。"
+      "analysis": "“Eternally”（永恒地）是 ‘forever’ 的更正式、更书面化的同义词，多用于哲学、宗教或诗歌语境，强调超越时间的绝对永恒。‘Forever’ 更口语化、日常化，适用范围更广，情感表达更直接。"
     },
     {
       "word_to_compare": "permanently",
-      "analysis": "“Permanently”（永久地）强调某种变化是不可逆的、最终的，常用于物理或制度性改变（如：The building was permanently closed）。它侧重结果的稳定性，而非时间的延续过程。而 “forever” 更关注时间的持续性，不一定隐含不可逆性。"
+      "analysis": "“Permanently”（永久地）强调某状态或变化是不可逆转的，常用于物理或制度性改变，如‘永久关闭’。而 ‘forever’ 更侧重于时间的延续性，不一定涉及改变，更多用于情感、关系或主观体验的持久性。"
     }
   ]
 }

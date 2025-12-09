@@ -9,15 +9,15 @@
   "definitions": [
     {
       "pos": "adverb",
-      "explanation_en": "Used to refer to additional or alternative possibilities, people, or things beyond those already mentioned or implied.",
-      "explanation_cn": "用于指代除已提及或暗示的人、事物之外的其他或替代可能性。",
+      "explanation_en": "Used to refer to additional or alternative possibilities, people, or things beyond those already mentioned or considered.",
+      "explanation_cn": "用于指代除已提及或考虑的事物之外的其他可能性、人或事物。",
       "example_en": "What else would you like to order?",
       "example_cn": "你还想点些什么？"
     },
     {
       "pos": "adverb",
-      "explanation_en": "Used in hypothetical or conditional statements to introduce an alternative outcome or consequence if the stated condition is not met.",
-      "explanation_cn": "用于假设或条件句中，表示若所述条件未满足时的替代结果或后果。",
+      "explanation_en": "Used in conditional or hypothetical statements to introduce an alternative outcome if the first condition is not met.",
+      "explanation_cn": "在条件或假设句中，用于引入如果第一个条件不成立时的另一种结果。",
       "example_en": "Hurry up, or else you'll miss the train.",
       "example_cn": "快点，否则你会错过火车。"
     },
@@ -25,22 +25,22 @@
       "pos": "adverb",
       "explanation_en": "Used after words like 'any', 'some', 'no', 'every' to mean 'other than this or that' in a general sense.",
       "explanation_cn": "用于 'any', 'some', 'no', 'every' 等词之后，泛指‘除此以外的’。",
-      "example_en": "I'll do anything else to help.",
-      "example_cn": "我愿意做任何其他事来帮忙。"
+      "example_en": "Is there anything else I can help you with?",
+      "example_cn": "还有什么我可以帮你的吗？"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "other",
-      "analysis": "“Other” 是形容词或代词，用于修饰名词或单独指代另一个事物（如 “other people” 或 “the other one”），强调区别于已知对象。“Else” 是副词，不能直接修饰名词，必须与不定代词（如 anything, someone）或疑问词（如 what, where）连用，功能更受限但语义更侧重于‘除此之外’的补充性。"
+      "analysis": "“Other” (其他的) 是形容词或代词，用于修饰名词或替代名词，强调与已提及事物的区分，如 “other people” 或 “the other one”。而 “else” 是副词，不能直接修饰名词，必须跟在不定代词（如 anything, someone）或疑问词（如 what, where）之后，构成复合结构，功能更受限但语义更聚焦于‘除此之外’。"
     },
     {
       "word_to_compare": "alternatively",
-      "analysis": "“Alternatively” 是一个正式副词，表示‘作为另一种选择’，语气中性、客观，常用于建议或列举选项（如 ‘Alternatively, we could take the bus.’）。而 “else” 更口语化，常带有紧迫感或警告意味（如 ‘Do it now, else you’ll be late.’），语用功能更强烈。"
+      "analysis": "“Alternatively” (或者，作为替代) 是一个正式的连词性副词，用于提出一个明确的替代方案，语气中性或理性，常用于书面语。而 “else” 更口语化，常带有紧迫感或警告意味，尤其在 ‘or else’ 结构中隐含威胁或后果。"
     },
     {
       "word_to_compare": "furthermore",
-      "analysis": "“Furthermore” 表示‘此外’，用于在原有信息基础上增加同类或支持性内容，是递进关系。而 “else” 表示‘其他’或‘否则’，是替代或条件关系，二者逻辑功能完全不同。例如：‘I like tea. Furthermore, I drink it daily.’（递进） vs. ‘I like tea, else I’d drink coffee.’（替代）"
+      "analysis": "“Furthermore” (此外) 用于在原有信息基础上添加更多支持性内容，是递进关系，不表示替代或例外。而 “else” 表示的是排除已有选项后的剩余可能性，是替代或条件性补充，语义方向完全不同。"
     }
   ]
 }

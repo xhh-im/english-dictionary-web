@@ -2,17 +2,13 @@
   "word": "sometimes",
   "pronunciation": "suhm·tahyz",
   "concise_definition": "adv. 有时, 偶尔",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
   "definitions": [
     {
       "pos": "adverb",
       "explanation_en": "Occurring or happening on some occasions but not always; indicating a frequency that is occasional or intermittent.",
       "explanation_cn": "指在某些时候发生，但并非总是如此；表示一种偶尔或间歇性的频率。",
-      "example_en": "I sometimes walk to work when the weather is nice.",
-      "example_cn": "天气好的时候，我有时会步行上班。"
+      "example_en": "I sometimes go for a walk after dinner.",
+      "example_cn": "我有时晚饭后去散步。"
     },
     {
       "pos": "adverb",
@@ -24,16 +20,16 @@
   ],
   "comparison": [
     {
-      "word_to_compare": "often",
-      "analysis": "“Often”（经常）表示频率较高，接近于“frequently”，强调某事重复发生的次数多；而 “sometimes” 表示频率较低，仅在零星或不规律的情况下发生，语气更弱、更不确定。"
-    },
-    {
       "word_to_compare": "occasionally",
-      "analysis": "“Occasionally”（偶尔）与 “sometimes” 意义非常接近，都表示不频繁的发生，但 “occasionally” 更正式，常用于书面语，且隐含一种更规律的间隔（如每月一次）；“sometimes” 更口语化，间隔更随意、不可预测。"
+      "analysis": "“Occasionally”（偶尔）与 “sometimes” 意义相近，但语义上更强调频率较低，通常指比 “sometimes” 更少发生，带有更正式或书面化的色彩。例如：I occasionally check my emails on weekends（我偶尔在周末查看邮件）比 “sometimes” 更显稀少。"
     },
     {
-      "word_to_compare": "rarely",
-      "analysis": "“Rarely”（很少）表示频率极低，接近于“几乎不”；而 “sometimes” 至少承认事件确实会发生，频率高于 “rarely”。两者在程度上形成对比：sometimes > occasionally > rarely。"
+      "word_to_compare": "often",
+      "analysis": "“Often”（经常）表示高频发生，与 “sometimes” 形成频率上的对比。前者强调重复性高，后者强调非持续性。例如：She often arrives late（她经常迟到）与 She sometimes arrives late（她有时迟到）在行为频率上有明显差异。"
+    },
+    {
+      "word_to_compare": "at times",
+      "analysis": "“At times”（有时）与 “sometimes” 几乎可以互换，但语气更书面化，常用于强调在特定情境或阶段中出现的情况。例如：At times, the noise was unbearable（有时噪音令人难以忍受）比 “sometimes” 更具文学性，常用于描述情绪或环境的波动。"
     }
   ]
 }

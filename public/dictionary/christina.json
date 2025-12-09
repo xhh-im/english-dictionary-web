@@ -19,24 +19,24 @@
     },
     {
       "pos": "noun",
-      "explanation_en": "A name often associated with grace, strength, and spiritual devotion in literature, art, and public life, symbolizing faith and resilience.",
-      "explanation_cn": "在文学、艺术和公共生活中常与优雅、力量和精神信仰相关联，象征着信仰与坚韧。",
-      "example_en": "In medieval hagiography, Saint Christina was celebrated as a martyr who remained faithful under persecution.",
-      "example_cn": "在中世纪圣徒传记中，圣克里斯蒂娜被颂扬为在迫害中仍坚守信仰的殉道者。"
+      "explanation_en": "A name often associated with grace, strength, and spiritual devotion, frequently chosen for its religious connotations and classical elegance.",
+      "explanation_cn": "常与优雅、坚强和精神信仰相联系，因其宗教内涵与古典美感而被广泛选用。",
+      "example_en": "Saint Christina of Bolsena is venerated as a Christian martyr in the Catholic Church.",
+      "example_cn": "圣克里斯蒂娜·迪博尔塞纳被天主教会尊为基督教殉道者。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "christine",
-      "analysis": "“Christine” 是 “Christina” 的常见变体拼写，发音更柔和，常用于法语和英语国家。两者含义完全相同，均源自 ‘Christianus’（基督的），但 “Christine” 在20世纪更流行，而 “Christina” 在当代更常见于流行文化中。"
-    },
-    {
-      "word_to_compare": "christian",
-      "analysis": "“Christian” 是男性形式或形容词，意为‘基督徒的’或‘信奉基督教的人’。而 “Christina” 是专有名词，仅用于女性人名，不具有形容词功能。两者词源相同，但词性和用法完全不同。"
+      "analysis": "“Christine” 是 “Christina” 的常见变体拼写，发音更柔和，常用于法语和英语国家。两者含义完全相同，均源自 ‘Christianus’（基督徒），但 “Christine” 在20世纪更流行，而 “Christina” 在当代更常见于流行文化中。"
     },
     {
       "word_to_compare": "kristina",
-      "analysis": "“Kristina” 是 “Christina” 的斯拉夫语拼写形式，常见于东欧国家（如俄罗斯、瑞典、波兰）。其发音和含义与 “Christina” 一致，但拼写反映了语言的音系特征，如用 ‘k’ 代替 ‘ch’。"
+      "analysis": "“Kristina” 是斯拉夫语系中对 “Christina” 的拼写变体，常见于俄罗斯、瑞典和东欧国家。其拼写中的 ‘k’ 强调了原始希腊语的发音，文化上更强调传统与宗教根源，而 “Christina” 更偏向西方现代命名习惯。"
+    },
+    {
+      "word_to_compare": "christian",
+      "analysis": "“Christian” 是男性形式的名字，意为‘基督的追随者’，与 “Christina” 同源，但性别不同。两者共享相同的宗教语义，但 “Christina” 专用于女性，且在现代语境中更具个人化和艺术化的联想，如歌手或演员的名字。"
     }
   ]
 }

@@ -3,8 +3,7 @@
   "pronunciation": "uh·mee·noh",
   "concise_definition": "adj. 氨基的, 含氨基的",
   "forms": {
-    "comparative": "",
-    "superlative": ""
+    "comparison": "no comparative or superlative form"
   },
   "definitions": [
     {
@@ -16,24 +15,24 @@
     },
     {
       "pos": "adjective",
-      "explanation_en": "Used in chemical nomenclature to describe compounds in which an amino group is attached to a carbon chain or ring structure, often modifying the compound's biological activity.",
-      "explanation_cn": "在化学命名中用于描述氨基连接在碳链或环状结构上的化合物，这种连接通常会改变该化合物的生物活性。",
-      "example_en": "The amino derivative of benzene is called aniline, a key compound in dye manufacturing.",
-      "example_cn": "苯的氨基衍生物称为苯胺，是染料制造中的关键化合物。"
+      "explanation_en": "Used in scientific terminology to describe molecules or compounds that have an amino functional group as a key structural feature, especially in biochemistry and molecular biology.",
+      "explanation_cn": "用于科学术语中，描述那些以氨基作为关键结构特征的分子或化合物，尤其在生物化学和分子生物学中。",
+      "example_en": "The amino group plays a critical role in the formation of peptide bonds during protein synthesis.",
+      "example_cn": "在蛋白质合成过程中，氨基在肽键的形成中起着关键作用。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "amino acid",
-      "analysis": "“Amino” 是一个形容词，仅描述含有氨基的特性；而 “amino acid”（氨基酸）是一个名词，指一类同时含有氨基（–NH₂）和羧基（–COOH）的有机化合物，是蛋白质的基本单元。前者是后者的组成部分的描述词，不能独立指代物质。"
-    },
-    {
-      "word_to_compare": "amide",
-      "analysis": "“Amide”（酰胺）是氨基与羰基（C=O）结合形成的官能团（–CONH₂），而 “amino” 仅指游离的 –NH₂ 基团。两者结构不同，化学性质也不同：酰胺更稳定，常见于蛋白质肽键中；氨基则更具碱性和反应活性。"
+      "analysis": "“Amino” 是形容词，仅描述含有氨基的特性；而 “amino acid”（氨基酸）是一个名词，指一类同时含有氨基和羧基的有机化合物，是蛋白质的基本单元。前者是后者的结构特征描述，后者是具体物质类别。"
     },
     {
       "word_to_compare": "nitrogenous",
-      "analysis": "“Nitrogenous”（含氮的）是一个更宽泛的术语，泛指任何含有氮原子的化合物，如核酸、嘌呤、生物碱等；而 “amino” 专指含有氨基（–NH₂）的化合物，是 “nitrogenous” 的一个子集。所有氨基化合物都是含氮的，但并非所有含氮化合物都含氨基。"
+      "analysis": "“Nitrogenous”（含氮的）是一个更宽泛的术语，泛指任何含有氮元素的化合物，如核酸、嘌呤、生物碱等；而 “amino” 专指含有氨基（–NH₂）的化合物，范围更窄、更具体。所有氨基化合物都是含氮的，但并非所有含氮化合物都含氨基。"
+    },
+    {
+      "word_to_compare": "organic",
+      "analysis": "“Organic”（有机的）指含碳的化合物，是一个极其宽泛的化学分类；而 “amino” 是一个功能基团层面的描述，仅强调分子中是否存在氨基。一个化合物可以是有机的但不含氨基（如葡萄糖），也可以是氨基化合物但属于有机物。两者属于不同层级的分类标准。"
     }
   ]
 }

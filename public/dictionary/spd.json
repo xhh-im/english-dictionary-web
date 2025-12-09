@@ -1,45 +1,49 @@
 {
   "word": "spd",
   "pronunciation": "spd",
-  "concise_definition": "n. 速度, 每分钟转数, 速度单位",
+  "concise_definition": "n. 速度, 每分钟转数, 速度单位（缩写）",
   "forms": {
-    "abbreviation": true
+    "full_forms": [
+      "speed",
+      "revolutions per minute (rpm)",
+      "samples per second"
+    ]
   },
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "An abbreviation for 'speed', commonly used in technical, automotive, or computing contexts to denote the rate of motion or operation.",
-      "explanation_cn": "‘speed’ 的缩写，常用于技术、汽车或计算机语境中，表示运动或运行的速率。",
-      "example_en": "The car's SPD sensor monitors how fast the wheels are rotating.",
-      "example_cn": "汽车的 SPD 传感器监测车轮的旋转速度。"
+      "explanation_en": "An abbreviation for 'speed', commonly used in contexts such as computing, transportation, or engineering to denote the rate of motion or operation.",
+      "explanation_cn": "“speed” 的缩写，常用于计算机、交通或工程领域，表示运动或运行的速率。",
+      "example_en": "The hard drive has an SPD of 7200.",
+      "example_cn": "该硬盘的转速为7200。"
     },
     {
       "pos": "noun",
-      "explanation_en": "An abbreviation for 'revolutions per minute' (RPM), especially in older or non-standard technical documentation, referring to the rotational speed of a mechanical component.",
-      "explanation_cn": "在旧式或非标准技术文档中，作为‘每分钟转数’（RPM）的缩写，指机械部件的旋转速度。",
-      "example_en": "The motor runs at 3000 SPD under full load.",
-      "example_cn": "电机在满载时以每分钟 3000 转运行。"
+      "explanation_en": "An abbreviation for 'samples per second', used in digital audio and signal processing to indicate the rate at which analog signals are sampled.",
+      "explanation_cn": "在数字音频和信号处理中，表示每秒采样次数的缩写，用于衡量模拟信号的采样速率。",
+      "example_en": "The audio file was recorded at 44.1 SPD.",
+      "example_cn": "该音频文件以每秒44100次采样率录制。"
     },
     {
       "pos": "noun",
-      "explanation_en": "In computing, an abbreviation for 'seconds per day' in some legacy systems, or occasionally for 'samples per second' in audio or sensor contexts.",
-      "explanation_cn": "在计算机领域，某些旧系统中作为‘每天秒数’的缩写，或在音频/传感器语境中偶尔表示‘每秒采样数’。",
-      "example_en": "The sensor logs data at 100 SPD for continuous monitoring.",
-      "example_cn": "该传感器以每秒 100 次采样率记录数据以实现连续监控。"
+      "explanation_en": "An abbreviation for 'revolutions per minute' (rpm) in some technical contexts, especially in older or non-standard documentation, referring to rotational speed.",
+      "explanation_cn": "在某些技术语境中（尤其在旧式或非标准文档中），作为“每分钟转数”（rpm）的缩写，用于表示旋转速度。",
+      "example_en": "The motor operates at an SPD of 3000.",
+      "example_cn": "该电机的转速为每分钟3000转。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "speed",
-      "analysis": "‘Speed’ 是完整单词，泛指任何运动的快慢，是通用术语；而 ‘spd’ 是其缩写形式，仅用于技术文档、界面或空间受限的场景，不具备正式书面语地位。"
+      "analysis": "“Speed” 是完整词，泛指任何运动的快慢，是通用术语；而 “spd” 是其非正式缩写，仅用于特定技术文档或简写语境中，不具备口语或正式书面语的独立使用能力。"
     },
     {
-      "word_to_compare": "RPM",
-      "analysis": "‘RPM’（revolutions per minute）是旋转速度的标准缩写，广泛用于工程和机械领域；‘spd’ 有时被非正式地用作 RPM 的替代，但缺乏标准化，易引起歧义，不推荐在专业文档中使用。"
+      "word_to_compare": "rpm",
+      "analysis": "“RPM” 是 “revolutions per minute” 的标准缩写，专用于旋转速度，广泛被工程界接受；而 “spd” 在此语境下是模糊的非标准缩写，可能引起歧义，不推荐在正式场合使用。"
     },
     {
-      "word_to_compare": "FPS",
-      "analysis": "‘FPS’（frames per second）是视频和图形领域中表示帧率的标准单位，与 ‘spd’ 在‘每秒采样数’语境下功能类似，但 ‘FPS’ 是明确且被广泛接受的术语，而 ‘spd’ 在此用法中极为罕见且不规范。"
+      "word_to_compare": "sps",
+      "analysis": "“SPS” 是 “samples per second” 的标准缩写，广泛用于数字信号处理领域；而 “spd” 在此含义下属于非标准或错误缩写，可能导致误解，应避免使用。"
     }
   ]
 }

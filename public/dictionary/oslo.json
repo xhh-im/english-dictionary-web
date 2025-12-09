@@ -1,31 +1,38 @@
 {
   "word": "oslo",
-  "pronunciation": "ohs·loh",
+  "pronunciation": "ˈɑːsloʊ",
   "concise_definition": "n. 奥斯陆（挪威首都）",
   "forms": {
-    "proper_noun": true
+    "plural": "oslos"
   },
   "definitions": [
     {
       "pos": "noun",
       "explanation_en": "The capital and largest city of Norway, located on the southern coast at the head of the Oslo Fjord; a major cultural, economic, and political center in Scandinavia.",
-      "explanation_cn": "挪威的首都和最大城市，位于南部海岸、奥斯陆峡湾的顶端；是斯堪的纳维亚地区重要的文化、经济和政治中心。",
-      "example_en": "Oslo is known for its vibrant arts scene, museums like the Viking Ship Museum, and its commitment to sustainability.",
-      "example_cn": "奥斯陆以其活跃的艺术氛围、维京船博物馆等博物馆以及对可持续发展的承诺而闻名。"
+      "explanation_cn": "挪威的首都和最大城市，位于南部海岸、奥斯陆峡湾的顶端，是斯堪的纳维亚地区重要的文化、经济和政治中心。",
+      "example_en": "Oslo is known for its museums, vibrant arts scene, and commitment to sustainability.",
+      "example_cn": "奥斯陆以其博物馆、充满活力的艺术氛围以及对可持续发展的承诺而闻名。"
+    },
+    {
+      "pos": "noun",
+      "explanation_en": "A reference to the Oslo Accords, a series of agreements signed in the city in the 1990s between Israel and the Palestine Liberation Organization, aimed at achieving peace in the Middle East.",
+      "explanation_cn": "指1990年代在该市签署的一系列《奥斯陆协议》，这些协议是以色列与巴勒斯坦解放组织之间为实现中东和平而达成的。",
+      "example_en": "The Oslo Accords marked a historic turning point in Israeli-Palestinian relations.",
+      "example_cn": "《奥斯陆协议》是以巴关系史上的一个历史性转折点。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "copenhagen",
-      "analysis": "“Copenhagen”（哥本哈根）是丹麦的首都，与奥斯陆同为北欧国家的首都，但哥本哈根更以自行车文化、设计和美食著称，而奥斯陆则更强调自然环境、能源创新和历史遗产（如维京文化）。两者都是高福利、高生活品质的城市，但奥斯陆气候更寒冷，地理上更依山傍海。"
+      "analysis": "“Copenhagen”（哥本哈根）是丹麦的首都，与奥斯陆同为北欧国家的政治与文化中心，但哥本哈根更以自行车文化、设计和餐饮闻名，而奥斯陆则更强调自然环境、能源政策与和平外交的象征意义。"
     },
     {
       "word_to_compare": "stockholm",
-      "analysis": "“Stockholm”（斯德哥尔摩）是瑞典的首都，与奥斯陆一样建在群岛之上，拥有相似的北欧城市风貌。但斯德哥尔摩的市中心由14个岛屿组成，桥梁连接，景观更具水城特色；而奥斯陆更注重城市与森林、峡湾的融合，且在政治上更倾向中立与和平外交（如诺贝尔和平奖颁发地）。"
+      "analysis": "“Stockholm”（斯德哥尔摩）是瑞典的首都，与奥斯陆地理相近、文化相似，但斯德哥尔摩由多个岛屿组成，城市景观更具水城特色；奥斯陆则更贴近大陆，且因《奥斯陆协议》在国际政治中拥有独特地位。"
     },
     {
       "word_to_compare": "helsinki",
-      "analysis": "“Helsinki”（赫尔辛基）是芬兰的首都，地理位置更靠近俄罗斯，文化上受芬兰语和斯拉夫影响更深。与奥斯陆相比，赫尔辛基的建筑风格更偏向新古典主义与现代主义，城市规模较小，人口密度更低。奥斯陆作为挪威的政治经济核心，其国际影响力和能源产业（如石油）更为突出。"
+      "analysis": "“Helsinki”（赫尔辛基）是芬兰的首都，虽同为北欧城市，但赫尔辛基受俄罗斯影响更深，建筑风格更具新古典主义色彩；奥斯陆则保留更多维京传统与现代简约主义风格，且在国际和平谈判中更具历史辨识度。"
     }
   ]
 }

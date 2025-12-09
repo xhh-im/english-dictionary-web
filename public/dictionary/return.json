@@ -1,7 +1,7 @@
 {
   "word": "return",
   "pronunciation": "rih·turn",
-  "concise_definition": "v. 返回, 归还, 报告, 产生; n. 返回, 回报, 报告",
+  "concise_definition": "v. 返回, 归还, 报告, 产生; n. 返回, 回报, 选举结果",
   "forms": {
     "third_person_singular": "returns",
     "past_tense": "returned",
@@ -11,78 +11,66 @@
   "definitions": [
     {
       "pos": "verb",
-      "explanation_en": "To go or come back to a place, person, or condition, especially the original or previous location or state.",
-      "explanation_cn": "指回到某个地方、人或状态，尤其是原来的或先前的位置或状态。",
+      "explanation_en": "To go or come back to a place, person, or condition, especially the original or starting point.",
+      "explanation_cn": "指回到某个地方、某人或某种状态，尤其是原来的地点或起点。",
       "example_en": "She will return to her hometown next month.",
       "example_cn": "她下个月将返回家乡。"
     },
     {
       "pos": "verb",
-      "explanation_en": "To give something back to its original owner, place, or condition.",
-      "explanation_cn": "指将某物归还给其原主、原处或原状。",
+      "explanation_en": "To give something back to its original owner or place, often after borrowing or receiving it.",
+      "explanation_cn": "指将借来或收到的东西归还给原主或原处。",
       "example_en": "Please return the book to the library by Friday.",
-      "example_cn": "请在周五前把书还回图书馆。"
+      "example_cn": "请在周五之前把书还回图书馆。"
     },
     {
       "pos": "verb",
-      "explanation_en": "To produce or yield a result, profit, or outcome, especially in financial or measurable terms.",
-      "explanation_cn": "指产生某种结果、利润或收益，尤指在财务或可衡量的方面。",
+      "explanation_en": "To produce a result, profit, or outcome, especially in financial or measurable terms.",
+      "explanation_cn": "指产生某种结果、利润或收益，尤其在财务或可衡量的方面。",
       "example_en": "The investment returned a 15% profit last year.",
       "example_cn": "这项投资去年带来了15%的利润。"
     },
     {
       "pos": "verb",
-      "explanation_en": "To give a response or reply, especially in a formal or official context.",
-      "explanation_cn": "指作出回应或答复，尤指在正式或官方语境中。",
-      "example_en": "The committee will return its findings by the end of the week.",
-      "example_cn": "委员会将在本周末前提交其调查结果。"
+      "explanation_en": "To give an answer or response, especially in a formal or official context.",
+      "explanation_cn": "指作出答复或回应，尤其在正式或官方语境中。",
+      "example_en": "The committee returned a verdict of not guilty.",
+      "example_cn": "委员会作出了无罪的裁决。"
     },
     {
       "pos": "noun",
-      "explanation_en": "The act of coming or going back to a place, person, or condition.",
-      "explanation_cn": "指回到某个地方、人或状态的行为。",
-      "example_en": "His return after five years abroad was celebrated by the whole family.",
-      "example_cn": "他五年海外归来，全家都为此庆祝。"
+      "explanation_en": "The act of coming or going back; a return journey or trip.",
+      "explanation_cn": "指返回的行为；一次往返旅程。",
+      "example_en": "His return from Europe was delayed due to bad weather.",
+      "example_cn": "由于天气恶劣，他从欧洲返回的行程被推迟了。"
     },
     {
       "pos": "noun",
-      "explanation_en": "The profit, gain, or yield obtained from an investment or action.",
-      "explanation_cn": "指从投资或行动中获得的利润、收益或回报。",
-      "example_en": "The stock has a high return over the long term.",
-      "example_cn": "这只股票长期回报率很高。"
+      "explanation_en": "The amount of profit or gain received from an investment or activity.",
+      "explanation_cn": "指从投资或活动中获得的收益或回报。",
+      "example_en": "The stock has a high return over the past five years.",
+      "example_cn": "这只股票在过去五年中回报率很高。"
     },
     {
       "pos": "noun",
-      "explanation_en": "An official report or result, especially in elections or investigations.",
-      "explanation_cn": "指正式的报告或结果，尤指选举或调查中的结果。",
-      "example_en": "The final return of the election showed a narrow victory.",
-      "example_cn": "选举的最终结果显示出微弱的优势。"
+      "explanation_en": "The official result of an election or vote.",
+      "explanation_cn": "指选举或投票的官方结果。",
+      "example_en": "The final return showed a narrow victory for the incumbent.",
+      "example_cn": "最终计票结果显示现任者以微弱优势获胜。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "come back",
-      "analysis": "“Come back” 是口语化表达，强调物理上的“回来”，语气更随意，常用于日常对话。而 “return” 更正式，适用范围更广，可指抽象概念的回归（如返回状态、归还物品、获得回报）。",
-      "example_en": "He came back from vacation yesterday.",
-      "example_cn": "他昨天度假回来了。"
+      "analysis": "“Come back” 是口语化表达，强调动作的“回来”，常用于日常对话，语义较窄，多指物理位置的返回。而 “return” 更正式，适用范围更广，可指物、信息、结果、状态等的回归，具有更强的抽象性和正式性。"
     },
     {
       "word_to_compare": "give back",
-      "analysis": "“Give back” 强调主动归还或回馈，常用于道德或情感语境（如回馈社会），语气更温情。而 “return” 更中性，可涵盖法律、金融、物理等多领域，如归还物品、返还资金。",
-      "example_en": "She gave back the money she found on the street.",
-      "example_cn": "她把在街上捡到的钱还了回去。"
+      "analysis": "“Give back” 强调归还物品或回馈社会，常带有道德或情感色彩，如感恩、报答。而 “return” 更中性，可指法律、商业或程序上的归还，不一定包含情感因素。例如，return a book（还书）是义务，give back a favor（还人情）则含情感义务。"
     },
     {
       "word_to_compare": "revert",
-      "analysis": "“Revert” 通常指恢复到之前的状态，尤其在技术或程序语境中（如恢复默认设置），带有“逆向变化”的含义，常用于被动或非自愿的回归。而 “return” 更中性，可主动选择回归，且不局限于状态变化。",
-      "example_en": "The system will revert to factory settings after a reset.",
-      "example_cn": "系统重置后将恢复出厂设置。"
-    },
-    {
-      "word_to_compare": "yield",
-      "analysis": "“Yield” 侧重于生产、产出或让步，常用于农业、金融或谈判语境，强调结果的被动性或被迫性（如土地产出作物、一方在谈判中让步）。而 “return” 在表示回报时更强调收益的主动性或可预期性，如投资回报。",
-      "example_en": "The farm yields 500 bushels of corn per acre.",
-      "example_cn": "这个农场每英亩可产出500蒲式耳玉米。"
+      "analysis": "“Revert” (恢复原状) 通常指回到之前的状态或形式，尤其在技术、法律或语言语境中，强调“逆向变化”。它常用于被动或非自愿的回归，如 revert to an old version。而 “return” 更主动，可指有意识地回到某地、某人或某种状态，适用范围更广。"
     }
   ]
 }

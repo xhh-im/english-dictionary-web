@@ -13,31 +13,31 @@
   "definitions": [
     {
       "pos": "noun",
-      "explanation_en": "A feminine given name of Hebrew origin, meaning 'my God is an oath' or 'God's promise'. It has been borne by numerous historical and royal figures, most notably Queen Elizabeth I and II of England.",
-      "explanation_cn": "源自希伯来语的女性名字，意为‘我的上帝是誓言’或‘上帝的应许’。历史上多位著名女性，尤其是英国的伊丽莎白一世和伊丽莎白二世女王，均使用此名。",
-      "example_en": "Queen Elizabeth II reigned for over 70 years, becoming the longest-serving British monarch in history.",
-      "example_cn": "伊丽莎白二世女王统治了七十多年，成为英国历史上在位时间最长的君主。"
+      "explanation_en": "A feminine given name of Hebrew origin, meaning 'my God is an oath' or 'my God is abundance'. It has been borne by numerous queens, saints, and prominent historical figures, especially in English-speaking countries.",
+      "explanation_cn": "源自希伯来语的女性名字，意为‘我的上帝是誓言’或‘我的上帝是丰盛’。该名字在英语国家被多位女王、圣徒和著名历史人物使用。",
+      "example_en": "Queen Elizabeth II reigned over the United Kingdom for over 70 years.",
+      "example_cn": "伊丽莎白二世女王统治英国超过70年。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A name often associated with tradition, dignity, and resilience, commonly used in English-speaking countries and frequently chosen to honor royal lineage or religious heritage.",
-      "explanation_cn": "这个名字常与传统、尊严和坚韧联系在一起，在英语国家广泛使用，常用于纪念王室血统或宗教传统。",
-      "example_en": "Many parents name their daughters Elizabeth to honor their grandmothers or to reflect classical elegance.",
-      "example_cn": "许多父母为女儿取名伊丽莎白，以纪念祖母，或体现古典优雅。"
+      "explanation_en": "A cultural reference to the name associated with grace, tradition, and enduring leadership, often evoking images of British monarchy or classical elegance.",
+      "explanation_cn": "作为文化符号，该名字常与优雅、传统和持久的领导力联系在一起，使人联想到英国王室或古典风范。",
+      "example_en": "She carried herself with an air of Elizabethan poise and dignity.",
+      "example_cn": "她举手投足间流露出伊丽莎白时代的端庄与尊严。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "elise",
-      "analysis": "“Elise” 是 “Elizabeth” 的缩略或变体形式，音节更短，风格更现代简约。它保留了原名的优雅感，但失去了其历史厚重感和王室关联。在正式场合或历史语境中，'Elizabeth' 更具权威性，而 'Elise' 更常用于当代日常命名。"
+      "analysis": "“Elise” 是 “Elizabeth” 的简短形式或变体，音节更少，风格更现代、轻盈，常用于当代命名，缺乏 “Elizabeth” 所承载的历史厚重感和王室象征意义。"
     },
     {
       "word_to_compare": "isabella",
-      "analysis": "“Isabella” 与 “Elizabeth” 同为古典女性名字，均源自希伯来语，且都曾被欧洲王室广泛使用。但 Isabella 更强调‘神圣的誓言’的变体含义，常与西班牙、意大利文化关联，而 Elizabeth 更根植于英国传统，与君主制紧密相连。两者都象征高贵，但 Elizabeth 的政治与历史象征意义更强。"
+      "analysis": "“Isabella” 与 “Elizabeth” 同为古典女性名字，均源自希伯来语，但 “Isabella” 更强调‘神圣的誓言’的变体，流行于西班牙和意大利文化，常与浪漫主义和艺术气质关联，而 “Elizabeth” 更紧密地与英国政治传统和君主制绑定。"
     },
     {
-      "word_to_compare": "liz",
-      "analysis": "“Liz” 是 “Elizabeth” 的非正式昵称，口语化程度高，常用于亲密关系中。它不具备原名的正式性、历史深度或文化重量，仅作为日常称呼使用。在正式文件、历史文献或皇室语境中，必须使用全称 'Elizabeth'。"
+      "word_to_compare": "mary",
+      "analysis": "“Mary” 是基督教世界中最普遍的女性名字之一，源自希伯来语“Miriam”，含义为‘苦涩’或‘受苦的’，具有强烈的宗教和大众性，而 “Elizabeth” 虽也具宗教渊源，但更常与贵族、权力和制度性权威相关联。"
     }
   ]
 }

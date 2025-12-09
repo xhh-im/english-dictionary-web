@@ -3,17 +3,15 @@
   "pronunciation": "koh·ree·uhn",
   "concise_definition": "adj. 韩国的, 朝鲜的; n. 韩语, 韩国人",
   "forms": {
-    "comparative": "",
-    "superlative": "",
     "plural": "koreans"
   },
   "definitions": [
     {
       "pos": "adjective",
-      "explanation_en": "Relating to Korea, its people, language, culture, or territory, including both North and South Korea.",
-      "explanation_cn": "与韩国（包括朝鲜和韩国）及其人民、语言、文化或领土相关的。",
+      "explanation_en": "Relating to Korea, its people, language, culture, or history, including both North and South Korea.",
+      "explanation_cn": "与韩国及其人民、语言、文化或历史相关的，包括朝鲜和韩国。",
       "example_en": "She enjoys watching Korean dramas and listening to K-pop music.",
-      "example_cn": "她喜欢看韩剧并听K-pop音乐。"
+      "example_cn": "她喜欢看韩剧和听韩国流行音乐。"
     },
     {
       "pos": "noun",
@@ -24,24 +22,24 @@
     },
     {
       "pos": "noun",
-      "explanation_en": "A person from Korea, regardless of nationality or residence.",
-      "explanation_cn": "来自韩国的人，不论其国籍或居住地。",
-      "example_en": "Many Koreans live and work in cities like Los Angeles and New York.",
-      "example_cn": "许多韩国人生活在洛杉矶和纽约等城市。"
+      "explanation_en": "A person from Korea, regardless of nationality or ethnicity, typically referring to someone from North or South Korea.",
+      "explanation_cn": "来自韩国的人，不论国籍或族裔，通常指来自朝鲜或韩国的人。",
+      "example_en": "Many Koreans live in major cities around the world, such as Los Angeles and Beijing.",
+      "example_cn": "许多韩国人居住在洛杉矶、北京等世界主要城市。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "japanese",
-      "analysis": "“Japanese”（日语的/日本人）指与日本相关的语言、文化或人群，与“Korean”在地理和文化上相邻但语言系统完全不同。韩语属朝鲜语系，日语属日本语系，两者在语法结构和词汇上虽有历史影响，但无亲缘关系。"
+      "analysis": "“Japanese”（日语/日本人）指日本的语言或民族，与 “Korean” 在地理和文化上相邻，但语言系统完全不同。韩语使用谚文，日语使用汉字、平假名和片假名混合书写；两者在语法结构上虽有相似之处（如主宾谓语序），但词汇和发音系统无直接关联。"
     },
     {
       "word_to_compare": "chinese",
-      "analysis": "“Chinese”（中文的/中国人）指中国语言和文化，使用汉字或拼音书写，而韩语虽曾借用汉字，但现代主要使用表音文字谚文。两者在文字系统、语音结构和历史演变上差异显著，但都受过汉语词汇的深刻影响。"
+      "analysis": "“Chinese”（汉语/中国人）指中国的主要语言和民族，与韩语虽有大量历史借词（尤其在汉字词方面），但韩语是黏着语，汉语是孤立语，语法结构差异显著。韩语的敬语体系比汉语更复杂，且书写系统完全不同（谚文 vs 汉字/拼音）。"
     },
     {
       "word_to_compare": "koreana",
-      "analysis": "“Koreana” 是一个较少使用的名词，特指韩国风格的艺术品、服饰或文化产品，常用于学术或收藏语境（如“Koreana collection”）。而 “Korean” 是通用词，涵盖语言、民族、文化等所有方面，使用范围更广、更标准。"
+      "analysis": "“Koreana” 是一个较少使用的名词，通常用于艺术、文化或学术语境中，指韩国风格的艺术品、传统服饰或文化现象（如 “Koreana” 展览），它不是指语言或民族本身，而是作为文化产品的总称。而 “Korean” 是通用术语，涵盖语言、民族、国家属性等所有层面。"
     }
   ]
 }

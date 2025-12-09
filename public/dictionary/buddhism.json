@@ -1,38 +1,38 @@
 {
   "word": "buddhism",
-  "pronunciation": "bood·iz·uhm",
+  "pronunciation": "boo·diz·uhm",
   "concise_definition": "n. 佛教",
   "forms": {
-    "none": ""
+    "plural": "buddhisms"
   },
   "definitions": [
     {
       "pos": "noun",
       "explanation_en": "A major world religion and philosophical system founded by Siddhartha Gautama (the Buddha) in ancient India, centered on the attainment of enlightenment (nirvana) through the elimination of desire, ignorance, and suffering, following the Four Noble Truths and the Eightfold Path.",
-      "explanation_cn": "一种起源于古印度、由释迦牟尼（佛陀）创立的世界主要宗教与哲学体系，核心在于通过消除欲望、无明与痛苦，依循四圣谛与八正道，达到觉悟（涅槃）。",
+      "explanation_cn": "由古印度的悉达多·乔达摩（佛陀）创立的主要世界宗教与哲学体系，核心在于通过消除欲望、无明与痛苦，依循四圣谛与八正道，达到觉悟（涅槃）。",
       "example_en": "Buddhism teaches that all life involves suffering, and liberation comes from understanding its causes and transcending attachment.",
       "example_cn": "佛教教导说，一切生命皆含痛苦，解脱之道在于理解其根源并超越执着。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A set of cultural, ethical, and meditative practices derived from Buddhist teachings, often practiced independently of religious belief, emphasizing mindfulness, compassion, and inner peace.",
-      "explanation_cn": "一套源自佛教教义的文化、伦理与禅修实践，常在不具宗教信仰的背景下实践，强调正念、慈悲与内心平静。",
-      "example_en": "Many people in the West practice Buddhist meditation for stress reduction, even if they do not identify as Buddhists.",
-      "example_cn": "许多西方人练习佛教禅修以减轻压力，即使他们并不自认为是佛教徒。"
+      "explanation_en": "The collective body of teachings, practices, rituals, and cultural traditions associated with followers of the Buddha across different schools and regions, such as Theravāda, Mahāyāna, and Vajrayāna.",
+      "explanation_cn": "指与佛陀追随者相关的教义、修行、仪式及文化传统的总和，涵盖上座部佛教、大乘佛教与密乘佛教等不同流派与地域传统。",
+      "example_en": "In East Asia, Buddhism has deeply influenced art, architecture, and ethical values for over a thousand years.",
+      "example_cn": "在东亚，佛教千余年来深刻影响了艺术、建筑与伦理价值观。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "hinduism",
-      "analysis": "“Hinduism”（印度教）是起源于印度的多神信仰体系，强调轮回、业报与种姓制度，崇拜众多神祇并重视仪式与祭祀。而 “Buddhism”（佛教）起源于对印度教的改革，否定永恒灵魂与神创论，专注于个人修行与觉悟，不依赖神祇崇拜。"
+      "analysis": "“Hinduism”（印度教）是起源于印度的多神信仰体系，强调种姓制度、吠陀经典与轮回中的业报，崇拜众多神祇如梵天、毗湿奴与湿婆。而 “Buddhism”（佛教）不承认神创论，否定永恒灵魂，主张通过个人修行断除烦恼，其核心是觉悟而非崇拜。"
     },
     {
       "word_to_compare": "taoism",
-      "analysis": "“Taoism”（道教）源于中国，主张顺应自然之道（道），追求无为、柔弱与长生，强调与宇宙和谐共处。而 “Buddhism” 更关注内在心性的转化与痛苦的终结，其核心是四圣谛与禅修实践，而非自然哲学或炼丹术。"
+      "analysis": "“Taoism”（道教）源于中国，主张顺应自然之道（道），追求无为、长生与内在和谐，常与炼丹、符箓、风水等实践结合。而 “Buddhism” 更注重心性修持、因果与解脱，强调出离轮回，其哲学体系更具系统性与逻辑性，且起源于印度。"
     },
     {
       "word_to_compare": "confucianism",
-      "analysis": "“Confucianism”（儒家）是一种以伦理、家庭秩序与社会和谐为核心的道德哲学，强调仁、礼、孝与君子修养。而 “Buddhism” 更侧重个体的解脱与超越轮回，其目标不是社会角色的完善，而是彻底脱离生死循环，达到涅槃。"
+      "analysis": "“Confucianism”（儒家）是一种以伦理、礼制与社会秩序为核心的哲学体系，强调孝道、忠君、仁义与教育，关注现世人际关系与社会治理。而 “Buddhism” 则更关注个体的内在解脱与超越生死，其目标是出离世间，而非完善世间秩序。"
     }
   ]
 }

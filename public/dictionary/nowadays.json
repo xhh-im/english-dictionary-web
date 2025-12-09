@@ -1,9 +1,10 @@
 {
   "word": "nowadays",
-  "pronunciation": "nau·ə·deɪz",
+  "pronunciation": "nau·ə·deyz",
   "concise_definition": "adv. 如今, 现在, 现代",
   "forms": {
-    "no_variants": true
+    "no_plural_form": true,
+    "no_comparative_or_superlative": true
   },
   "definitions": [
     {
@@ -15,24 +16,24 @@
     },
     {
       "pos": "adverb",
-      "explanation_en": "Used to introduce a general statement about contemporary life, often implying a shift from traditional practices or values.",
-      "explanation_cn": "用于引出关于当代生活的概括性陈述，常暗示与传统做法或价值观的转变。",
-      "example_en": "Nowadays, it's common for children to learn coding in elementary school.",
-      "example_cn": "如今，儿童在小学学习编程是很常见的事。"
+      "explanation_en": "Used to introduce a general statement about contemporary life, customs, or conditions that differ from those of earlier times.",
+      "explanation_cn": "用于引出关于当代生活、习俗或状况的概括性陈述，这些通常与过去不同。",
+      "example_en": "Nowadays, it's common to work remotely from home.",
+      "example_cn": "如今，远程居家办公已十分普遍。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "today",
-      "analysis": "“Today” (今天) 指具体的当前日期或当天，语义范围较窄，强调时间点；而 “nowadays” 指的是一个较长期的现代时期，强调时代背景和普遍趋势，更具宏观性和社会性。"
+      "analysis": "“Today” (今天) 指的是具体的“这一天”，语义范围更窄，强调当下这一日。而 “nowadays” 指的是一个较长的“当前时代”，强调的是现代生活方式或普遍趋势，具有更广泛的时间跨度。"
     },
     {
       "word_to_compare": "currently",
-      "analysis": "“Currently” (目前) 强调动作或状态在说话时刻正在进行，常用于描述暂时性或短期的情况；而 “nowadays” 描述的是长期形成的、广泛存在的社会现象或习惯，带有时代特征，不强调即时性。"
+      "analysis": "“Currently” (目前) 更侧重于动作或状态在说话时刻正在进行，常用于描述正在发生的事件或临时状况，语气更正式、更中性。而 “nowadays” 带有社会文化变迁的意味，常用于表达一种时代性的转变，语气更口语化、更具评价性。"
     },
     {
       "word_to_compare": "these days",
-      "analysis": "“These days” 与 “nowadays” 意义非常接近，常可互换，但 “these days” 更口语化、非正式，语气更随意；而 “nowadays” 更正式、书面，常用于学术、新闻或正式论述中。"
+      "analysis": "“These days” (这些日子) 与 “nowadays” 意义几乎完全相同，常可互换，但 “these days” 更口语化、更随意，多用于非正式对话；而 “nowadays” 稍显正式，常见于书面语和演讲中。"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "word": "cheshire",
-  "pronunciation": "chesh-ir",
-  "concise_definition": "adj. 切希尔的（专指英国地名或猫）；n. 切希尔猫",
+  "pronunciation": "chesh·eer",
+  "concise_definition": "adj. 切希尔的（专指英国地名）；n. 切希尔猫（常用于“Cheshire cat”）",
   "forms": {
     "proper_noun": true
   },
@@ -10,29 +10,29 @@
       "pos": "adjective",
       "explanation_en": "Relating to Cheshire, a county in northwest England, known for its cheese, rural landscapes, and historical significance.",
       "explanation_cn": "指英国西北部柴郡（Cheshire）的，该地区以奶酪、乡村风光和历史意义而闻名。",
-      "example_en": "Cheshire cheese is famous for its rich, creamy flavor and distinctive blue veins.",
-      "example_cn": "柴郡奶酪以其浓郁奶油般的风味和独特的蓝色纹路而闻名。"
+      "example_en": "Cheshire cheese is famous for its rich, creamy flavor and distinctive texture.",
+      "example_cn": "切希尔奶酪以其浓郁、奶油般的风味和独特的质地而闻名。"
     },
     {
       "pos": "noun",
-      "explanation_en": "A fictional cat from Lewis Carroll's 'Alice's Adventures in Wonderland,' known for its distinctive wide grin that remains visible even after the rest of its body has disappeared.",
-      "explanation_cn": "指刘易斯·卡罗尔《爱丽丝梦游仙境》中的虚构猫，以其标志性的巨大笑容著称，即使身体其他部分消失后，笑容仍可单独可见。",
-      "example_en": "The Cheshire Cat smiled mysteriously and said, 'We're all mad here.'",
-      "example_cn": "柴郡猫神秘地微笑着说：‘这里人人都疯了。’"
+      "explanation_en": "A reference to the ‘Cheshire Cat’, a fictional character from Lewis Carroll’s ‘Alice’s Adventures in Wonderland’, known for its distinctive wide grin that often remains visible after the rest of its body has disappeared.",
+      "explanation_cn": "指刘易斯·卡罗尔《爱丽丝梦游仙境》中的虚构角色‘切希尔猫’，以其标志性的巨大笑容著称，常在身体其他部分消失后仍保留笑容。",
+      "example_en": "He gave me a Cheshire cat smile after winning the bet.",
+      "example_cn": "他赢了赌注后，冲我露出了切希尔猫般的笑容。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "cat",
-      "analysis": "“Cat” 是通用词，泛指所有猫科动物；而 “Cheshire” 作为名词时特指《爱丽丝梦游仙境》中那个会消失并留下笑容的魔法猫，具有强烈的文学和文化象征意义，不是普通猫的同义词。"
+      "analysis": "“Cat”（猫）是泛指所有猫科动物，而 “Cheshire cat” 是一个特指的文学形象，具有文化象征意义，其核心特征是神秘的微笑，而非生物学意义上的猫。"
     },
     {
-      "word_to_compare": "cheese",
-      "analysis": "“Cheese” 是奶酪的统称；而 “Cheshire” 作为形容词时特指源自英国柴郡的一种特定奶酪，具有地理标志属性。并非所有奶酪都能称为 Cheshire cheese。"
+      "word_to_compare": "smile",
+      "analysis": "“Smile”（微笑）是通用词，描述面部表情；而 “Cheshire cat” 作为名词使用时，特指那种诡异、持久、近乎超现实的微笑，带有文学和象征色彩，远超普通微笑的语义范围。"
     },
     {
-      "word_to_compare": "grin",
-      "analysis": "“Grin” 指一般的咧嘴笑；而 “Cheshire grin” 是一个固定文化短语，专指那种神秘、超现实、持久不散的笑容，源自柴郡猫的形象，具有文学和象征性，比普通 “grin” 更具语境深度。"
+      "word_to_compare": "county",
+      "analysis": "“County”（郡）是行政地理单位，而 “Cheshire” 作为专有名词，特指英国的一个郡，其文化产出（如奶酪、文学形象）使其超越了单纯的地理含义，成为文化符号。"
     }
   ]
 }

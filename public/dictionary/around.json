@@ -2,59 +2,55 @@
   "word": "around",
   "pronunciation": "uh·raund",
   "concise_definition": "prep. 在周围, 在附近; adv. 在周围, 大约, 在四处",
-  "forms": {
-    "comparative": "",
-    "superlative": ""
-  },
   "definitions": [
     {
       "pos": "preposition",
-      "explanation_en": "Indicating position or movement in a circular or surrounding manner, or being near or in the vicinity of something.",
-      "explanation_cn": "表示某物位于另一物的周围，或在某物附近，或围绕某物移动。",
-      "example_en": "The children were running around the playground.",
-      "example_cn": "孩子们在操场上跑来跑去。"
+      "explanation_en": "Surrounding or in the vicinity of a place, person, or thing; indicating location or movement in a circular or general area.",
+      "explanation_cn": "指围绕某地、某人或某物，或在其附近；表示位置或在某一区域内的移动。",
+      "example_en": "The children were running around the garden.",
+      "example_cn": "孩子们在花园里四处奔跑。"
     },
     {
       "pos": "preposition",
-      "explanation_en": "Used to indicate the approximate time, number, or amount when precision is not necessary.",
-      "explanation_cn": "用于表示时间、数量或金额的大致范围，无需精确。",
-      "example_en": "I'll be there around 7 p.m.",
-      "example_cn": "我大约晚上七点到。"
+      "explanation_en": "Used to indicate approximation in time, quantity, or degree, often implying uncertainty or informality.",
+      "explanation_cn": "用于表示时间、数量或程度的大致范围，常带有不确定或非正式的语气。",
+      "example_en": "I'll be there around three o'clock.",
+      "example_cn": "我大约三点到那里。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "Moving or extending in various directions in the vicinity; not in one fixed place.",
-      "explanation_cn": "指在附近四处移动或延伸，不在一个固定位置。",
+      "explanation_en": "In or into different places in the vicinity; moving or being present in various locations nearby.",
+      "explanation_cn": "在附近的不同地方；在周边各处移动或出现。",
       "example_en": "She looked around but saw no one.",
       "example_cn": "她四处张望，却没看到任何人。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "Used to indicate that something is ongoing, in progress, or generally present in a place or situation.",
-      "explanation_cn": "用于表示某事正在进行、存在或普遍发生于某地或某种情境中。",
-      "example_en": "There's a lot of excitement around the new product launch.",
-      "example_cn": "新产品的发布引起了广泛关注。"
+      "explanation_en": "In a circular or rotating motion; turning or moving in a circle.",
+      "explanation_cn": "以圆形或旋转的方式运动；转圈或绕行。",
+      "example_en": "The dancer spun around quickly.",
+      "example_cn": "舞者迅速转了个圈。"
     },
     {
       "pos": "adverb",
-      "explanation_en": "In a circular or rotational motion; turning or revolving.",
-      "explanation_cn": "指做圆周或旋转运动。",
-      "example_en": "The wheel turned around slowly.",
-      "example_cn": "轮子缓慢地转动着。"
+      "explanation_en": "In an informal or casual manner; not strictly formal or official.",
+      "explanation_cn": "以非正式或随意的方式；不拘泥于正式或官方的形式。",
+      "example_en": "We're just hanging around until the meeting starts.",
+      "example_cn": "我们只是闲待着，等会议开始。"
     }
   ],
   "comparison": [
     {
       "word_to_compare": "about",
-      "analysis": "“About” 与 “around” 在表示“大约”时可互换（如 around 10 people / about 10 people），但 “about” 更常用于抽象概念（如 think about it），而 “around” 更强调空间位置或物理环绕。在美式英语中，“around” 更常用于口语表示“在附近”或“四处”。"
-    },
-    {
-      "word_to_compare": "approximately",
-      "analysis": "“Approximately” 是正式用语，专用于精确数值的近似表达，语气严谨，多用于学术或技术语境（如 approximately 3.14）。而 “around” 更口语化、随意，适用于日常交流，不适用于正式写作。"
+      "analysis": "“About” (大约/关于) 与 “around” 在表示“大约”时可互换，如 “around 50 people” 和 “about 50 people”，但 “about” 更常用于抽象概念（如 “about happiness”），而 “around” 更多用于空间或物理位置的环绕。此外，“around” 在口语中更常用于表示“闲逛”或“四处走动”。"
     },
     {
       "word_to_compare": "near",
-      "analysis": "“Near” 仅表示空间上的接近，是静态的，不包含“环绕”或“移动”的含义（如 near the station）。而 “around” 不仅可表示“在附近”，还可表示“在周围”或“四处移动”，语义更丰富。"
+      "analysis": "“Near” (靠近) 强调空间上的接近，通常指距离较短且明确的邻近关系，如 “near the station”。而 “around” 更宽泛，可表示环绕、附近或不确定的范围，不一定紧贴，如 “around the corner” 可能指稍远的转角处。"
+    },
+    {
+      "word_to_compare": "approximately",
+      "analysis": "“Approximately” (近似地) 是正式用语，用于精确语境中表达数量或时间的近似值，如 “The project will take approximately six months”。而 “around” 是口语化表达，语气更随意，常用于日常对话，不适用于学术或正式文件。"
     }
   ]
 }

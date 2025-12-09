@@ -4,9 +4,7 @@
   "concise_definition": "n. 尤利乌斯（人名）",
   "forms": {
     "variant_spelling": [
-      "Julius",
-      "Julio",
-      "Giulio"
+      "Julius"
     ]
   },
   "definitions": [
@@ -19,24 +17,24 @@
     },
     {
       "pos": "noun",
-      "explanation_en": "A personal name used in modern contexts, often chosen for its classical, authoritative, or historical connotations, especially in Western cultures.",
-      "explanation_cn": "在现代语境中用作人名，常因其古典、权威或历史内涵而被选用，尤其在西方文化中。",
-      "example_en": "Julius is a popular name among authors and intellectuals, evoking a sense of wisdom and legacy.",
-      "example_cn": "尤利乌斯是作家和知识分子中流行的名字，令人联想到智慧与传承。"
+      "explanation_en": "Used as a proper name in modern contexts, often chosen for its classical associations with leadership, power, and historical legacy.",
+      "explanation_cn": "在现代语境中用作人名，常因其与领导力、权力和历史传承的古典关联而被选用。",
+      "example_en": "Julius, the CEO of the tech startup, is known for his strategic vision and calm demeanor.",
+      "example_cn": "这家科技初创公司的首席执行官尤利乌斯以他的战略眼光和沉着 demeanor 而闻名。"
     }
   ],
   "comparison": [
     {
-      "word_to_compare": "Julio",
-      "analysis": "“Julio” 是 “Julius” 的西班牙语和葡萄牙语形式，发音和拼写略有不同，常用于拉丁美洲和西班牙语国家。虽然语义相同，但文化语境更偏向现代拉美风格，而 “Julius” 更具古典欧洲历史感。"
+      "word_to_compare": "Julian",
+      "analysis": "“Julian” 是 “Julius” 的形容词形式或衍生名字，常用于指与尤利乌斯家族相关的事物（如 Julian calendar），或作为独立人名使用。它更偏向于形容词性或间接关联，而 “Julius” 是直接的男性人名，更具历史人物的专属感。"
     },
     {
-      "word_to_compare": "Gaius",
-      "analysis": "“Gaius” 是古罗马另一个常见的男性名字，与 “Julius” 同属罗马命名传统，但属于不同氏族（如 Gaius Julius Caesar 中的 Gaius 是个人名，Julius 是氏族名）。两者都是古典名字，但 “Gaius” 更常用于平民或非贵族背景，而 “Julius” 与贵族和权力紧密关联。"
+      "word_to_compare": "Caesar",
+      "analysis": "“Caesar” 是尤利乌斯·凯撒的姓氏，后成为罗马皇帝的头衔，象征最高权力。虽然 “Julius” 是凯撒的名字，但 “Caesar” 已独立演变为权力的代名词（如德语的 “Kaiser”、俄语的 “Царь”）。因此，单独使用 “Julius” 仅指人名，而 “Caesar” 则承载了制度性权威的含义。"
     },
     {
       "word_to_compare": "Augustus",
-      "analysis": "“Augustus” 是尤利乌斯·凯撒的继承者屋大维的尊号，意为“神圣的”或“崇高的”，并非本名，而是政治头衔。虽然常与 “Julius” 关联（如 Julius Caesar → Augustus），但 “Augustus” 是称号而非人名，象征权力的顶峰，而 “Julius” 是血统与出身的标志。"
+      "analysis": "“Augustus” 是尤利乌斯·凯撒的养子和继承人屋大维的尊号，意为“神圣的”“崇高的”，标志着罗马帝国的正式开端。与 “Julius” 相比，后者代表共和制末期的军事强人，而 “Augustus” 代表帝国体制的奠基者，二者在历史角色上形成承继关系，但语义重心不同。"
     }
   ]
 }
