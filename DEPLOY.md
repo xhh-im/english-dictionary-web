@@ -77,7 +77,8 @@ git push
    - 将 Supabase 提供的回调 URL 添加到授权重定向 URI
    - 复制 Client ID 和 Client Secret 到 Supabase
 5. 点击 **Save**
-
+6. 点击左侧菜单的 **Authentication** > **URL Configuration**
+7. 将**Site URL**设置成你的Github部署后的域名，使用自定义域名则设置为自定义域名
 #### 3.4 获取项目凭证
 
 1. 点击左侧菜单的 **Settings** > **API Settings**
